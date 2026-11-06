@@ -40,7 +40,7 @@
 </section>
 
 <section class="card stack-sm" aria-labelledby="aff-h">
-  <h2 id="aff-h">Unofficial</h2>
+  <h2 id="aff-h">Not affiliated with ISU</h2>
   <p class="small">BosaTek Eats is not affiliated with, endorsed by, or operated by Iowa State University or ISU Dining, or by
     Panda Express, Chick-fil-A or Sushi Do. All names and trademarks belong to their owners. Menus, hours, payment rules, plan
     terms and prices can change without notice.</p>

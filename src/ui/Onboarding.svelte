@@ -57,7 +57,7 @@
         <p><strong>Before you start</strong></p>
         <p>Allergen and nutrition info comes from ISU Dining and may be incomplete or out of date. Always confirm with dining staff.</p>
         <p>Calorie targets are rough estimates, not medical or nutrition advice.</p>
-        <p>This is an unofficial student project, not affiliated with Iowa State University or ISU Dining.</p>
+        <p>BosaTek Eats is an independent student project, not affiliated with Iowa State University or ISU Dining.</p>
       </div>
     </div>
   {:else if step === 1}

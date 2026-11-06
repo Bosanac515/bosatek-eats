@@ -41,7 +41,7 @@
 <div class="shell">
   <header class="topbar">
     <div class="topbar-inner">
-      <a class="brand" href="#/"><span class="dot" aria-hidden="true"></span>BosaTek Eats <small>unofficial</small></a>
+      <a class="brand" href="#/"><span class="dot" aria-hidden="true"></span>BosaTek Eats</a>
       {#if route.name !== 'welcome'}
         <nav class="tabs" aria-label="Main">
           <ul>

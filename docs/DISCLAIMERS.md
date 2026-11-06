@@ -28,7 +28,7 @@ pregnant, under 18, managing a medical condition, or with a history of disordere
 doctor or registered dietitian before changing how you eat. ISU Dining offers free dietitian consultations
 to meal plan holders.
 
-## 3. Unofficial project
+## 3. Independent project
 BosaTek Eats is an independent student project by BosaTek. It is **not affiliated with, endorsed by, or operated by Iowa State
 University or ISU Dining**, or by Panda Express, Chick-fil-A or Sushi Do. All names and trademarks belong
 to their owners. Menus, hours, payment rules, plan terms and prices can change without notice and may be

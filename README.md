@@ -1,7 +1,7 @@
 # BosaTek Eats
 
 Meal planner for Iowa State dining, at [eats.bosatek.com](https://eats.bosatek.com).
-Unofficial student project, not affiliated with Iowa State University or ISU Dining.
+Independent student project, not affiliated with Iowa State University or ISU Dining.
 
 ```
 npm ci --ignore-scripts
