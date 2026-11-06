@@ -1,0 +1,4 @@
+{
+  "_note": "Manual corrections applied on top of scraped data. Keyed by slug.",
+  "conversations": {"category": "dining-center", "mealSwipe": true, "_why": "Listed under Express on /locations, but /plans lists it with the dining centers at guest door rates and its menu changes daily."}
+}

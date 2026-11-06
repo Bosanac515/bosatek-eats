@@ -1,0 +1,8 @@
+{
+  "_note": "Scrape cadence (America/Chicago dates). The workflow runs once a day; this decides what each run fetches. Staggered venues each get their own day so runs never bunch up.",
+  "maxRequestsPerRun": 120,
+  "hoursDays": 7,
+  "weekly":    { "weekday": 0, "days": 7, "venues": ["friley-windows", "richardson-court-marketplace", "south-side-eats", "union-drive-marketplace", "conversations"] },
+  "monthly":   { "days": 1, "venues": ["clydes", "hawthorn", "heaping-plato", "lance-and-ellies", "memorial-union-food-court"] },
+  "quarterly": { "days": 1, "venues": ["east-side-express", "lance-and-ellies-express", "west-side-market-express", "whirlybirds-express", "bookends-cafe", "business-cafe", "charging-station", "courtyard-cafe", "design-cafe", "gentle-doctor-cafe", "roasterie", "whirlybirds", "east-side-market", "west-side-market"] }
+}

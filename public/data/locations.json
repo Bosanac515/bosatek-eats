@@ -1,0 +1,606 @@
+[
+ {
+  "slug": "friley-windows",
+  "isuId": 30,
+  "name": "Friley Windows",
+  "category": "dining-center",
+  "listedAs": "dining-center",
+  "building": "Friley Hall",
+  "address": "212 Beyer Ct, Ames, IA 50012",
+  "lat": 42.0239234,
+  "lng": -93.65045,
+  "accepts": [
+   "Credit",
+   "Dining Dollars",
+   "Flex Meal",
+   "ISU Card",
+   "Meal Plan"
+  ],
+  "payment": [
+   "meal-swipe",
+   "flex-meal",
+   "dining-dollars",
+   "pay"
+  ],
+  "source": "isu",
+  "url": "https://dining.iastate.edu/location/friley-windows"
+ },
+ {
+  "slug": "richardson-court-marketplace",
+  "isuId": 23,
+  "name": "Richardson Court Marketplace",
+  "category": "dining-center",
+  "listedAs": "dining-center",
+  "building": "Maple Willow Larch Commons",
+  "address": "224 Beach Rd, Ames, IA 50013",
+  "lat": 42.0238084,
+  "lng": -93.6382529,
+  "accepts": [
+   "Credit",
+   "Dining Dollars",
+   "Flex Meal",
+   "Meal Plan"
+  ],
+  "payment": [
+   "meal-swipe",
+   "flex-meal",
+   "dining-dollars",
+   "pay"
+  ],
+  "source": "isu",
+  "url": "https://dining.iastate.edu/location/richardson-court-marketplace"
+ },
+ {
+  "slug": "south-side-eats",
+  "isuId": 60,
+  "name": "South Side Eats",
+  "category": "dining-center",
+  "listedAs": "dining-center",
+  "building": "Wallace Wilson Commons",
+  "address": "926 Hayward Ave, Ames, IA 50013",
+  "lat": 42.0140269,
+  "lng": -93.6508287,
+  "accepts": [
+   "Meal Plan"
+  ],
+  "payment": [
+   "meal-swipe"
+  ],
+  "source": "isu",
+  "url": "https://dining.iastate.edu/location/south-side-eats"
+ },
+ {
+  "slug": "union-drive-marketplace",
+  "isuId": 39,
+  "name": "Union Drive Marketplace",
+  "category": "dining-center",
+  "listedAs": "dining-center",
+  "building": "Union Drive Community Center",
+  "address": "207 Beyer Ct, Ames, IA 50012",
+  "lat": 42.0249565,
+  "lng": -93.6515007,
+  "accepts": [
+   "Credit",
+   "Dining Dollars",
+   "Flex Meal",
+   "Meal Plan"
+  ],
+  "payment": [
+   "meal-swipe",
+   "flex-meal",
+   "dining-dollars",
+   "pay"
+  ],
+  "source": "isu",
+  "url": "https://dining.iastate.edu/location/union-drive-marketplace"
+ },
+ {
+  "slug": "clydes",
+  "isuId": 38,
+  "name": "Clyde's",
+  "category": "fast-casual",
+  "listedAs": "fast-casual",
+  "building": "Union Drive Community Center",
+  "address": "207 Beyer Ct, Ames, IA 50011",
+  "lat": 42.0249565,
+  "lng": -93.6515007,
+  "accepts": [
+   "Credit",
+   "Dining Dollars",
+   "Flex Meal"
+  ],
+  "payment": [
+   "flex-meal",
+   "dining-dollars",
+   "pay"
+  ],
+  "source": "isu",
+  "url": "https://dining.iastate.edu/location/clydes"
+ },
+ {
+  "slug": "hawthorn",
+  "isuId": 8,
+  "name": "Hawthorn",
+  "category": "fast-casual",
+  "listedAs": "fast-casual",
+  "building": "Frederiksen Court Community Center",
+  "address": "2129 Hawthorn Court Dr, Ames, IA 50011",
+  "lat": 42.0339213,
+  "lng": -93.6429145,
+  "accepts": [
+   "Credit",
+   "Dining Dollars",
+   "Flex Meal"
+  ],
+  "payment": [
+   "flex-meal",
+   "dining-dollars",
+   "pay"
+  ],
+  "source": "isu",
+  "url": "https://dining.iastate.edu/location/hawthorn"
+ },
+ {
+  "slug": "heaping-plato",
+  "isuId": 22,
+  "name": "Heaping Plato",
+  "category": "fast-casual",
+  "listedAs": "fast-casual",
+  "building": "Hub",
+  "address": "605 Morrill Rd, Ames, IA 50011",
+  "lat": 42.0272385,
+  "lng": -93.6484556,
+  "accepts": [
+   "Credit",
+   "Dining Dollars",
+   "Flex Meal"
+  ],
+  "payment": [
+   "flex-meal",
+   "dining-dollars",
+   "pay"
+  ],
+  "source": "isu",
+  "url": "https://dining.iastate.edu/location/heaping-plato"
+ },
+ {
+  "slug": "lance-and-ellies",
+  "isuId": 19,
+  "name": "Lance and Ellie's",
+  "category": "fast-casual",
+  "listedAs": "fast-casual",
+  "building": "Memorial Union",
+  "address": "2229 Lincoln Way, Ames, IA 50014",
+  "lat": 42.0235144,
+  "lng": -93.6456354,
+  "accepts": [
+   "Credit",
+   "Dining Dollars",
+   "Flex Meal"
+  ],
+  "payment": [
+   "flex-meal",
+   "dining-dollars",
+   "pay"
+  ],
+  "source": "isu",
+  "url": "https://dining.iastate.edu/location/lance-and-ellies"
+ },
+ {
+  "slug": "memorial-union-food-court",
+  "isuId": 11,
+  "name": "Memorial Union Food Court",
+  "category": "fast-casual",
+  "listedAs": "fast-casual",
+  "building": "Memorial Union",
+  "address": "2229 Lincoln Way, Ames, IA 50014",
+  "lat": 42.0235144,
+  "lng": -93.6456354,
+  "accepts": [
+   "Credit",
+   "Dining Dollars",
+   "Flex Meal"
+  ],
+  "payment": [
+   "flex-meal",
+   "dining-dollars",
+   "pay"
+  ],
+  "source": "isu",
+  "url": "https://dining.iastate.edu/location/memorial-union-food-court"
+ },
+ {
+  "slug": "conversations",
+  "isuId": 1,
+  "name": "Conversations",
+  "category": "dining-center",
+  "listedAs": "express",
+  "building": "Oak Elm Residence",
+  "address": "455 Richardson Ct, Ames, IA 50013",
+  "lat": 42.0251392,
+  "lng": -93.6403311,
+  "accepts": [
+   "Credit",
+   "Dining Dollars",
+   "ISU Card",
+   "Meal Plan"
+  ],
+  "payment": [
+   "meal-swipe",
+   "dining-dollars",
+   "pay"
+  ],
+  "source": "isu",
+  "url": "https://dining.iastate.edu/location/conversations"
+ },
+ {
+  "slug": "east-side-express",
+  "isuId": 59,
+  "name": "East Side Market Express",
+  "category": "express",
+  "listedAs": "express",
+  "building": "Maple-Willow-Larch Commons",
+  "address": "224 Beach Rd, Ames, IA 50013",
+  "lat": 42.0238084,
+  "lng": -93.6382529,
+  "accepts": [
+   "Meal Plan"
+  ],
+  "payment": [
+   "express-meal"
+  ],
+  "source": "isu",
+  "url": "https://dining.iastate.edu/location/east-side-express"
+ },
+ {
+  "slug": "lance-and-ellies-express",
+  "isuId": 20,
+  "name": "Lance and Ellie's Express",
+  "category": "express",
+  "listedAs": "express",
+  "building": "Memorial Union",
+  "address": "2229 Lincoln Way, Ames, IA 50014",
+  "lat": 42.0235144,
+  "lng": -93.6456354,
+  "accepts": [
+   "Meal Plan"
+  ],
+  "payment": [
+   "express-meal"
+  ],
+  "source": "isu",
+  "url": "https://dining.iastate.edu/location/lance-and-ellies-express"
+ },
+ {
+  "slug": "west-side-market-express",
+  "isuId": 57,
+  "name": "West Side Market Express",
+  "category": "express",
+  "listedAs": "express",
+  "building": "Union Drive Community Center",
+  "address": "207 Beyer Ct, Ames, IA 50012",
+  "lat": 42.0249565,
+  "lng": -93.6515007,
+  "accepts": [
+   "Meal Plan"
+  ],
+  "payment": [
+   "express-meal"
+  ],
+  "source": "isu",
+  "url": "https://dining.iastate.edu/location/west-side-market-express"
+ },
+ {
+  "slug": "whirlybirds-express",
+  "isuId": 55,
+  "name": "Whirlybird's Express",
+  "category": "express",
+  "listedAs": "express",
+  "building": "State Gymnasium",
+  "address": "2642 Union Dr, Ames, IA 50011",
+  "lat": 42.0246748,
+  "lng": -93.6538021,
+  "accepts": [
+   "Meal Plan"
+  ],
+  "payment": [
+   "express-meal"
+  ],
+  "source": "isu",
+  "url": "https://dining.iastate.edu/location/whirlybirds-express"
+ },
+ {
+  "slug": "bookends-cafe",
+  "isuId": 48,
+  "name": "Bookends Cafe",
+  "category": "cafe",
+  "listedAs": "cafe",
+  "building": "Parks Library",
+  "address": "701 Morrill Rd, Ames, IA 50011",
+  "lat": 42.0281648,
+  "lng": -93.6487947,
+  "accepts": [
+   "Credit",
+   "Dining Dollars",
+   "Flex Meal"
+  ],
+  "payment": [
+   "flex-meal",
+   "dining-dollars",
+   "pay"
+  ],
+  "source": "isu",
+  "url": "https://dining.iastate.edu/location/bookends-cafe"
+ },
+ {
+  "slug": "business-cafe",
+  "isuId": 49,
+  "name": "Business Cafe",
+  "category": "cafe",
+  "listedAs": "cafe",
+  "building": "Gerdin Business Building",
+  "address": "2167 Union Dr, Ames, IA 50011",
+  "lat": 42.0254011,
+  "lng": -93.6444688,
+  "accepts": [
+   "Credit",
+   "Dining Dollars",
+   "Flex Meal"
+  ],
+  "payment": [
+   "flex-meal",
+   "dining-dollars",
+   "pay"
+  ],
+  "source": "isu",
+  "url": "https://dining.iastate.edu/location/business-cafe"
+ },
+ {
+  "slug": "charging-station",
+  "isuId": 10,
+  "name": "Charging Station",
+  "category": "cafe",
+  "listedAs": "cafe",
+  "building": "Memorial Union Food Court",
+  "address": "2229 Lincoln Way, Ames, IA 50014",
+  "lat": 42.0235144,
+  "lng": -93.6456354,
+  "accepts": [
+   "Credit",
+   "Dining Dollars",
+   "Flex Meal"
+  ],
+  "payment": [
+   "flex-meal",
+   "dining-dollars",
+   "pay"
+  ],
+  "source": "isu",
+  "url": "https://dining.iastate.edu/location/charging-station"
+ },
+ {
+  "slug": "courtyard-cafe",
+  "isuId": 50,
+  "name": "Courtyard Cafe",
+  "category": "cafe",
+  "listedAs": "cafe",
+  "building": "Lagomarcino Hall",
+  "address": "901 Stange Rd, Ames, IA 50011",
+  "lat": 42.0297367,
+  "lng": -93.6456391,
+  "accepts": [
+   "Credit",
+   "Dining Dollars",
+   "Flex Meal"
+  ],
+  "payment": [
+   "flex-meal",
+   "dining-dollars",
+   "pay"
+  ],
+  "source": "isu",
+  "url": "https://dining.iastate.edu/location/courtyard-cafe"
+ },
+ {
+  "slug": "design-cafe",
+  "isuId": 51,
+  "name": "Design Cafe",
+  "category": "cafe",
+  "listedAs": "cafe",
+  "building": "College of Design",
+  "address": "715 Bissell Rd, Ames, IA 50011",
+  "lat": 42.0285641,
+  "lng": -93.6531506,
+  "accepts": [
+   "Credit",
+   "Dining Dollars",
+   "Flex Meal"
+  ],
+  "payment": [
+   "flex-meal",
+   "dining-dollars",
+   "pay"
+  ],
+  "source": "isu",
+  "url": "https://dining.iastate.edu/location/design-cafe"
+ },
+ {
+  "slug": "gentle-doctor-cafe",
+  "isuId": 52,
+  "name": "Gentle Doctor Cafe",
+  "category": "cafe",
+  "listedAs": "cafe",
+  "building": "Veterinary Medicine",
+  "address": "1800 Christensen Dr, Ames, IA 50011",
+  "lat": 42.0067073,
+  "lng": -93.6323694,
+  "accepts": [
+   "Credit",
+   "Dining Dollars",
+   "Flex Meal"
+  ],
+  "payment": [
+   "flex-meal",
+   "dining-dollars",
+   "pay"
+  ],
+  "source": "isu",
+  "url": "https://dining.iastate.edu/location/gentle-doctor-cafe"
+ },
+ {
+  "slug": "roasterie",
+  "isuId": 21,
+  "name": "The Roasterie",
+  "category": "cafe",
+  "listedAs": "cafe",
+  "building": "Hub",
+  "address": "605 Morrill Rd, Ames, IA 50011",
+  "lat": 42.0272385,
+  "lng": -93.6484556,
+  "accepts": [
+   "Credit",
+   "Dining Dollars",
+   "Flex Meal"
+  ],
+  "payment": [
+   "flex-meal",
+   "dining-dollars",
+   "pay"
+  ],
+  "source": "isu",
+  "url": "https://dining.iastate.edu/location/roasterie"
+ },
+ {
+  "slug": "whirlybirds",
+  "isuId": 54,
+  "name": "Whirlybird's",
+  "category": "cafe",
+  "listedAs": "cafe",
+  "building": "State Gymnasium",
+  "address": "2642 Union Dr, Ames, IA 50011",
+  "lat": 42.0246748,
+  "lng": -93.6538021,
+  "accepts": [
+   "Credit",
+   "Dining Dollars",
+   "Flex Meal"
+  ],
+  "payment": [
+   "flex-meal",
+   "dining-dollars",
+   "pay"
+  ],
+  "source": "isu",
+  "url": "https://dining.iastate.edu/location/whirlybirds"
+ },
+ {
+  "slug": "east-side-market",
+  "isuId": 58,
+  "name": "East Side Market",
+  "category": "convenience-store",
+  "listedAs": "convenience-store",
+  "building": "Maple Willow Larch Commons",
+  "address": "224 Beach Rd, Ames, IA 50013",
+  "lat": 42.0238084,
+  "lng": -93.6382529,
+  "accepts": [
+   "Credit",
+   "Dining Dollars",
+   "Flex Meal"
+  ],
+  "payment": [
+   "flex-meal",
+   "dining-dollars",
+   "pay"
+  ],
+  "source": "isu",
+  "url": "https://dining.iastate.edu/location/east-side-market"
+ },
+ {
+  "slug": "west-side-market",
+  "isuId": 56,
+  "name": "West Side Market",
+  "category": "convenience-store",
+  "listedAs": "convenience-store",
+  "building": "Union Drive Community Center",
+  "address": "207 Beyer Ct, Ames, IA 50012",
+  "lat": 42.0249565,
+  "lng": -93.6515007,
+  "accepts": [
+   "Credit",
+   "Dining Dollars",
+   "Flex Meal",
+   "ISU Card"
+  ],
+  "payment": [
+   "flex-meal",
+   "dining-dollars",
+   "pay"
+  ],
+  "source": "isu",
+  "url": "https://dining.iastate.edu/location/west-side-market"
+ },
+ {
+  "slug": "mu-panda-express",
+  "isuId": null,
+  "name": "Panda Express",
+  "category": "fast-casual",
+  "listedAs": null,
+  "building": "Memorial Union",
+  "address": "2229 Lincoln Way, Ames, IA 50014",
+  "lat": 42.0235144,
+  "lng": -93.6456354,
+  "accepts": [
+   "Cash",
+   "Dining Dollars"
+  ],
+  "payment": [
+   "dining-dollars",
+   "pay"
+  ],
+  "source": "manual",
+  "url": "https://www.pandaexpress.com/location/iowa-state-u-px/menu"
+ },
+ {
+  "slug": "mu-chick-fil-a",
+  "isuId": null,
+  "name": "Chick-fil-A",
+  "category": "fast-casual",
+  "listedAs": null,
+  "building": "Memorial Union",
+  "address": "2229 Lincoln Way, Ames, IA 50014",
+  "lat": 42.0235144,
+  "lng": -93.6456354,
+  "accepts": [
+   "Cash",
+   "Dining Dollars"
+  ],
+  "payment": [
+   "dining-dollars",
+   "pay"
+  ],
+  "source": "manual",
+  "url": "https://order.chick-fil-a.com/menu"
+ },
+ {
+  "slug": "mu-sushi-do",
+  "isuId": null,
+  "name": "Sushi Do",
+  "category": "fast-casual",
+  "listedAs": null,
+  "building": "Memorial Union",
+  "address": "2229 Lincoln Way, Ames, IA 50014",
+  "lat": 42.0235144,
+  "lng": -93.6456354,
+  "accepts": [
+   "Cash",
+   "Dining Dollars"
+  ],
+  "payment": [
+   "dining-dollars",
+   "pay"
+  ],
+  "source": "manual",
+  "url": "https://www.mu.iastate.edu/dining-and-retail"
+ }
+]

@@ -1,0 +1,15 @@
+{
+  "_note": "Memorial Union tenants not in ISU Dining's API. Hours hand-entered from Google listings / user; refresh by hand.",
+  "verified": "2026-11-05",
+  "venues": [
+    {"slug": "mu-panda-express", "name": "Panda Express", "category": "fast-casual", "building": "Memorial Union",
+     "accepts": ["Dining Dollars", "Cash"], "menuUrl": "https://www.pandaexpress.com/location/iowa-state-u-px/menu",
+     "hours": {"mon": [["10:30","20:00"]], "tue": [["10:30","20:00"]], "wed": [["10:30","20:00"]], "thu": [["10:30","20:00"]], "fri": [["10:30","20:00"]], "sat": [], "sun": []}},
+    {"slug": "mu-chick-fil-a", "name": "Chick-fil-A", "category": "fast-casual", "building": "Memorial Union",
+     "accepts": ["Dining Dollars", "Cash"], "menuUrl": "https://order.chick-fil-a.com/menu",
+     "hours": {"mon": [["10:00","19:00"]], "tue": [["10:00","19:00"]], "wed": [["10:00","19:00"]], "thu": [["10:00","19:00"]], "fri": [["10:00","15:00"]], "sat": [], "sun": []}},
+    {"slug": "mu-sushi-do", "name": "Sushi Do", "category": "fast-casual", "building": "Memorial Union",
+     "accepts": ["Dining Dollars", "Cash"], "menuUrl": "https://www.mu.iastate.edu/dining-and-retail",
+     "hours": {"mon": [["10:00","17:00"]], "tue": [["10:00","17:00"]], "wed": [["10:00","17:00"]], "thu": [["10:00","17:00"]], "fri": [["10:00","15:00"]], "sat": [], "sun": []}}
+  ]
+}

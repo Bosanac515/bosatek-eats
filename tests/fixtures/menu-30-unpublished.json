@@ -1,0 +1,1 @@
+{"meals": {"6": {"oid": "6", "meal": "Lunch", "date": "2026-11-13"}, "4": {"oid": "4", "meal": "Dinner", "date": "2026-11-13"}}, "hours": {"2026-11-13": [{"day": 5, "all_day": false, "starthours": 1030, "endhours": 1500, "comment": "Lunch"}, {"day": 5, "all_day": false, "starthours": 1500, "endhours": 2000, "comment": "Dinner"}]}}

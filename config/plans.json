@@ -1,0 +1,33 @@
+{
+  "season": "2026-27",
+  "source": "https://dining.iastate.edu/plans (fetched 2026-11-05)",
+  "defaultPlan": "cardinal",
+  "flexMealCap": 13.75,
+  "plans": [
+    {"id": "cardinal", "name": "Cardinal", "diningCenterMeals": "unlimited",
+     "expressPerDay": 2, "expressDrawsFromSwipes": false,
+     "flexMeals": false, "flexMealsVerified": false,
+     "diningDollars": 250, "guestMeals": 5, "rate": {"semester": 2736, "year": 5472}},
+    {"id": "gold", "name": "Gold", "diningCenterMeals": 210,
+     "expressPerDay": 2, "expressDrawsFromSwipes": true,
+     "flexMeals": false, "flexMealsVerified": false,
+     "diningDollars": 250, "guestMeals": "use swipes or dining dollars (from 210)", "rate": {"semester": 2570, "year": 5140}},
+    {"id": "campanile", "name": "Campanile", "diningCenterMeals": 135,
+     "expressPerDay": 2, "expressDrawsFromSwipes": true,
+     "flexMeals": true, "flexMealsVerified": true,
+     "diningDollars": 250, "guestMeals": "use swipes or dining dollars (from 135)", "rate": {"semester": 2103, "year": 4206}}
+  ],
+  "blocks": [
+    {"id": "block-100", "meals": 100, "price": 1378},
+    {"id": "block-50", "meals": 50, "price": 703},
+    {"id": "block-25", "meals": 25, "price": 360}
+  ],
+  "blockRules": "Each block meal is a dining center swipe or a Flex Meal (up to flexMealCap). Blocks expire at the end of spring.",
+  "diningDollarsRules": "Roll over from fall, expire at the end of spring.",
+  "diningDollarsDiscounts": [
+    {"min": 600, "pricePerDollar": 0.90},
+    {"min": 400, "pricePerDollar": 0.93},
+    {"min": 200, "pricePerDollar": 0.95},
+    {"min": 10, "pricePerDollar": 1.00}
+  ]
+}

@@ -1,0 +1,53 @@
+name: Scrape
+on:
+  schedule:
+    - cron: '17 10 * * *' # once a day, ~4-5 AM in Ames; config/schedule.json decides what is fetched
+  workflow_dispatch:
+    inputs:
+      locations:
+        description: Also re-read /locations and every venue page (25 extra requests)
+        type: boolean
+        default: false
+permissions: {}
+concurrency:
+  group: scrape
+  cancel-in-progress: false
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false # the token is only handed to the final git push
+      - uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7.1.0
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci --ignore-scripts
+      - id: scrape
+        continue-on-error: true # meta.json still records the failure; last good data is kept
+        run: npm run scrape -- ${{ inputs.locations && '--locations' || '' }}
+      - name: Commit data
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          git add public/data
+          if git diff --cached --quiet; then echo "no data changes"; exit 0; fi
+          git -c user.name="github-actions[bot]" -c user.email="41898282+github-actions[bot]@users.noreply.github.com" \
+            commit -m "data: scheduled update $(date -u +%Y-%m-%d)"
+          git push "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" HEAD:main
+      - if: steps.scrape.outcome == 'failure'
+        run: |
+          echo "::error::Scrape failed; the site keeps the last good data. See public/data/meta.json."
+          exit 1
+  deploy:
+    needs: scrape
+    if: always()
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    uses: ./.github/workflows/deploy.yml
