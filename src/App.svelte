@@ -1,67 +1,77 @@
 <script lang="ts">
-  // Build phase 1 shell: proves the data pipeline end to end. Onboarding, "Eat next",
-  // menus and plans arrive in later build phases.
-  import { CATEGORIES, type Category, type Hours, type Location, type Meta } from './data/types';
-  import { fmtTime, isStale, loadHours, loadLocations, loadMeta, openNow, slotsToday } from './lib/data';
+  import { app, init } from './lib/app.svelte';
+  import { isStale } from './lib/data';
+  import About from './ui/About.svelte';
+  import DayPlan from './ui/DayPlan.svelte';
+  import EatNext from './ui/EatNext.svelte';
+  import Onboarding from './ui/Onboarding.svelte';
+  import Places from './ui/Places.svelte';
+  import Profile from './ui/Profile.svelte';
+  import Venue from './ui/Venue.svelte';
 
-  const LABELS: Record<Category, string> = {
-    'dining-center': 'Dining centers', express: 'Express', 'fast-casual': 'Fast casual',
-    cafe: 'Cafes', 'convenience-store': 'Convenience stores',
-  };
+  const TABS = [
+    ['#/', 'Eat next', '🍽️'], ['#/places', 'Places', '📍'], ['#/plan', 'Plan', '🗓️'], ['#/profile', 'Profile', '👤'],
+  ] as const;
 
-  let data = $state<{ locs: Location[]; hours: Hours; meta: Meta } | null>(null);
-  let error = $state<string | null>(null);
+  let hash = $state(location.hash || '#/');
+  let main: HTMLElement | undefined = $state();
+  addEventListener('hashchange', () => {
+    hash = location.hash || '#/';
+    scrollTo(0, 0);
+    // Move focus to the new page's heading so screen readers announce the change.
+    queueMicrotask(() => main?.querySelector<HTMLElement>('h1')?.focus());
+  });
+  init();
 
-  Promise.all([loadLocations(), loadHours(), loadMeta()])
-    .then(([locs, hours, meta]) => (data = { locs, hours, meta }))
-    .catch((e: Error) => (error = e.message));
-
-  const hoursText = (h: Hours, l: Location) => {
-    const s = slotsToday(h, l);
-    if (!s) return 'Hours unknown';
-    if (!s.length) return 'Closed today';
-    return s.map((x) => `${x.period ? `${x.period} ` : ''}${fmtTime(x.start)}–${fmtTime(x.end)}`).join(', ');
-  };
+  const route = $derived.by(() => {
+    if (!app.profile.onboarded || hash === '#/welcome') return { name: 'welcome' as const };
+    const m = /^#\/place\/([a-z0-9-]{1,60})$/.exec(hash);
+    if (m) return { name: 'place' as const, slug: m[1] };
+    const name = ({ '#/': 'home', '#/places': 'places', '#/plan': 'plan', '#/profile': 'profile', '#/about': 'about' } as const)[hash] ?? 'home';
+    return { name };
+  });
+  const tabFor = $derived(route.name === 'place' ? '#/places' : route.name === 'about' ? '#/profile' : hash);
+  $effect(() => {
+    const titles = { welcome: 'Welcome', home: 'Eat next', places: 'Places', plan: 'Plan a day', profile: 'Profile', about: 'About', place: 'Menu' };
+    document.title = `${titles[route.name]} · BosaTek Eats`;
+  });
 </script>
 
-<main>
-  <h1>BosaTek Eats</h1>
-  <p class="muted">Iowa State dining hours and menus. Unofficial student project.</p>
-
-  {#if error}
-    <p class="warn" role="alert">Couldn't load dining data ({error}). Check dining.iastate.edu directly.</p>
-  {:else if !data}
-    <p aria-live="polite">Loading…</p>
-  {:else}
-    {@const { locs, hours, meta } = data}
-    <p class="muted">Data updated {new Date(meta.lastSuccess ?? meta.lastAttempt).toLocaleString()}</p>
-    {#if isStale(meta)}
-      <p class="warn" role="status">This data may be out of date. Confirm hours on dining.iastate.edu.</p>
-    {/if}
-
-    {#each CATEGORIES as cat (cat)}
-      {@const group = locs.filter((l) => l.category === cat)}
-      {#if group.length}
-        <section aria-labelledby="h-{cat}">
-          <h2 id="h-{cat}">{LABELS[cat]}</h2>
-          <ul class="venues">
-            {#each group as l (l.slug)}
-              <li>
-                <div class="row">
-                  <strong>{l.name}</strong>
-                  {#if openNow(hours, l)}<span class="open">Open now</span>{/if}
-                </div>
-                <div class="muted">{l.building ?? ''} · {hoursText(hours, l)}</div>
-              </li>
+<a class="skip" href="#main" onclick={(e) => { e.preventDefault(); main?.focus(); }}>Skip to content</a>
+<div class="shell">
+  <header class="topbar">
+    <div class="topbar-inner">
+      <a class="brand" href="#/"><span class="dot" aria-hidden="true"></span>BosaTek Eats <small>unofficial</small></a>
+      {#if route.name !== 'welcome'}
+        <nav class="tabs" aria-label="Main">
+          <ul>
+            {#each TABS as [href, label, icon] (href)}
+              <li><a {href} aria-current={tabFor === href ? 'page' : undefined}><span class="ico" aria-hidden="true">{icon}</span>{label}</a></li>
             {/each}
           </ul>
-        </section>
+        </nav>
       {/if}
-    {/each}
-  {/if}
+    </div>
+  </header>
 
-  <footer>
-    <p>Allergen and nutrition info comes from ISU Dining and may be incomplete or out of date. Always confirm with dining staff.</p>
-    <p>BosaTek Eats is not affiliated with or endorsed by Iowa State University or ISU Dining. Provided as is, without warranty. Nothing you enter leaves your device.</p>
-  </footer>
-</main>
+  <main id="main" tabindex="-1" bind:this={main}>
+    {#if app.error}
+      <div class="page-head"><h1 tabindex="-1">Couldn't load dining data</h1></div>
+      <p class="warn" role="alert">{app.error}. Check your connection, or see dining.iastate.edu directly.</p>
+    {:else if route.name === 'welcome'}
+      <Onboarding />
+    {:else if !app.ready}
+      <p class="muted" aria-live="polite">Loading…</p>
+    {:else}
+      {#if app.meta && isStale(app.meta)}
+        <p class="warn" role="status">Dining data may be out of date. Confirm hours on <a href="https://dining.iastate.edu" rel="noopener noreferrer" target="_blank">dining.iastate.edu</a>.</p>
+      {/if}
+      {#if route.name === 'home'}<EatNext />
+      {:else if route.name === 'places'}<Places />
+      {:else if route.name === 'place'}<Venue slug={route.slug} />
+      {:else if route.name === 'plan'}<DayPlan />
+      {:else if route.name === 'profile'}<Profile />
+      {:else}<About />{/if}
+    {/if}
+  </main>
+</div>
