@@ -1,0 +1,1020 @@
+{
+ "venue": "roasterie",
+ "fetchedAt": "2026-11-06T17:29:21.696Z",
+ "fixed": true,
+ "items": [
+  {
+   "id": "301221493",
+   "name": "Chocolate Chip Bagel",
+   "station": "Bakery",
+   "category": "Bagels",
+   "mealPeriod": "Bakery Menu",
+   "date": "2026-11-06",
+   "servingSize": "Bagel",
+   "servingGrams": 96,
+   "calories": 237,
+   "proteinG": 8.04,
+   "carbsG": 45.29,
+   "fatG": 2.3,
+   "fiberG": 1.9,
+   "sugarG": 6.22,
+   "sodiumMg": 614,
+   "diet": [
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy",
+    "soy",
+    "wheat-gluten"
+   ],
+   "ingredients": "High Gluten Flour (Bleached Wheat Flour Enriched (Bleached Wheat Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Malted Barley Flour, Potassium Bromate. Contains Wheat.), Water, Mini Semi Sweet Chocolate Chips (Sugar, Chocolate Liquor, Cocoa Butter, Butterfat (Milk), Soy Lecithin, Vanilla. Contains Milk & Soy.), Bagel Base (Sugar, Sea Salt, Malted Barley Flour, Yeast, Molasses Powder (Molasses, Wheat Starch), Honey Powder (Honey, Maltodextrin), Soybean Oil, Hydrolyzed Wheat Gluten, Natural Flavor, Ascorbic Acid (Vitamin C), Enriched Wheat Flour (Wheat Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Enzymes. Contains Wheat.), Yellow Cornmeal (Degerminated Yellow Corn Meal, Niacin, Reduced Iron, Thiamin Mononitrate, Riboflavin, Folic Acid.), Malt Powder (Malted Barley, Wheat Flour, Dextrose. Contains Wheat), Instant Yeast (Yeast, Sorbitan Monostearate, Ascorbic Acid)."
+  },
+  {
+   "id": "301221494",
+   "name": "Jalapeno Cheddar Bagel",
+   "station": "Bakery",
+   "category": "Bagels",
+   "mealPeriod": "Bakery Menu",
+   "date": "2026-11-06",
+   "servingSize": "Bagel",
+   "servingGrams": 131,
+   "calories": 319,
+   "proteinG": 13.63,
+   "carbsG": 49.97,
+   "fatG": 6.72,
+   "fiberG": 1.9,
+   "sugarG": 4.27,
+   "sodiumMg": 831,
+   "diet": [
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy",
+    "wheat-gluten"
+   ],
+   "ingredients": "High Gluten Flour (Bleached Wheat Flour Enriched (Bleached Wheat Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Malted Barley Flour, Potassium Bromate. Contains Wheat.), Water, Mild White Cheddar Cheese (Cheddar Cheese (Pasteurized Milk, Cheese Culture, Salt, Enzymes), Potato Starch, Powdered Cellulose, Natamycin. Contains Milk.), Bagel Base (Sugar, Sea Salt, Malted Barley Flour, Yeast, Molasses Powder (Molasses, Wheat Starch), Honey Powder (Honey, Maltodextrin), Soybean Oil, Hydrolyzed Wheat Gluten, Natural Flavor, Ascorbic Acid (Vitamin C), Enriched Wheat Flour (Wheat Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Enzymes. Contains Wheat.), Sliced Fresh Jalapeno, Diced Jalapeno (Jalapeno Peppers, Water, Citric Acid, Salt, Calcium Chloride.), Yellow Cornmeal (Degerminated Yellow Corn Meal, Niacin, Reduced Iron, Thiamin Mononitrate, Riboflavin, Folic Acid.), Malt Powder (Malted Barley, Wheat Flour, Dextrose. Contains Wheat), Instant Yeast (Yeast, Sorbitan Monostearate, Ascorbic Acid)."
+  },
+  {
+   "id": "301221495",
+   "name": "Plain Bagel",
+   "station": "Bakery",
+   "category": "Bagels",
+   "mealPeriod": "Bakery Menu",
+   "date": "2026-11-06",
+   "servingSize": "Bagel",
+   "servingGrams": 114,
+   "calories": 269,
+   "proteinG": 10.01,
+   "carbsG": 53.32,
+   "fatG": 1.12,
+   "fiberG": 1.9,
+   "sugarG": 4.36,
+   "sodiumMg": 793,
+   "diet": [
+    "halal",
+    "vegetarian"
+   ],
+   "allergens": [
+    "wheat-gluten"
+   ],
+   "ingredients": "High Gluten Flour (Bleached Wheat Flour Enriched (Bleached Wheat Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Malted Barley Flour, Potassium Bromate. Contains Wheat.), Water, Bagel Base (Sugar, Sea Salt, Malted Barley Flour, Yeast, Molasses Powder (Molasses, Wheat Starch), Honey Powder (Honey, Maltodextrin), Soybean Oil, Hydrolyzed Wheat Gluten, Natural Flavor, Ascorbic Acid (Vitamin C), Enriched Wheat Flour (Wheat Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Enzymes. Contains Wheat.), Malt Powder (Malted Barley, Wheat Flour, Dextrose. Contains Wheat), Yellow Cornmeal (Degerminated Yellow Corn Meal, Niacin, Reduced Iron, Thiamin Mononitrate, Riboflavin, Folic Acid.), Instant Yeast (Yeast, Sorbitan Monostearate, Ascorbic Acid)."
+  },
+  {
+   "id": "301221496",
+   "name": "Pumpkin Bread",
+   "station": "Bakery",
+   "category": "Muffins, Breads, and Pastries",
+   "mealPeriod": "Bakery Menu",
+   "date": "2026-11-06",
+   "servingSize": "1 Slice (1/10)",
+   "servingGrams": 147,
+   "calories": 419,
+   "proteinG": 6,
+   "carbsG": 66.44,
+   "fatG": 15.44,
+   "fiberG": 1.5,
+   "sugarG": 42.6,
+   "sodiumMg": 439,
+   "diet": [
+    "vegetarian"
+   ],
+   "allergens": [
+    "eggs",
+    "wheat-gluten"
+   ],
+   "ingredients": "Pure Cane Sugar (Sugar.), Pumpkin (Pumpkin.), Patent Bread Flour (Wheat Flour, Malted Barley Flour, Niacin, Iron, Thiamin Mononitrate, Riboflavin, Folic Acid. Contains: Wheat), Water, Canola Oil, Egg (Whole Eggs, Sodium Phosphate, Citric Acid, Nisin Preparation. Contains Eggs.), Pastry Flour (Enriched Flour (Wheat Flour, Niacin, Iron, Thiamin Mononitrate, Riboflavin, Folic Acid). Contains Wheat), Baking Powder (Corn Starch, Sodium Bicarbonate, Sodium Aluminum Sulfate, Monocalcium Phosphate.), Kosher Salt, Baking Soda (Sodium Bicarbonate.), Ground Nutmeg, Cinnamon."
+  },
+  {
+   "id": "301221497",
+   "name": "Plain Croissant",
+   "station": "Bakery",
+   "category": "Muffins, Breads, and Pastries",
+   "mealPeriod": "Bakery Menu",
+   "date": "2026-11-06",
+   "servingSize": "1 Croissant",
+   "servingGrams": 70,
+   "calories": 280,
+   "proteinG": 6,
+   "carbsG": 29.02,
+   "fatG": 15.01,
+   "fiberG": 1,
+   "sugarG": 5,
+   "sodiumMg": 320,
+   "diet": [
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy",
+    "eggs",
+    "wheat-gluten"
+   ],
+   "ingredients": "Croissant (Unbleached Enriched Flour (Wheat Flour, Niacin, Reduced Iron, Thiamin Mononitrate, Riboflavin, Folic Acid), Butter (Cream), Water, Sugar, Yeast, Whole Milk Powder, Eggs, Salt, Wheat Gluten, Food Enzymes (Xylanase, Amylase), Ascorbic Acid. Contains Milk, Eggs, Wheat)."
+  },
+  {
+   "id": "301221498",
+   "name": "Strawberry Cream Cheese Danish",
+   "station": "Bakery",
+   "category": "Muffins, Breads, and Pastries",
+   "mealPeriod": "Bakery Menu",
+   "date": "2026-11-06",
+   "servingSize": "1 Danish",
+   "servingGrams": 101,
+   "calories": 337,
+   "proteinG": 4.96,
+   "carbsG": 42.67,
+   "fatG": 14.88,
+   "fiberG": 1,
+   "sugarG": 16.87,
+   "sodiumMg": 347,
+   "diet": [
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy",
+    "eggs",
+    "soy",
+    "wheat-gluten"
+   ],
+   "ingredients": "Strawberry Cream Cheese Danish (Unbleached Enriched Flour, Cream Cheese Filling (Glucose-Fructose, Sugar, Cream Cheese, Modified Corn Starch, Copra Oil, Propylene Glycol, Sodium Alginate, Natural And Artificial Flavor, Salt, Potassium Sorbate, Sodium Benzoate, Sorbitan Monostearate, Polysorbate 60, Titanium Dioxide, Lactic Acid, Tartrazine Colour, Yellow Sunset Color), Butter, Strawberry Filling (Glucose-Fructose, Sugar, Strawberries, Modified Corn Starch, Propylene Glycol, Citric Acid, Sodium Alginate, Natural & Artificial Flavor, Potassium Sorbate, Aalt, Allura Red Color, Yellow Sunset Color, Sodium Citrate, Caramel Color), Water, Yeast, Sugar, Liquid Whole Eggs, Partly Skimmed Milk, Salt, Wheat Gluten, Food Enzymes (Xylanase, Amylase), Ascorbic Acid, Dried Whole Eggs, Skim Milk Powder, Soy Flour. Contains Wheat, Milk, Dairy, Soy.)."
+  },
+  {
+   "id": "301221499",
+   "name": "Glazed Cinnamon Twist Donut",
+   "station": "Bakery",
+   "category": "Muffins, Breads, and Pastries",
+   "mealPeriod": "Bakery Menu",
+   "date": "2026-11-06",
+   "servingSize": "1 Twist",
+   "servingGrams": 120,
+   "calories": 374,
+   "proteinG": 7.4,
+   "carbsG": 57.78,
+   "fatG": 12.63,
+   "fiberG": 1.8,
+   "sugarG": 18.33,
+   "sodiumMg": 497,
+   "diet": [
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy",
+    "eggs",
+    "soy",
+    "wheat-gluten"
+   ],
+   "ingredients": "Donut Mix (Enriched Wheat Flour Bleached (Flour, Niacin, Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Soybean Oil, Dextrose, Beta-Carotene (Color), Defatted Soy Flour, Dough Conditioner (Ascorbic Acid), Eggs, Leavening (Baking Soda, Sodium Acid Pyrophosphate), Mono And Diglycerides, Natural And Artificial Flavor, Salt, Sodium Stearoyl Lactylate, Whey. Contains Wheat, Milk, Soy, Egg), Water, Donut Glaze (Sugar, Water, Maltodextrin, Cornstarch, Agar-Agar, Carob Bean Gum, Citric Acid, Disodium Phosphate, Mono- And Diglycerides, Potassium Sorbate.), Soy Palm Shortening (Palm Oil, Soybean Oil, Hydrogenated Soybean Oil.), Instant Yeast (Yeast, Sorbitan Monostearate, Ascorbic Acid), Cinnamon."
+  },
+  {
+   "id": "301221500",
+   "name": "Blueberry Muffin",
+   "station": "Bakery",
+   "category": "Muffins, Breads, and Pastries",
+   "mealPeriod": "Bakery Menu",
+   "date": "2026-11-06",
+   "servingSize": "Muffin",
+   "servingGrams": 141,
+   "calories": 439,
+   "proteinG": 5.02,
+   "carbsG": 57.09,
+   "fatG": 22.21,
+   "fiberG": 1.1,
+   "sugarG": 34.98,
+   "sodiumMg": 385,
+   "diet": [
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy",
+    "eggs",
+    "soy",
+    "wheat-gluten"
+   ],
+   "ingredients": "Creme Cake Base (Sugar, Enriched Wheat Flour Bleached (Flour, Niacin, Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Food Starch-modified, Soybean Oil, Defatted Soy Flour, Eggs, Leavening (Aluminum Sulfate, Baking Soda, Sodium Aluminum Phosphate), Mono- And Diglycerides, Natural And Artificial Flavor, Propylene Glycol Mono- And Diesters Of Fatty Acids, Salt, Sodium Stearoyl Lactylate, Vital Wheat Gluten, Whey. Contains Milk, Wheat, Egg, Soy.), Egg (Whole Eggs, Sodium Phosphate, Citric Acid, Nisin Preparation. Contains Eggs.), Wild Blueberries, Canola Oil, Water, Blueberry Pie Filling (Blueberries, Water, High Fructose Corn Syrup, Modified Food Starch (Corn), Potassium Sorbate (Preservative), Artificial Flavor, Citric Acid.), White Coarse Sugar (Sugar, Confectioners Glaze, Carnauba Wax.)."
+  },
+  {
+   "id": "301221501",
+   "name": "Chocolate Raspberry Muffin",
+   "station": "Bakery",
+   "category": "Muffins, Breads, and Pastries",
+   "mealPeriod": "Bakery Menu",
+   "date": "2026-11-06",
+   "servingSize": "Muffin",
+   "servingGrams": 135,
+   "calories": 452,
+   "proteinG": 5.81,
+   "carbsG": 58.02,
+   "fatG": 25.18,
+   "fiberG": 1.4,
+   "sugarG": 37.62,
+   "sodiumMg": 506,
+   "diet": [
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy",
+    "eggs",
+    "soy",
+    "wheat-gluten"
+   ],
+   "ingredients": "Chocolate Creme Mix (Sugar, Enriched Wheat Flour Bleached (Flour, Niacin, Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Food Starch-Modified, Cocoa Processed With Alkali, Soybean Oil, Whey, Artificial Flavor, Caramel Color, Defatted Soy Flour, Eggs, Leavening (Aluminum Sulfate, Baking Soda, Sodium Aluminum Phosphate), Mono And Diglycerides, Propylene Glycol Mono And Diesters Of Fatty Acids, Red 40, Salt, Sodium Stearoyl Lactylate, Sulfites, Vital Wheat Gluten. Contains Egg, Milk, Soy, Wheat.), Egg (Whole Eggs, Sodium Phosphate, Citric Acid, Nisin Preparation. Contains Eggs.), Canola Oil, Water, Raspberries, Raspberry Pie Filling (High Fructose Corn Syrup, Water, Raspberries, Modified Food Starch, Corn Syrup, Cellulose Gum, Citric Acid, Color Added (Caramel, Red 40), Natural Flavor, Potassium Sorbate and Sodium Benzoate (Preservatives), Sodium Citrate.), White Chocolate Chips (Sugar, Fractionated Palm Kernel Oil, Nonfat Milk, Hydrogenated Palm Oil, Soy Lecithin, Natural Flavor. Contains Milk & Soy.)."
+  },
+  {
+   "id": "301221502",
+   "name": "Cinnamon Roll w/ Cream Cheese Frosting",
+   "station": "Bakery",
+   "category": "Muffins, Breads, and Pastries",
+   "mealPeriod": "Bakery Menu",
+   "date": "2026-11-06",
+   "servingSize": "1 Roll",
+   "servingGrams": 166,
+   "calories": 541,
+   "proteinG": 9.95,
+   "carbsG": 91,
+   "fatG": 15.11,
+   "fiberG": 4,
+   "sugarG": 48.93,
+   "sodiumMg": 544,
+   "diet": [
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy",
+    "eggs",
+    "soy",
+    "wheat-gluten"
+   ],
+   "ingredients": "Cinnamon Roll Dough (Enriched Unbleached Flour (Wheat Flour, Malted Barley Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Water, Powdered Sugar (Cornstarch Added To Prevent Caking), High Fructose Corn Syrup, Yeast, Palm Oil, Egg, Whey, Soybean Oil, Salt, Datem, Dextrose, Ascorbic Acid, Enzyme, Sodium Benzoate (Preservative), Citric Acid, Beta Carotene (Color), Vitamin A Palmitate, Mono-and Diglycerides, Proprionic Acid, Phosphoric Acid, Cinnamon, Natural And Artificial Flavor, Apo Carotenal, Alpha Tocopherol (Freshness), Sodium Stearoyl Lactylate, Wheat Starch, Vegetable Color Extracted From Annatto And Turmeric, Yellow Corn Flour, Food Starch – Modified, Soy Lecithin. Contains Wheat, Egg, Milk, Soy.), Cream Cheese Icing (Sugar, Cream Cheese (Milk, Cream (From Milk), Cheese Culture, Salt, Carob Bean Gum), Vegetable Shortening (Palm Oil, Mono And Diglycerides, Polysorbate 60), Corn Syrup, Water, Salt, Lactic Acid (Sodium Benzoate, Potassium Sorbate), Whey (Milk), Guar Gum, Cultured Whey (Milk), Maltodextrin, Citric Acid, Artificial Colors (Yellow 5, Yellow 6). Contains Milk.), Pure Cane Sugar (Sugar.), Water, Light Corn Syrup (Corn Syrup, Salt, Vanilla Extract (Vanilla Beans, Water, Ethyl Alcohol).), Orange Marmalade (High Fructose Corn Syrup, Corn Syrup, Orange Peel, Orange Juice From Concentrate (Water, Orange Juice Concentrate), Fruit Pectin, Citric Acid, Natural Orange Flavor.)."
+  },
+  {
+   "id": "301221503",
+   "name": "Salted Caramel Rice Krispie Bar",
+   "station": "Bakery",
+   "category": "Cookies, Bars, and Desserts",
+   "mealPeriod": "Bakery Menu",
+   "date": "2026-11-06",
+   "servingSize": "3x4 Cut",
+   "servingGrams": 125,
+   "calories": 562,
+   "proteinG": 6.3,
+   "carbsG": 98.8,
+   "fatG": 15.23,
+   "fiberG": 0,
+   "sugarG": 64.59,
+   "sodiumMg": 496,
+   "diet": [],
+   "allergens": [
+    "dairy",
+    "soy",
+    "wheat-gluten"
+   ],
+   "ingredients": "Mini Marshmallows (Corn Syrup, Sugar, Modified Cornstarch, Dextrose, Water, Gelatin, Tetrasodium Pyrophosphate (Whipping Aid), Natural & Artificial Flavor, Blue 1.), Candy Caramel Bits (Sugar, Corn Syrup, Liquid Sugar, Nonfat Milk, Palm Oil, Butter, Salt, Mono- And Diglycerides, Soy Lecithin. Contains Milk And Soy.), Rice Krispies Cereal (Rice, Sugar, Contains 2% Or Less Of Salt, Malt Flavor. Vitamins And Minerals: Iron (Ferric Phosphate), Niacinamide, Vitamin B6 (Pyridoxine Hydrochloride), Vitamin B2 (Riboflavin), Vitamin B1 (Thiamin Hydrochloride), Folic Acid, Vitamin D3, Vitamin B12.), Unsalted Butter (Pasteurized Cream & Natural Flavorings. Contains Milk.), Caramel Sauce (Corn Syrup, High Fructose Corn Syrup, Sugar, Condensed Nonfat Milk, Heavy Whipping Cream, Water, Salt, Artificial Flavor, Pectin, Disodium Phosphate. Contains Milk.), Whipping Cream (Cream (Milk).), Kosher Salt, Coarse Sea Salt."
+  },
+  {
+   "id": "301221504",
+   "name": "Peanut Butter Monster Cookie Bar",
+   "station": "Bakery",
+   "category": "Cookies, Bars, and Desserts",
+   "mealPeriod": "Bakery Menu",
+   "date": "2026-11-06",
+   "servingSize": "1 Piece (1/12)",
+   "servingGrams": 125,
+   "calories": 571,
+   "proteinG": 11.48,
+   "carbsG": 65.86,
+   "fatG": 30.94,
+   "fiberG": 4.9,
+   "sugarG": 47.19,
+   "sodiumMg": 269,
+   "diet": [
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy",
+    "eggs",
+    "peanuts",
+    "soy",
+    "wheat-gluten"
+   ],
+   "ingredients": "Creamy Peanut Butter (Roasted Peanuts, Sugar, Hydrogenated Vegetable Oil (Cottonseed, Soybean and Rapeseed Oil), Salt. Contains Peanuts.), Quick Rolled Oats, Brown Sugar (Brown Cane Sugar.), Pure Cane Sugar (Sugar.), Unsalted Butter (Pasteurized Cream & Natural Flavorings. Contains Milk.), Semi Sweet Chocolate Chips (Semi-Sweet Chocolate (Sugar, Chocolate, Cocoa Butter, Milk Fat, Soy Lecithin, Natural Flavor). Contains Milk & Soy.), Mini M&M Candy, Egg (Whole Eggs, Sodium Phosphate, Citric Acid, Nisin Preparation. Contains Eggs.), Vanilla Extract (Water, Alcohol, Vanillin, Artificial Flavorings, Citric Acid.), Baking Soda (Sodium Bicarbonate.)."
+  },
+  {
+   "id": "301221505",
+   "name": "Chocolate Chip Cookie",
+   "station": "Bakery",
+   "category": "Cookies, Bars, and Desserts",
+   "mealPeriod": "Bakery Menu",
+   "date": "2026-11-06",
+   "servingSize": "1 Cookie",
+   "servingGrams": 85,
+   "calories": 363,
+   "proteinG": 3.4,
+   "carbsG": 53.33,
+   "fatG": 16.81,
+   "fiberG": 1.9,
+   "sugarG": 34.42,
+   "sodiumMg": 272,
+   "diet": [
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy",
+    "eggs",
+    "soy",
+    "wheat-gluten"
+   ],
+   "ingredients": "Chocolate Chip Dough Cookie (Semi-Sweet Chocolate Chips (Sugar, Chocolate Liquor, Cocoa Butter, Milkfat, Soy Lecithin, Natural Flavors), Enriched Wheat Flour (Bleached And Unbleached Wheat Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin), Butter, Brown Sugar, Sugar, Eggs (Pasteurized), Water, Invert Sugar, Modified Food Starch, Salt, Vanilla, Baking Soda, Soy Lecithin, Guar Gum. Contains Eggs, Milk, Soy, Wheat.)."
+  },
+  {
+   "id": "301221506",
+   "name": "Triple Chocolate Cookie",
+   "station": "Bakery",
+   "category": "Cookies, Bars, and Desserts",
+   "mealPeriod": "Bakery Menu",
+   "date": "2026-11-06",
+   "servingSize": "1 Cookie",
+   "servingGrams": 85,
+   "calories": 311,
+   "proteinG": 3.49,
+   "carbsG": 43.63,
+   "fatG": 14.37,
+   "fiberG": 1.7,
+   "sugarG": 28.83,
+   "sodiumMg": 205,
+   "diet": [
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy",
+    "eggs",
+    "soy",
+    "wheat-gluten"
+   ],
+   "ingredients": "Triple Chocolate Cookie Dough (Enriched Wheat Flour (Bleached And Unbleached Wheat Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin), Sugar, White Confectionery Chunks (Sugar, Palm Kernel Oil, Nonfat Milk Powder, Whey Powder, Palm Oil, Soy Lecithin, Vanilla), Butter, Chocolate Chunks (Sugar, Chocolate Liquor, Cocoa Butter, Dextrose, Soy Lecithin, Vanilla), Eggs (Pasteurized), Cocoa, Water, Salt, Molasses, Baking Soda, Soy Lecithin, Vanilla. Contains Eggs, Milk, Soy, Wheat.)."
+  },
+  {
+   "id": "301221463",
+   "name": "Cheese & Bacon Egg Bites",
+   "station": "Roasterie",
+   "category": "Entree",
+   "mealPeriod": "Grab and Go",
+   "date": "2026-11-06",
+   "servingSize": "1 Egg Bite",
+   "servingGrams": 50,
+   "calories": 109,
+   "proteinG": 7.94,
+   "carbsG": 1.98,
+   "fatG": 7.94,
+   "fiberG": 0,
+   "sugarG": 0.99,
+   "sodiumMg": 308,
+   "diet": [],
+   "allergens": [
+    "dairy",
+    "eggs"
+   ],
+   "ingredients": "Whole Eggs, Cottage Cheese (Cultured Skim Milk, Whey Protein Concentrate, Cream, Skim Milk, Salt, Guar Gum, Mono And Diglycerides, Carob Bean Gum, Natural Flavor, Potassium Sorbate (To Preserve Freshness), Carrageenan, Polysorbate 80, Enzymes), Bacon Bits (Cured With Water, Salt, Sugar, Smoke Flavoring, Sodium Phosphates, Sodium Erythorbate, Sodium Nitrite), Pasteurized Process Cheddar Cheese (Cheddar Cheese (Pasteurized Milk, Cheese Culture, Salt, Enzymes), Water, Milkfat, Sodium Phosphate, Sodium Hexametaphosphate, Salt, Apocarotenal (Color), Potassium Sorbate And Natamycin (Preservatives)), Pasteurized Process Monterey Jack Cheese (Monterey Jack Cheese (Milk, Cheese Culture, Salt, Enzymes), Water, Milkfat, Sodium Phosphate, Salt, Sodium Hexametaphosphate), Modified Food Starch, Xanthan Gum, Citric Acid. Contains Milk, Eggs.."
+  },
+  {
+   "id": "301221458",
+   "name": "Chicken Caesar Salad",
+   "station": "Roasterie",
+   "category": "Salads",
+   "mealPeriod": "Grab and Go",
+   "date": "2026-11-06",
+   "servingSize": "1 Salad",
+   "servingGrams": 206,
+   "calories": 411,
+   "proteinG": 20.55,
+   "carbsG": 16.44,
+   "fatG": 32.89,
+   "fiberG": 2.1,
+   "sugarG": 2.06,
+   "sodiumMg": 966,
+   "diet": [],
+   "allergens": [
+    "dairy",
+    "eggs",
+    "fish",
+    "wheat-gluten"
+   ],
+   "ingredients": "Lettuce, Pulled Chicken Breast With Rib Meat (Skinless Boneless Chicken Breast Meat With Rib Meat, Water, Dehydrated Chicken Broth, Salt, Modified Food Starch, Sodium Phosphates, Carrageenan, Natural Flavor), Romano Caesar Dressing (Vegetable Oil (Canola And/or Soybean Oil), Water, Romano Cheese (Milk, Culture, Salt, Enzymes), Egg Yolk, Of Anchovy Paste (Anchovies, Salt, Water), Distilled Vinegar, Dried Garlic, Mustard (Distilled Vinegar, Water, Mustard Seed), Salt, Sugar, Lemon Juice Concentrate, Ground Mustard, Spice, Xanthan Gum), Parmesan Cheese (Parmesan Cheese (Pasteurized Cow's Milk, Cheese Culture, Salt, Enzymes), Powdered Cellulose (Anticaking Agent), And Natamycin (A Natural Mold Inhibitor)), Garlic Butter Croutons (Enriched Wheat Flour (Wheat Flour, Malted Barley Flour, Niacin, Ferrous Sulfate, Thiamine Mononitrate, Riboflavin, Folic Acid), Vegetable Oils ( Canola And/or Sunflower And/or Soybean Oil), Dehydrated Garlic, Salt, Water, Yeast, Maltodextrin, Natural Butter Flavor (A Milk Ingredient), Ascorbic Acid (Vitamin C)). Contains Egg, Milk, Wheat, Fish."
+  },
+  {
+   "id": "301221459",
+   "name": "Garden Salad with Ranch",
+   "station": "Roasterie",
+   "category": "Salads",
+   "mealPeriod": "Grab and Go",
+   "date": "2026-11-06",
+   "servingSize": "1 Salad",
+   "servingGrams": 255,
+   "calories": 380,
+   "proteinG": 11,
+   "carbsG": 20,
+   "fatG": 30,
+   "fiberG": 2,
+   "sugarG": 5,
+   "sodiumMg": 650,
+   "diet": [
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy",
+    "eggs",
+    "wheat-gluten"
+   ],
+   "ingredients": "Lettuce, Ranch Dressing (Vegetable Oil (Canola And/or Soybean Oil), Nonfat Buttermilk (Whey, Water, Skim Milk Powder, Corn Starch, Tapioca Starch, Carrageenan, Locust Bean Gum, Culture), Water, Egg Yolk, Nonfat Sour Cream (Cultured Skim Milk, Corn Starch, Tapioca Starch, Carrageenan, Locust Bean Gum), Dried Garlic, Distilled Vinegar, Salt, Seasoning Blend (Dextrose, Salt, Natural Flavors, Modified Corn Starch) Sugar, Dried Onion, Spices, Modified Corn Starch, Dried Green Onion, Lactic Acid, Xanthan Gum, Guar Gum), Tomatoes, Cucumber, Cheddar Cheese (Mild Cheddar Cheese (Pasteurized Milk, Cheese Cultures, Salt, Enzymes And Annatto [vegetable Color]), Powdered Cellulose (To Prevent Caking), Potassium Sorbate And Natamycin (Preservatives)), Carrots, Hard Cooked Eggs (Hard Cooked Eggs, Water, Citric Acid, Sodium Benzoate, And Nisin Preparation (As Preservatives)), Garlic Butter Croutons (Enriched Wheat Flour (Wheat Flour, Malted Barley Flour, Niacin, Ferrous Sulfate, Thiamine Mononitrate, Riboflavin, Folic Acid), Vegetable Oils (Canola And/or Sunflower And/or Soybean Oil), Dehydrated Garlic, Salt, Water, Yeast, Maltodextrin, Natural Butter Flavor (A Milk Ingredient), Ascorbic Acid (Vitamin C)). Contains Egg, Milk, Wheat."
+  },
+  {
+   "id": "301221460",
+   "name": "Southwest Chicken Salad",
+   "station": "Roasterie",
+   "category": "Salads",
+   "mealPeriod": "Grab and Go",
+   "date": "2026-11-06",
+   "servingSize": "1 Salad",
+   "servingGrams": 281,
+   "calories": 365,
+   "proteinG": 14.03,
+   "carbsG": 28.07,
+   "fatG": 22.45,
+   "fiberG": 2.8,
+   "sugarG": 5.61,
+   "sodiumMg": 617,
+   "diet": [],
+   "allergens": [
+    "dairy",
+    "eggs",
+    "soy",
+    "wheat-gluten"
+   ],
+   "ingredients": "Lettuce, Avocado Ranch Dressing (Nonfat Buttermilk (Whey, Water, Skim Milk Powder, Corn Starch, Tapioca Starch, Carrageenan, Locust Bean Gum, Culture), Vegetable Oil (Canola And/or Soybean Oil), Water, Avocado, Nonfat Sour Cream (Cultured Skim Milk, Corn Starch, Tapioca Starch, Carrageenan, Locust Bean Gum), Maltodextrin, Egg Yolk, Sugar, Salt, Distilled Vinegar, Apple Cider Vinegar, Dried Onion, Seasoning Blend (Dextrose, Salt, Natural Flavors, Modified Corn Starch), Modified Corn Starch, Dried Onion, Xanthan Gum, Seasoning Blend (Maltodextrin, Whey Powder, Skim Milk Powder, Modified Corn Starch, Butter Extractives, Natural Flavor), Soy Sauce (Water, Wheat, Soybeans, Salt, Alcohol, Vinegar, Lactic Acid), Dried Garlic, Spice, Cultured Dextrose, Dried Green Onion, Lactic Acid, Carrageenan, Calcium Disodium Edta (To Protect Quality), Yellow 5 & 6, Blue 1), Pulled Chicken Breast With Rib Meat (Skinless Boneless Chicken Breast Meat With Rib Meat, Water, Dehydrated Chicken Broth, Salt, Modified Food Starch, Sodium Phosphates, Carrageenan, Natural Flavor), Tomatoes, Roasted Corn, Shredded Mild Cheddar And Monterey Jack Cheese (Cheddar Cheese (Pasteurized Milk, Cheese Culture, Salt, Enzymes, Color Added), Monterey Jack Cheese (Pasteurized Milk, Cheese Culture, Salt, Enzymes), Potato Starch Added To Prevent Caking, Natamycin (A Natural Mold Inhibitor)), Green Onion, Tri-colored Tortilla Strips (Corn Masa Flour, Vegetable Oil (Sunflower, Safflower And/or Canola), Salt, Red 40, Blue 1, Blue 2), Cilantro. Contains Egg, Milk, Soy, Wheat."
+  },
+  {
+   "id": "301221464",
+   "name": "Sausage Croissant Breakfast Sandwich",
+   "station": "Roasterie",
+   "category": "Sandwiches",
+   "mealPeriod": "Grab and Go",
+   "date": "2026-11-06",
+   "servingSize": "1 Sandwich",
+   "servingGrams": 164,
+   "calories": 556,
+   "proteinG": 18.53,
+   "carbsG": 25.47,
+   "fatG": 41.69,
+   "fiberG": 0,
+   "sugarG": 2.32,
+   "sodiumMg": 741,
+   "diet": [],
+   "allergens": [
+    "dairy",
+    "eggs",
+    "soy",
+    "wheat-gluten"
+   ],
+   "ingredients": "Margarine Croissant (Enriched Flour (Wheat Flour, Niacin, Iron, Ascorbic Acid Added As A Dough Conditioner, Thiamine Mononitrate, Riboflavin, Enzyme, Folic Acid), Water, Margarine (Fractionated Palm And Palm Oil, Canola Oil, Water, Sugar, Soy Lecithin, Monoglycerides, Citric Acid, Natural Flavor, Vitamin A Palmitate, Vitamin D3, Beta-carotene [color]), Sugar, Yeast, High Fructose Corn Syrup (Contains Sulfites), Salt, Egg Whites, Calcium Propionate (Preservative), Dough Conditioners (Enzymes, Ascorbic Acid, L-cysteine Hydrochloride), Sunflower Oil, Natural Flavor (Contains Milk)), Cooked Egg Patty (Whole Eggs, Water, Soybean Oil, Modified Food Starch, Whey Solids, Salt, Nonfat Dried Milk, Citric Acid), Pork Sausage (Pork, Water, Salt, Spices, Dextrose, Sugar), Mild Cheddar Cheese (Pasteurized Milk, Cheese Cultures, Salt, Enzymes, Color Added). Contains Eggs, Milk, Soy, Wheat."
+  },
+  {
+   "id": "301221467",
+   "name": "Gourmet Cranberry & Turkey Sandwich",
+   "station": "Roasterie",
+   "category": "Sandwiches",
+   "mealPeriod": "Grab and Go",
+   "date": "2026-11-06",
+   "servingSize": "1 Sandwich",
+   "servingGrams": 221,
+   "calories": 450,
+   "proteinG": 28,
+   "carbsG": 50,
+   "fatG": 17,
+   "fiberG": 0,
+   "sugarG": 16,
+   "sodiumMg": 1070,
+   "diet": [],
+   "allergens": [
+    "dairy",
+    "wheat-gluten"
+   ],
+   "ingredients": "Cooked Turkey Breast (Turkey Breast, Water, Potassium Lactate, Modified Food Starch, Dextrose, Salt, Sodium Phosphate, Sodium Diacetate, Flavoring), Cranberry Wild Rice Bread (Enriched Flour (Wheat Flour, Malted Barley Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Water, Cranberries, Wild Rice, Sugar, Brown Sugar, Soybean Oil, Salt, Active Dry Yeast, Corn Starch, Enzymes, Ascorbic & Lactic Acid, Sunflower Oil, Fumaric & Acetic Acid, Calcium Propionate (Preserves Freshness)), Cranberry Cream Cheese (Cream Cheese (Pasteurized Milk And Cream, Cheese Culture, Salt, Guar Gum, Xanthan Gum, Carob Bean Gum), Cranberry Sauce (Cranberries, High Fructose Corn Syrup, Water, Corn Syrup)), Swiss Cheese (Pasteurized Part-skim Milk, Cheese Culture, Salt, Enzymes. Aged Over 60 Days), Lettuce. Contains Wheat & Milk.."
+  },
+  {
+   "id": "301221468",
+   "name": "Egg Salad Croissant Sandwich",
+   "station": "Roasterie",
+   "category": "Sandwiches",
+   "mealPeriod": "Grab and Go",
+   "date": "2026-11-06",
+   "servingSize": "1 Sandwich",
+   "servingGrams": 167,
+   "calories": 450,
+   "proteinG": 14,
+   "carbsG": 27,
+   "fatG": 32,
+   "fiberG": 0,
+   "sugarG": 4,
+   "sodiumMg": 510,
+   "diet": [
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy",
+    "eggs",
+    "soy",
+    "wheat-gluten"
+   ],
+   "ingredients": "Egg Salad (Hard Cooked Egg (Hard Cooked Eggs, Water, Citric Acid, Sodium Benzoate, And Nisin Preparation (As Preservatives)), Mayonnaise (Soybean Oil, Water, Egg Yolks, Distilled Vinegar, High Fructose Corn Syrup, Corn Syrup, Salt, Spice, Calcium Disodium Edta Added To Protect Flavor), Yellow Mustard (Distilled Vinegar, Water, No. 1 Mustard Seed, Salt, Turmeric, Oleoresin Paprika, Spices), Salt, White Pepper, Granulated Sugar), Margarine Croissant (Enriched Flour (Wheat Flour, Niacin, Iron, Ascorbic Acid, Thiamine Mononitrate, Riboflavin, Enzyme, Folic Acid), Water, Margarine (Fractionated Palm And Palm Oil, Canola Oil, Water, Sugar, Soy Lecithin, Monoglycerides, Citric Acid, Natural Flavor, Vitamin A Palmitate, Vitamin D3, Beta-Carotene [Color]), Sugar, Yeast, High Fructose Corn Syrup (Contains Sulfites), Salt, Egg Whites, Calcium Propionate (Preservative), Dough Conditioners (Enzymes, Ascorbic Acid, L-Cysteine Hydrochloride), Sunflower Oil, Natural Flavor (Contains Milk)), Lettuce. Contains Egg, Milk, Soy, Wheat.."
+  },
+  {
+   "id": "301221469",
+   "name": "Hawaiian Ham & Swiss Slider",
+   "station": "Roasterie",
+   "category": "Sandwiches",
+   "mealPeriod": "Grab and Go",
+   "date": "2026-11-06",
+   "servingSize": "1 Container",
+   "servingGrams": 123,
+   "calories": 269,
+   "proteinG": 17.96,
+   "carbsG": 33.93,
+   "fatG": 7.98,
+   "fiberG": 0,
+   "sugarG": 10.98,
+   "sodiumMg": 838,
+   "diet": [],
+   "allergens": [
+    "dairy",
+    "eggs",
+    "soy",
+    "wheat-gluten"
+   ],
+   "ingredients": "Bread Roll (Enriched Flour (Wheat Flour, Malted Barley Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Water, Sugar, Liquid Sugar (Sugar, Water), Butter (Pasteurized Cream, Salt), Eggs, Potato Flour, Yeast, Whey, Nonfat Milk, Soy Flour, Salt, Degerminated Yellow Corn Flour, Wheat Gluten, Sodium Stearoyl Lactylate, Datem, Monocalcium Phosphate, Wheat Flour, Calcium Sulfate, Sodium Silicoaluminate, Ascorbic Acid Added As A Dough Conditioner, Ammonium Sulfate, Wheat Starch, Sorbitan Monostearate, Enzymes, Microcrystalline Cellulose, Calcium Silicate), Ham (Ham Cured With Water, Salt, Potassium Lactate, Modified Cornstarch, Potassium Chloride, Dextrose, Sodium Phosphates, Sodium Diacetate, Sodium Nitrite, Sodium Erythorbate), Swiss Cheese (Part-skim Milk, Cheese Culture, Salt, Enzymes). Contains Egg, Milk, Soy, Wheat."
+  },
+  {
+   "id": "301221461",
+   "name": "Bacon Breakfast Burrito",
+   "station": "Roasterie",
+   "category": "Wraps",
+   "mealPeriod": "Grab and Go",
+   "date": "2026-11-06",
+   "servingSize": "1 Burrito",
+   "servingGrams": 227,
+   "calories": 599,
+   "proteinG": 31.97,
+   "carbsG": 56.95,
+   "fatG": 27.97,
+   "fiberG": 2,
+   "sugarG": 2,
+   "sodiumMg": 1569,
+   "diet": [],
+   "allergens": [
+    "dairy",
+    "eggs",
+    "wheat-gluten"
+   ],
+   "ingredients": "Flour Tortilla (Enriched Unbleached Flour (Wheat Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin And Folic Acid), Water, Vegetable Shortening (Palm Oil And Or Corn Oil), Salt, Aluminum Free Leavening (Sodium Acid Pyrophosphate, Sodium Bicarbonate, Corn Starch, Monocalcium Phosphate), Wheat Protein, Preservatives (Calcium Propionate, Sorbic Acid), Fumaric Acid, Xanthan Gum, Dough Conditioner (Mono And Diglycerides, Sodium Metabisulphite)), Cooked Diced Potato (Potatoes, Water, Salt, Calcium Chloride, Calcium Disodium Edta), Fully Cooked Bacon Smoke Flavoring Added (Bacon Cured With Water, Salt, Sugar, Sodium Erythorbate, Sodium Nitrite. May Also Contain Smoke Flavoring, Dextrose, Sodium Phosphate, Potassium Chloride, Sodium Diacetate, Flavoring, Honey), Fully Cooked Scrambled Eggs (Whole Eggs, Modified Corn Starch, Salt, Citric Acid, Xanthan Gum), Shredded Mild Cheddar And Monterey Jack Cheese (Cheddar Cheese (Pasteurized Milk, Cheese Culture, Salt, Enzymes, Color Added), Monterey Jack Cheese (Pasteurized Milk, Cheese Culture, Salt, Enzymes), Potato Starch Added To Prevent Caking, Natamycin (A Natural Mold Inhibitor)). Contains Eggs, Milk, Wheat.."
+  },
+  {
+   "id": "301221462",
+   "name": "Turkey Sausage Breakfast Burrito",
+   "station": "Roasterie",
+   "category": "Wraps",
+   "mealPeriod": "Grab and Go",
+   "date": "2026-11-06",
+   "servingSize": "1 Burrito",
+   "servingGrams": 198,
+   "calories": 460,
+   "proteinG": 21,
+   "carbsG": 48,
+   "fatG": 18,
+   "fiberG": 0,
+   "sugarG": 2,
+   "sodiumMg": 1050,
+   "diet": [],
+   "allergens": [
+    "dairy",
+    "eggs",
+    "wheat-gluten"
+   ],
+   "ingredients": "Flour Tortilla (Enriched Bleached Wheat Flour (Flour, Niacin, Reduced Iron, Thiamin Mononitrate, Riboflavin, Folic Acid), Water, Vegetable Shortening (Interesterified Soybean Oil, Fully Hydrogenated Soybean Oil), Salt, Mono- And Diglycerides, Dextrose, Leavening (Sodium Bicarbonate, Sodium Aluminum Phosphate, Sodium Aluminum Sulfate), Fumaric Acid, Yeast, Preservatives (Calcium Propionate, Potassium Sorbate), Corn Starch, Carboxymethyl Gum, Wheat Starch, Xanthan Gum, Enzymes (Wheat Starch, Microcrystalline Cellulose), Dough Conditioner (Sodium Metabisulfite)), Cooked Diced Potato (Potatoes, Water, Salt, Calcium Chloride, Calcium Disodium EDTA), Fully Cooked Turkey Sausage Crumble (Dark Turkey Meat, Mechanically Separated Turkey, Salt, Spices, Dextrose, Sugar, Flavoring, Yeast Extract, Lime Flavor (Corn Syrup Solids, Lime Juice Solids, Natural Flavor), Lactic Acid), Shredded Cheese Blend (Cheddar Cheese (Pasteurized Milk, Cheese Culture, Salt, Enzymes, Annatto [vegetable Color]), Monterey Jack Cheese (Pasteurized Milk, Cheese Culture, Salt, Enzymes), Anti-Caking Blend (Potato Starch, Powdered Cellulose)). Contains Egg, Milk, Wheat.."
+  },
+  {
+   "id": "301221465",
+   "name": "Chicken Taco Pinwheels",
+   "station": "Roasterie",
+   "category": "Wraps",
+   "mealPeriod": "Grab and Go",
+   "date": "2026-11-06",
+   "servingSize": "1 Container",
+   "servingGrams": 140,
+   "calories": 400,
+   "proteinG": 15,
+   "carbsG": 22,
+   "fatG": 27,
+   "fiberG": 0,
+   "sugarG": 2,
+   "sodiumMg": 650,
+   "diet": [],
+   "allergens": [
+    "dairy",
+    "eggs",
+    "wheat-gluten"
+   ],
+   "ingredients": "Taco Dip (Mayonnaise (Soybean Oil, Water, Egg Yolks, Distilled Vinegar, High Fructose Corn Syrup, Corn Syrup, Salt, Spice, Calcium Disodium Edta), Sour Cream (Cultured Cream), Tomato Paste (Vine-ripened Fresh Tomatoes And Naturally Derived Citric Acid), Taco Seasoning (Spices, Dehydrated Onion, Dehydrated Garlic, Salt, And Guar Gum), Minced Garlic (Garlic, Water, Citric Acid), Apple Cider Vinegar (Distilled Vinegar From Grain, Natural Flavor With Caramel Color, Diluted With Water To A Uniform Pickling And Table Strength Of 5% (50 Grains) Acidity)), Lavash (Enriched Unbleached Wheat Flour (Wheat Flour, Malted Barley Flour, Niacin, Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Filtered Water, Wheat Gluten, Canola Oil, Sugar, Sea Salt, Cultured Wheat Flour, Yeast, Baking Powder (Sodium Acid Pyrophosphate, Sodium Bicarbonate, Corn Starch, Monocalcium Phosphate), Enzymes), Pulled Chicken Breast With Rib Meat (Skinless Boneless Chicken Breast Meat With Rib Meat, Water, Dehydrated Chicken Broth, Salt, Modified Food Starch, Sodium Phosphates, Carrageenan, Natural Flavor), Mild Cheddar Cheese (Pasteurized Milk, Cheese Culture, Salt, Enzymes, Color Added), Black Olives (Ripe Olives, Water, Sea Salt, Ferrous Gluconate (To Stabilize Color)), Lettuce. Contains Egg, Milk, Wheat.."
+  },
+  {
+   "id": "301221466",
+   "name": "Veggie Pinwheels",
+   "station": "Roasterie",
+   "category": "Wraps",
+   "mealPeriod": "Grab and Go",
+   "date": "2026-11-06",
+   "servingSize": "1 Container",
+   "servingGrams": 113,
+   "calories": 260,
+   "proteinG": 7,
+   "carbsG": 24,
+   "fatG": 16,
+   "fiberG": 1,
+   "sugarG": 5,
+   "sodiumMg": 360,
+   "diet": [
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy",
+    "eggs",
+    "wheat-gluten"
+   ],
+   "ingredients": "Ranch Cream Cheese (Cream Cheese [Pasteurized Milk And Cream, Cheese Culture, Salt, Guar Gum, Carob Bean Gum, Xanthan Gum], Ranch Dressing [Vegetable Oil (Canola And/Or Soybean Oil), Nonfat Buttermilk (Whey, Water, Skim Milk Powder, Corn Starch, Tapioca Starch, Carrageenan, Locust Bean Gum, Culture), Water, Egg Yolk, Dried Garlic, Sugar, Salt, Distilled Vinegar, Green Onion, Apple Cider Vinegar, Spices, Xanthan Gum, Dried Onion, Skim Milk Powder Blend (Whey, Sodium Caseinate, Skim Milk Powder), Ground Mustard, Guar Gum]), Red Pepper Lavash (Enriched Unbleached Wheat Flour (Wheat Flour, Malted Barley Flour, Niacin, Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Filtered Water, Wheat Gluten, Sugar, Sea Salt, Paprika Resin, Canola Oil, Cultured Wheat, Baking Powder (Sodium Acid Pyrophosphate, Sodium Bicarbonate, Cornstarch, Monocalcium Phosphate), Yeast, Citric Acid, Organic Enzymes), Broccoli, Carrot, Red Bell Pepper. Contains Egg, Milk, Wheat.."
+  },
+  {
+   "id": "301221470",
+   "name": "Chicken Bacon Ranch Club Wrap",
+   "station": "Roasterie",
+   "category": "Wraps",
+   "mealPeriod": "Grab and Go",
+   "date": "2026-11-06",
+   "servingSize": "1 Wrap",
+   "servingGrams": 176,
+   "calories": 486,
+   "proteinG": 24.81,
+   "carbsG": 37.22,
+   "fatG": 26.88,
+   "fiberG": 2.1,
+   "sugarG": 3.1,
+   "sodiumMg": 1261,
+   "diet": [],
+   "allergens": [
+    "dairy",
+    "eggs",
+    "wheat-gluten"
+   ],
+   "ingredients": "Flour Tortilla (Enriched Unbleached Flour (Wheat Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin And Folic Acid), Water, Vegetable Shortening (Palm Oil And/or Olive Oil), Salt, Aluminum Free Leavening (Sodium Acid Pyrophosphate, Sodium Bicarbonate, Corn Starch, Monocalcium Phosphate), Wheat Protein, Preservatives (Calcium Propionate, Sorbic Acid), Fumaric Acid, Xanthan Gum, Dough Conditioner (Mono And Diglycerides, Sodium Metabisulphite)), Chicken Breast ( Chicken Breast Meat, Water, Salt, Dextrose, Vinegar, Sodium Phosphate, Browned In Vegetable Oil), Decant Chipotle Ranch Spread (Cream Cheese (Pasteurized Milk And Cream, Cheese Culture, Salt, Guar Gum, Carob Bean Gum, Xanthan Gum), Chipotle Ranch Dressing (Soybean Oil, Water, Buttermilk, Distilled Vinegar, Egg Yolk, Salt, Red Chili Pepper, Garlic Juice, Sugar, Chipotle Peppers Including Dehydrated, Monosodium Glutamate, Spice, Xanthan Gum, Potassium Sorbate And Sodium Benzoate Added As Preservatives, Garlic*, Onion*, Propylene Glycol Alginate, Natural Smoke Flavor, Calcium Disodium Edta Added To Protect Flavor. *Dehydrated)), Mild Cheddar Cheese (Pasteurized Milk, Cheese Culture, Salt, Enzymes, Color Added), Leaf Lettuce, Fully Cooked Bacon Smoke Flavoring Added (Bacon Cured With Water, Salt, Sugar, Sodium Erythorbate, Sodium Nitrite. May Also Contain Smoke Flavoring, Dextrose, Sodium Phosphate, Potassium Chloride, Sodium Diacetate, Flavoring, Honey). Contains Eggs, Milk, Wheat."
+  },
+  {
+   "id": "301221471",
+   "name": "Mexican Style Pork Wrap",
+   "station": "Roasterie",
+   "category": "Wraps",
+   "mealPeriod": "Grab and Go",
+   "date": "2026-11-06",
+   "servingSize": "1 Wrap",
+   "servingGrams": 181,
+   "calories": 440,
+   "proteinG": 20,
+   "carbsG": 37,
+   "fatG": 24,
+   "fiberG": 2,
+   "sugarG": 1,
+   "sodiumMg": 1010,
+   "diet": [],
+   "allergens": [
+    "dairy",
+    "eggs",
+    "wheat-gluten"
+   ],
+   "ingredients": "Tomato Basil Tortilla (Enriched Unbleached Flour (Wheat Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin And Folic Acid), Water, Vegetable Shortening (Contains Palm Oil And/or Olive Oil), Seasoning (Salt, Dehydrated Garlic And Onion, Paprika, Tomato Powder, Spice, Natural Flavors, Extractives Of Paprika, And Silicon Dioxide To Prevent Caking), Salt, Leavening (Sodium Acid Pyrophosphate, Sodium Bicarbonate, Corn Starch, Monocalcium Phosphate), Wheat Protein, Preservatives (Calcium Propionate, Sorbic Acid), Dough Conditioner (Fumaric Acid, Xanthan Gum, Mono-and Diglycerides, Sodium Metabisulphite)), Pork Carnitas (Pork, Marinating Solution (Water, Salt, Orange Juice Concentrate, Sodium Phosphates), Rubbed With Flavoring, Caramel Color, Paprika (For Color)), Black Bean Salsa (Tomatoes, Black Beans (Black Beans, Water, Salt, Calcium Chloride, And Ferrous Gluconate), Onion, Jalapeno Pepper, Minced Garlic (Garlic, Water, Citric Acid), Lime Juice, Salt, Black Pepper, Cilantro), Cheddar Cheese (Mild Cheddar Cheese (Pasteurized Milk, Cheese Cultures, Salt, Enzymes And Annatto [Vegetable Color]), Powdered Cellulose (To Prevent Caking), Potassium Sorbate And Natamycin (Preservatives)), Taco Dip (Mayonnaise (Soybean Oil, Water, Egg Yolks, Distilled Vinegar, High Fructose Corn Syrup, Corn Syrup, Salt, Spice, Calcium Disodium Edta Added To Protect Flavor), Sour Cream (Cultured Cream), Tomato Paste (Vine-ripened Fresh Tomatoes And Naturally Derived Citric Acid), Taco Seasoning (Spices, Dehydrated Onion, Dehydrated Garlic, Salt, And Guar Gum), Minced Garlic(Garlic, Water, Citric Acid), Apple Cider Vinegar (Distilled Vinegar From Grain, Natural Flavor With Caramel Color, Diluted With Water To A Uniform Pickling And Table Strength Of 5% (50 Grains) Acidity)), Lettuce. Contains Egg, Milk, Wheat.."
+  },
+  {
+   "id": "301221472",
+   "name": "5 Fruit Blend",
+   "station": "Roasterie",
+   "category": "Sides",
+   "mealPeriod": "Grab and Go",
+   "date": "2026-11-06",
+   "servingSize": "1 Container",
+   "servingGrams": 170,
+   "calories": 70,
+   "proteinG": 1,
+   "carbsG": 18.01,
+   "fatG": 0,
+   "fiberG": 2,
+   "sugarG": 15.01,
+   "sodiumMg": 15,
+   "diet": [
+    "halal",
+    "vegan",
+    "vegetarian"
+   ],
+   "allergens": [],
+   "ingredients": "Cantaloupe, Honeydew, Grapes, Pineapple, Strawberries."
+  },
+  {
+   "id": "301221473",
+   "name": "Veggie Snacker",
+   "station": "Roasterie",
+   "category": "Sides",
+   "mealPeriod": "Grab and Go",
+   "date": "2026-11-06",
+   "servingSize": "1 Container",
+   "servingGrams": 111,
+   "calories": 230,
+   "proteinG": 2,
+   "carbsG": 10,
+   "fatG": 21,
+   "fiberG": 2,
+   "sugarG": 6,
+   "sodiumMg": 290,
+   "diet": [
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy",
+    "eggs"
+   ],
+   "ingredients": "Dill Dip (Mayonnaise (Soybean Oil, Egg Yolk, Water, Sugar, Vinegar, Salt, Spices, Lemon Juice Concentrate, Natural Flavor), Sour Cream (Grade A Milk, Cream, Skim Milk, Food Starch Modified, Guar Gum, Sodium Phosphate, Locust Bean Gum, Sodium Citrate, Carrageenan, Dextrose, Potassium Sorbate, Cultures), Salad Dressing (Soybean Oil, Water, Vinegar, Sugar, Modified Food Starch, Egg Yolks, Salt, Spices, Onion Powder, Natural Flavors), Onion, Monosodium Glutamate, Garlic Salt (Salt, Garlic Powder, Silicon Dioxide), Dill Weed), Baby Carrots, Sugar Snap Pea Pods. Contains Egg & Milk.."
+  },
+  {
+   "id": "301221474",
+   "name": "Strawberry Parfait",
+   "station": "Roasterie",
+   "category": "Sides",
+   "mealPeriod": "Grab and Go",
+   "date": "2026-11-06",
+   "servingSize": "1 Parfait",
+   "servingGrams": 170,
+   "calories": 200,
+   "proteinG": 6,
+   "carbsG": 42.02,
+   "fatG": 1.5,
+   "fiberG": 2,
+   "sugarG": 24.01,
+   "sodiumMg": 70,
+   "diet": [
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy"
+   ],
+   "ingredients": "Vanilla Yogurt (Cultured Grade A Low Fat Milk, Sugar, Modified Corn Starch, Corn Starch, Natural Flavor, Potassium Sorbate Added To Maintain Freshness, Vitamin A Acetate, Vitamin D3), Strawberries, Granola (Whole Grain Oats, Sugar, Rice Flour, Canola And/or Sunflower Oil, Honey, Maltodextrin, Molasses, Salt, Barley Malt Extract, Baking Soda, Natural Flavor, Rosemary Extract, Vitamin E (Mixed Tocopherols) Added To Preserve Freshness). Contains Milk."
+  },
+  {
+   "id": "301221475",
+   "name": "Pineapple Cup",
+   "station": "Roasterie",
+   "category": "Sides",
+   "mealPeriod": "Grab and Go",
+   "date": "2026-11-06",
+   "servingSize": "1 Container",
+   "servingGrams": 170,
+   "calories": 90,
+   "proteinG": 1,
+   "carbsG": 20.01,
+   "fatG": 0,
+   "fiberG": 2,
+   "sugarG": 14.01,
+   "sodiumMg": 0,
+   "diet": [
+    "halal",
+    "vegan",
+    "vegetarian"
+   ],
+   "allergens": [],
+   "ingredients": "Pineapple."
+  },
+  {
+   "id": "301221476",
+   "name": "Protein Powerhouse Snacker",
+   "station": "Roasterie",
+   "category": "Sides",
+   "mealPeriod": "Grab and Go",
+   "date": "2026-11-06",
+   "servingSize": "1 Container",
+   "servingGrams": 200,
+   "calories": 550,
+   "proteinG": 24.98,
+   "carbsG": 33.98,
+   "fatG": 35.98,
+   "fiberG": 4,
+   "sugarG": 24.98,
+   "sodiumMg": 450,
+   "diet": [
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy",
+    "eggs",
+    "peanuts",
+    "tree-nuts"
+   ],
+   "ingredients": "Grapes, Fruit & Nut Mix (Roasted Peanuts (Peanuts, High Oleic Canola And/or Sunflower Oil, Salt), Dried Apricots (Apricots, Sulfur Dioxide [added For Color Retention And As A Preservative]), Almonds (Almonds, High Oleic Canola And/or Sunflower Oil, Salt), Dried Cranberries (Cranberries, Sugar, Sunflower Oil), Walnuts, Raisins, Filberts), Cheddar Cheese (Pasteurized Milk, Cheese Culture, Salt, Enzymes, Annatto (Color)), Hard Cooked Eggs (Hard Cooked Eggs, Water, Citric Acid, Sodium Benzoate, And Nisin Preparation (As Preservatives)). Contains Milk, Egg, Peanuts, Tree Nuts."
+  },
+  {
+   "id": "301221479",
+   "name": "Birthday Cake Gelato",
+   "station": "Roasterie",
+   "category": "Gelato and Sorbet",
+   "mealPeriod": "Grab and Go",
+   "date": "2026-11-06",
+   "servingSize": "Small Cup (3.5 oz)",
+   "servingGrams": 99,
+   "calories": 224,
+   "proteinG": 4.86,
+   "carbsG": 28.21,
+   "fatG": 10.7,
+   "fiberG": 2.9,
+   "sugarG": 25.29,
+   "sodiumMg": 68,
+   "diet": [
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy",
+    "eggs",
+    "soy"
+   ],
+   "ingredients": "Milk, Cane Sugar, Cream, Coconut Oil, Chicory Root Extract, Dextrose, Egg Yolk, Cocoa (Alkalized), Natural Flavors, Cornstarch, Carob Gum, Canola Oil, Salt, Guar Gum, Lactic Acid Ester, Soy Lecithin, Gum Arabic. Contains Milk, Egg, Soy.."
+  },
+  {
+   "id": "301221480",
+   "name": "Chocolate Gelato",
+   "station": "Roasterie",
+   "category": "Gelato and Sorbet",
+   "mealPeriod": "Grab and Go",
+   "date": "2026-11-06",
+   "servingSize": "Small Cup (3.5 oz)",
+   "servingGrams": 99,
+   "calories": 185,
+   "proteinG": 5.84,
+   "carbsG": 22.37,
+   "fatG": 9.73,
+   "fiberG": 1.9,
+   "sugarG": 20.43,
+   "sodiumMg": 58,
+   "diet": [
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy",
+    "eggs"
+   ],
+   "ingredients": "Milk, Cane Sugar, Cream, Coconut Oil, Cocoa (Alkalized), Dextrose, Egg Yolk, Honey, Natural Flavors, Carob Gum, Sucrose Ester, Guar Gum, Lactic Acid Ester, Citric Acid. Contains Milk & Egg.."
+  },
+  {
+   "id": "301221481",
+   "name": "Chocolate Hazelnut Cookie Crunch Gelato",
+   "station": "Roasterie",
+   "category": "Gelato and Sorbet",
+   "mealPeriod": "Grab and Go",
+   "date": "2026-11-06",
+   "servingSize": "Small Cup (3.5 oz)",
+   "servingGrams": 99,
+   "calories": 214,
+   "proteinG": 5.84,
+   "carbsG": 25.29,
+   "fatG": 10.7,
+   "fiberG": 1.9,
+   "sugarG": 22.37,
+   "sodiumMg": 68,
+   "diet": [
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy",
+    "eggs",
+    "soy",
+    "tree-nuts",
+    "wheat-gluten"
+   ],
+   "ingredients": "Milk, Cane Sugar, Cream, Cocoa (Alkalized), Coconut Oil, Dextrose, Enriched Flour [Wheat Flour, Niacin, Reduced Iron, Thiamine Mononitrate (Vitamin B1), Riboflavin (Vitamin B2), Folic Acid], Vegetable Oil (Sunflower Oil), Hazelnuts, Natural Flavors, Pectin, Egg Yolk, Honey, Sucrose Esters, Carob Gum, Guar Gum, Lactic Acid Ester, Salt, Soy Lecithin, Citric Acid. Contains Eggs, Milk, Soy, Tree Nuts, Wheat.."
+  },
+  {
+   "id": "301221482",
+   "name": "Cashewmilk Salted Caramel Gelato",
+   "station": "Roasterie",
+   "category": "Gelato and Sorbet",
+   "mealPeriod": "Grab and Go",
+   "date": "2026-11-06",
+   "servingSize": "Small Cup (3.5 oz)",
+   "servingGrams": 99,
+   "calories": 198,
+   "proteinG": 0.99,
+   "carbsG": 29.77,
+   "fatG": 8.93,
+   "fiberG": 3,
+   "sugarG": 20.84,
+   "sodiumMg": 84,
+   "diet": [
+    "vegan",
+    "vegetarian"
+   ],
+   "allergens": [
+    "tree-nuts"
+   ],
+   "ingredients": "Cashewmilk [Filtered Water, Cashews, Invert Sugar [Citric Acid, Cane Sugar, Filtered Water], Caramel Syrup [Sugar, Glucose, Water], Coconut Oil, Tapioca Syrup Solids, Cane Sugar, Chicory Fiber, Dextrose, Maltodextrin, Natural Flavors, Mono- and Diglycerides, Himalayan Salt, Sunflower Lecithin, Pea Protein, Salt, Carob Gum, Guar Gum. Contains Tree Nuts."
+  },
+  {
+   "id": "301221483",
+   "name": "Vanilla Gelato",
+   "station": "Roasterie",
+   "category": "Gelato and Sorbet",
+   "mealPeriod": "Grab and Go",
+   "date": "2026-11-06",
+   "servingSize": "Small Cup (3.5 oz)",
+   "servingGrams": 99,
+   "calories": 195,
+   "proteinG": 4.86,
+   "carbsG": 24.32,
+   "fatG": 9.73,
+   "fiberG": 2.9,
+   "sugarG": 21.4,
+   "sodiumMg": 63,
+   "diet": [
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy"
+   ],
+   "ingredients": "Milk, Cane Sugar, Cream, Coconut Oil, Chicory Root Extract, Dextrose, Natural Flavors, Carob Gum, Sucrose Esters, Vanilla Beans, Guar Gum, Lactic Acid Ester. Contains Milk.."
+  },
+  {
+   "id": "301221484",
+   "name": "White Peppermint Bark Gelato",
+   "station": "Roasterie",
+   "category": "Gelato and Sorbet",
+   "mealPeriod": "Grab and Go",
+   "date": "2026-11-06",
+   "servingSize": "Small Cup (3.5 oz)",
+   "servingGrams": 99,
+   "calories": 214,
+   "proteinG": 3.89,
+   "carbsG": 29.18,
+   "fatG": 9.73,
+   "fiberG": 3.9,
+   "sugarG": 24.32,
+   "sodiumMg": 49,
+   "diet": [
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy"
+   ],
+   "ingredients": "Milk, Cane Sugar, Coconut Oil, Chicory Root Fiber, Peppermint Oil, Natural Flavors, Dextrose, Cocoa Butter, Rice Syrup, Sunflower Oil, Sunflower Lecithin, Cocoa (Processed with Alkali), Cocoa, Carob Gum, Guar Gum, Whey Protein Concentrate, Lactic Acid Esters, Sucrose Esters, Mono and Diglycerides. Contains Milk.."
+  },
+  {
+   "id": "301221485",
+   "name": "Raspberry Sorbet",
+   "station": "Roasterie",
+   "category": "Gelato and Sorbet",
+   "mealPeriod": "Grab and Go",
+   "date": "2026-11-06",
+   "servingSize": "Small Cup (3.5 oz)",
+   "servingGrams": 99,
+   "calories": 136,
+   "proteinG": 0.97,
+   "carbsG": 35.02,
+   "fatG": 0.97,
+   "fiberG": 5.8,
+   "sugarG": 24.32,
+   "sodiumMg": 5,
+   "diet": [
+    "halal",
+    "vegan",
+    "vegetarian"
+   ],
+   "allergens": [],
+   "ingredients": "Raspberries, Filtered Water, Cane Sugar, Glucose, Dextrose, Maltodextrin, Chicory Root Extract, Coconut Oil, Citric Acid, Sucrose Esters, Guar Gum, Carob Gum, Natural Flavor.."
+  }
+ ]
+}

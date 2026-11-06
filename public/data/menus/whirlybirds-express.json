@@ -1,0 +1,1114 @@
+{
+ "venue": "whirlybirds-express",
+ "fetchedAt": "2026-11-06T17:29:09.473Z",
+ "fixed": true,
+ "items": [
+  {
+   "id": "296968039",
+   "name": "Any Size Smoothie or Shake",
+   "station": "Whirlybird's Express",
+   "category": "Express Meal",
+   "mealPeriod": "Daily Menu",
+   "date": "2026-11-06",
+   "servingSize": "Each",
+   "servingGrams": 28,
+   "calories": null,
+   "proteinG": null,
+   "carbsG": null,
+   "fatG": null,
+   "fiberG": null,
+   "sugarG": null,
+   "sodiumMg": null,
+   "diet": [],
+   "allergens": null,
+   "ingredients": "Smoothie WB and GET & Go MDI."
+  },
+  {
+   "id": "296968011",
+   "name": "Acai Treatment 16 oz",
+   "station": "Whirlybird's Express",
+   "category": "Beverages",
+   "mealPeriod": "Daily Menu",
+   "date": "2026-11-06",
+   "servingSize": "16 oz",
+   "servingGrams": 557,
+   "calories": 365,
+   "proteinG": 1.81,
+   "carbsG": 80.95,
+   "fatG": 5.53,
+   "fiberG": 6.4,
+   "sugarG": 69.87,
+   "sodiumMg": 29,
+   "diet": [
+    "vegan",
+    "vegetarian"
+   ],
+   "allergens": [],
+   "ingredients": "Water, Acai Puree (Organic Acai, Water, Sugar, Citric Acid.), Strawberries, Blueberries, 100% Apple Juice (Concentrated Apple Juice, Water, Natural Flavors, Ascorbic Acid (Vitamin C), Potassium Citrate.)."
+  },
+  {
+   "id": "296968012",
+   "name": "Acai Treatment 24 oz",
+   "station": "Whirlybird's Express",
+   "category": "Beverages",
+   "mealPeriod": "Daily Menu",
+   "date": "2026-11-06",
+   "servingSize": "24 oz",
+   "servingGrams": 766,
+   "calories": 483,
+   "proteinG": 2.29,
+   "carbsG": 107.35,
+   "fatG": 7.06,
+   "fiberG": 8,
+   "sugarG": 93.67,
+   "sodiumMg": 42,
+   "diet": [
+    "vegan",
+    "vegetarian"
+   ],
+   "allergens": [],
+   "ingredients": "Water, Acai Puree (Organic Acai, Water, Sugar, Citric Acid.), Blueberries, Strawberries, 100% Apple Juice (Concentrated Apple Juice, Water, Natural Flavors, Ascorbic Acid (Vitamin C), Potassium Citrate.)."
+  },
+  {
+   "id": "296968013",
+   "name": "Cookies N' Cream 16 oz",
+   "station": "Whirlybird's Express",
+   "category": "Beverages",
+   "mealPeriod": "Daily Menu",
+   "date": "2026-11-06",
+   "servingSize": "16 oz",
+   "servingGrams": 519,
+   "calories": 897,
+   "proteinG": 14.97,
+   "carbsG": 114.64,
+   "fatG": 44.67,
+   "fiberG": 4.1,
+   "sugarG": 82.67,
+   "sodiumMg": 370,
+   "diet": [
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy",
+    "soy",
+    "wheat-gluten"
+   ],
+   "ingredients": "Vanilla Ice Cream (Milk, Cream, Skim Milk, Sugar, Buttermilk, Whey, Corn Syrup, Natural Flavors, Mono & Diglycerides, Carob Bean Gum, Cellulose Gum, Tara Gum, Carrageenan, Annatto Extract for Color. Contains Milk.), Water, 2% Milk (Pasteurized Reduced Fat Milk, Vitamin A Pamitate, Vitamin D3.), Oreo Cookie Pieces (Unbleached Enriched Flour (Wheat Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Sugar, Palm And/Or Canola Oil, Cocoa (Processed With Alkali), Invert Sugar, Leavening (Baking Soda And/Or Calcium Phosphate), Soy Lecithin, Salt, Chocolate, Natural Flavor. Contains Wheat & Soy.), Semi Sweet Chocolate Chips (Semi-Sweet Chocolate (Sugar, Chocolate, Cocoa Butter, Milk Fat, Soy Lecithin, Natural Flavor). Contains Milk & Soy.), Cocoa Powder (Cocoa.)."
+  },
+  {
+   "id": "296968014",
+   "name": "Cookies N' Cream 24 oz",
+   "station": "Whirlybird's Express",
+   "category": "Beverages",
+   "mealPeriod": "Daily Menu",
+   "date": "2026-11-06",
+   "servingSize": "24 oz",
+   "servingGrams": 727,
+   "calories": 1397,
+   "proteinG": 23.16,
+   "carbsG": 179.56,
+   "fatG": 69.96,
+   "fiberG": 7.1,
+   "sugarG": 130.5,
+   "sodiumMg": 550,
+   "diet": [
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy",
+    "soy",
+    "wheat-gluten"
+   ],
+   "ingredients": "Vanilla Ice Cream (Milk, Cream, Skim Milk, Sugar, Buttermilk, Whey, Corn Syrup, Natural Flavors, Mono & Diglycerides, Carob Bean Gum, Cellulose Gum, Tara Gum, Carrageenan, Annatto Extract for Color. Contains Milk.), 2% Milk (Pasteurized Reduced Fat Milk, Vitamin A Pamitate, Vitamin D3.), Water, Oreo Cookie Pieces (Unbleached Enriched Flour (Wheat Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Sugar, Palm And/Or Canola Oil, Cocoa (Processed With Alkali), Invert Sugar, Leavening (Baking Soda And/Or Calcium Phosphate), Soy Lecithin, Salt, Chocolate, Natural Flavor. Contains Wheat & Soy.), Semi Sweet Chocolate Chips (Semi-Sweet Chocolate (Sugar, Chocolate, Cocoa Butter, Milk Fat, Soy Lecithin, Natural Flavor). Contains Milk & Soy.), Cocoa Powder (Cocoa.)."
+  },
+  {
+   "id": "296968015",
+   "name": "Green Acres 16 oz",
+   "station": "Whirlybird's Express",
+   "category": "Beverages",
+   "mealPeriod": "Daily Menu",
+   "date": "2026-11-06",
+   "servingSize": "16 oz",
+   "servingGrams": 523,
+   "calories": 255,
+   "proteinG": 2.13,
+   "carbsG": 62.15,
+   "fatG": 0.8,
+   "fiberG": 3.7,
+   "sugarG": 55.01,
+   "sodiumMg": 41,
+   "diet": [
+    "vegan",
+    "vegetarian"
+   ],
+   "allergens": [],
+   "ingredients": "Water, Pineapple Cubes, Mango (Mango.), 100% Apple Juice (Concentrated Apple Juice, Water, Natural Flavors, Ascorbic Acid (Vitamin C), Potassium Citrate.), Spinach, Matcha Green Tea Supplement (Sugar, Matcha Green Tea, Pectin.)."
+  },
+  {
+   "id": "296968016",
+   "name": "Green Acres 24 oz",
+   "station": "Whirlybird's Express",
+   "category": "Beverages",
+   "mealPeriod": "Daily Menu",
+   "date": "2026-11-06",
+   "servingSize": "24 oz",
+   "servingGrams": 696,
+   "calories": 349,
+   "proteinG": 3.02,
+   "carbsG": 84.35,
+   "fatG": 1.09,
+   "fiberG": 4.6,
+   "sugarG": 75.54,
+   "sodiumMg": 66,
+   "diet": [
+    "vegan",
+    "vegetarian"
+   ],
+   "allergens": [],
+   "ingredients": "Water, Mango (Mango.), Pineapple Cubes, 100% Apple Juice (Concentrated Apple Juice, Water, Natural Flavors, Ascorbic Acid (Vitamin C), Potassium Citrate.), Spinach, Matcha Green Tea Supplement (Sugar, Matcha Green Tea, Pectin.)."
+  },
+  {
+   "id": "296968017",
+   "name": "Mixed Berry 16 oz",
+   "station": "Whirlybird's Express",
+   "category": "Beverages",
+   "mealPeriod": "Daily Menu",
+   "date": "2026-11-06",
+   "servingSize": "16 oz",
+   "servingGrams": 504,
+   "calories": 197,
+   "proteinG": 11.11,
+   "carbsG": 36.99,
+   "fatG": 0.41,
+   "fiberG": 2.9,
+   "sugarG": 30.13,
+   "sodiumMg": 65,
+   "diet": [
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy"
+   ],
+   "ingredients": "Water, Vanilla Greek Yogurt (Cultured Nonfat Milk, Cane Sugar, Water, Fruit Pectin, Natural Flavors, Guar Gum, Locust Bean Gum, Vanilla Extract, Lemon Juice Concentrate. Contains Dairy), Strawberries, Blueberries, 100% Apple Juice (Concentrated Apple Juice, Water, Natural Flavors, Ascorbic Acid (Vitamin C), Potassium Citrate.), Cranberry Juice (High Fructose Corn Syrup, Concentrated Cranberry Juice, Water, Citric Acid, Ascorbic Acid (Vitamin C), Potassium Citrate, Natural Flavor.)."
+  },
+  {
+   "id": "296968018",
+   "name": "Mixed Berry 24 oz",
+   "station": "Whirlybird's Express",
+   "category": "Beverages",
+   "mealPeriod": "Daily Menu",
+   "date": "2026-11-06",
+   "servingSize": "24 oz",
+   "servingGrams": 684,
+   "calories": 247,
+   "proteinG": 11.42,
+   "carbsG": 49.32,
+   "fatG": 0.71,
+   "fiberG": 4.5,
+   "sugarG": 39.39,
+   "sodiumMg": 72,
+   "diet": [
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy"
+   ],
+   "ingredients": "Water, Vanilla Greek Yogurt (Cultured Nonfat Milk, Cane Sugar, Water, Fruit Pectin, Natural Flavors, Guar Gum, Locust Bean Gum, Vanilla Extract, Lemon Juice Concentrate. Contains Dairy), Strawberries, Blueberries, 100% Apple Juice (Concentrated Apple Juice, Water, Natural Flavors, Ascorbic Acid (Vitamin C), Potassium Citrate.), Cranberry Juice (High Fructose Corn Syrup, Concentrated Cranberry Juice, Water, Citric Acid, Ascorbic Acid (Vitamin C), Potassium Citrate, Natural Flavor.)."
+  },
+  {
+   "id": "296968019",
+   "name": "PB Banana 16 oz",
+   "station": "Whirlybird's Express",
+   "category": "Beverages",
+   "mealPeriod": "Daily Menu",
+   "date": "2026-11-06",
+   "servingSize": "16 oz",
+   "servingGrams": 539,
+   "calories": 534,
+   "proteinG": 23.69,
+   "carbsG": 60.66,
+   "fatG": 21.78,
+   "fiberG": 5.8,
+   "sugarG": 43.53,
+   "sodiumMg": 269,
+   "diet": [
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy",
+    "peanuts"
+   ],
+   "ingredients": "Vanilla Greek Yogurt (Cultured Nonfat Milk, Cane Sugar, Water, Fruit Pectin, Natural Flavors, Guar Gum, Locust Bean Gum, Vanilla Extract, Lemon Juice Concentrate. Contains Dairy), 2% Milk (Pasteurized Reduced Fat Milk, Vitamin A Pamitate, Vitamin D3.), Water, Banana (Bananas, Ascorbic Acid (To Promote Color Retention), Citric Acid), Creamy Peanut Butter (Roasted Peanuts, Sugar, Hydrogenated Vegetable Oil (Cottonseed, Soybean and Rapeseed Oil), Salt. Contains Peanuts.), Coconut Cream (Coconut, Sugar, Water, Polysorbate 60, Sorbitan Monostearate, Salt, Propylene Glycol Alginate, Mono And Diglycerides (Emulsifiers), Citric Acid, Guar Gum, Locust Bean.)."
+  },
+  {
+   "id": "296968020",
+   "name": "PB Banana 24 oz",
+   "station": "Whirlybird's Express",
+   "category": "Beverages",
+   "mealPeriod": "Daily Menu",
+   "date": "2026-11-06",
+   "servingSize": "24 oz",
+   "servingGrams": 728,
+   "calories": 772,
+   "proteinG": 29.56,
+   "carbsG": 88.67,
+   "fatG": 33.68,
+   "fiberG": 9,
+   "sugarG": 63.2,
+   "sodiumMg": 369,
+   "diet": [
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy",
+    "peanuts"
+   ],
+   "ingredients": "Water, Banana (Bananas, Ascorbic Acid (To Promote Color Retention), Citric Acid), 2% Milk (Pasteurized Reduced Fat Milk, Vitamin A Pamitate, Vitamin D3.), Vanilla Greek Yogurt (Cultured Nonfat Milk, Cane Sugar, Water, Fruit Pectin, Natural Flavors, Guar Gum, Locust Bean Gum, Vanilla Extract, Lemon Juice Concentrate. Contains Dairy), Creamy Peanut Butter (Roasted Peanuts, Sugar, Hydrogenated Vegetable Oil (Cottonseed, Soybean and Rapeseed Oil), Salt. Contains Peanuts.), Coconut Cream (Coconut, Sugar, Water, Polysorbate 60, Sorbitan Monostearate, Salt, Propylene Glycol Alginate, Mono And Diglycerides (Emulsifiers), Citric Acid, Guar Gum, Locust Bean.)."
+  },
+  {
+   "id": "296968021",
+   "name": "PB&J 16 oz",
+   "station": "Whirlybird's Express",
+   "category": "Beverages",
+   "mealPeriod": "Daily Menu",
+   "date": "2026-11-06",
+   "servingSize": "16 oz",
+   "servingGrams": 539,
+   "calories": 357,
+   "proteinG": 7.89,
+   "carbsG": 45.35,
+   "fatG": 17.49,
+   "fiberG": 5,
+   "sugarG": 35.7,
+   "sodiumMg": 179,
+   "diet": [
+    "vegan",
+    "vegetarian"
+   ],
+   "allergens": [
+    "peanuts"
+   ],
+   "ingredients": "Water, Strawberries, 100% Apple Juice (Concentrated Apple Juice, Water, Natural Flavors, Ascorbic Acid (Vitamin C), Potassium Citrate.), Creamy Peanut Butter (Roasted Peanuts, Sugar, Hydrogenated Vegetable Oil (Cottonseed, Soybean and Rapeseed Oil), Salt. Contains Peanuts.), Acai Puree (Organic Acai, Water, Sugar, Citric Acid.)."
+  },
+  {
+   "id": "296968022",
+   "name": "PB&J 24 oz",
+   "station": "Whirlybird's Express",
+   "category": "Beverages",
+   "mealPeriod": "Daily Menu",
+   "date": "2026-11-06",
+   "servingSize": "24 oz",
+   "servingGrams": 797,
+   "calories": 654,
+   "proteinG": 15.42,
+   "carbsG": 75.54,
+   "fatG": 34.83,
+   "fiberG": 8.7,
+   "sugarG": 59.36,
+   "sodiumMg": 342,
+   "diet": [
+    "vegan",
+    "vegetarian"
+   ],
+   "allergens": [
+    "peanuts"
+   ],
+   "ingredients": "Water, Strawberries, Creamy Peanut Butter (Roasted Peanuts, Sugar, Hydrogenated Vegetable Oil (Cottonseed, Soybean and Rapeseed Oil), Salt. Contains Peanuts.), Acai Puree (Organic Acai, Water, Sugar, Citric Acid.), 100% Apple Juice (Concentrated Apple Juice, Water, Natural Flavors, Ascorbic Acid (Vitamin C), Potassium Citrate.)."
+  },
+  {
+   "id": "296968023",
+   "name": "Peanut Butter Dream 16 oz",
+   "station": "Whirlybird's Express",
+   "category": "Beverages",
+   "mealPeriod": "Daily Menu",
+   "date": "2026-11-06",
+   "servingSize": "16 oz",
+   "servingGrams": 483,
+   "calories": 868,
+   "proteinG": 20.58,
+   "carbsG": 91.88,
+   "fatG": 50.05,
+   "fiberG": 6.1,
+   "sugarG": 68.93,
+   "sodiumMg": 323,
+   "diet": [
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy",
+    "peanuts",
+    "soy"
+   ],
+   "ingredients": "Vanilla Ice Cream (Milk, Cream, Skim Milk, Sugar, Buttermilk, Whey, Corn Syrup, Natural Flavors, Mono & Diglycerides, Carob Bean Gum, Cellulose Gum, Tara Gum, Carrageenan, Annatto Extract for Color. Contains Milk.), 2% Milk (Pasteurized Reduced Fat Milk, Vitamin A Pamitate, Vitamin D3.), Banana (Bananas, Ascorbic Acid (To Promote Color Retention), Citric Acid), Water, Creamy Peanut Butter (Roasted Peanuts, Sugar, Hydrogenated Vegetable Oil (Cottonseed, Soybean and Rapeseed Oil), Salt. Contains Peanuts.), Semi Sweet Chocolate Chips (Semi-Sweet Chocolate (Sugar, Chocolate, Cocoa Butter, Milk Fat, Soy Lecithin, Natural Flavor). Contains Milk & Soy.), Cocoa Powder (Cocoa.)."
+  },
+  {
+   "id": "296968024",
+   "name": "Peanut Butter Dream 24 oz",
+   "station": "Whirlybird's Express",
+   "category": "Beverages",
+   "mealPeriod": "Daily Menu",
+   "date": "2026-11-06",
+   "servingSize": "24 oz",
+   "servingGrams": 734,
+   "calories": 1241,
+   "proteinG": 28.52,
+   "carbsG": 137.28,
+   "fatG": 70.54,
+   "fiberG": 8.5,
+   "sugarG": 105.85,
+   "sodiumMg": 417,
+   "diet": [
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy",
+    "peanuts",
+    "soy"
+   ],
+   "ingredients": "Vanilla Ice Cream (Milk, Cream, Skim Milk, Sugar, Buttermilk, Whey, Corn Syrup, Natural Flavors, Mono & Diglycerides, Carob Bean Gum, Cellulose Gum, Tara Gum, Carrageenan, Annatto Extract for Color. Contains Milk.), 2% Milk (Pasteurized Reduced Fat Milk, Vitamin A Pamitate, Vitamin D3.), Water, Banana (Bananas, Ascorbic Acid (To Promote Color Retention), Citric Acid), Semi Sweet Chocolate Chips (Semi-Sweet Chocolate (Sugar, Chocolate, Cocoa Butter, Milk Fat, Soy Lecithin, Natural Flavor). Contains Milk & Soy.), Creamy Peanut Butter (Roasted Peanuts, Sugar, Hydrogenated Vegetable Oil (Cottonseed, Soybean and Rapeseed Oil), Salt. Contains Peanuts.), Cocoa Powder (Cocoa.)."
+  },
+  {
+   "id": "296968025",
+   "name": "Purple Mountain 16 oz",
+   "station": "Whirlybird's Express",
+   "category": "Beverages",
+   "mealPeriod": "Daily Menu",
+   "date": "2026-11-06",
+   "servingSize": "16 oz",
+   "servingGrams": 547,
+   "calories": 334,
+   "proteinG": 2.18,
+   "carbsG": 76.76,
+   "fatG": 3.73,
+   "fiberG": 7.5,
+   "sugarG": 64.3,
+   "sodiumMg": 42,
+   "diet": [
+    "vegan",
+    "vegetarian"
+   ],
+   "allergens": [],
+   "ingredients": "Water, Blueberries, Strawberries, Acai Puree (Organic Acai, Water, Sugar, Citric Acid.), 100% Apple Juice (Concentrated Apple Juice, Water, Natural Flavors, Ascorbic Acid (Vitamin C), Potassium Citrate.), Spinach, Matcha Green Tea Supplement (Sugar, Matcha Green Tea, Pectin.)."
+  },
+  {
+   "id": "296968026",
+   "name": "Purple Mountain 24 oz",
+   "station": "Whirlybird's Express",
+   "category": "Beverages",
+   "mealPeriod": "Daily Menu",
+   "date": "2026-11-06",
+   "servingSize": "24 oz",
+   "servingGrams": 735,
+   "calories": 492,
+   "proteinG": 3.32,
+   "carbsG": 110.65,
+   "fatG": 6.29,
+   "fiberG": 9.5,
+   "sugarG": 94.77,
+   "sodiumMg": 68,
+   "diet": [
+    "vegan",
+    "vegetarian"
+   ],
+   "allergens": [],
+   "ingredients": "Water, Blueberries, Acai Puree (Organic Acai, Water, Sugar, Citric Acid.), Strawberries, 100% Apple Juice (Concentrated Apple Juice, Water, Natural Flavors, Ascorbic Acid (Vitamin C), Potassium Citrate.), Spinach, Matcha Green Tea Supplement (Sugar, Matcha Green Tea, Pectin.)."
+  },
+  {
+   "id": "296968027",
+   "name": "Smango 16 oz",
+   "station": "Whirlybird's Express",
+   "category": "Beverages",
+   "mealPeriod": "Daily Menu",
+   "date": "2026-11-06",
+   "servingSize": "16 oz",
+   "servingGrams": 513,
+   "calories": 244,
+   "proteinG": 11.56,
+   "carbsG": 47.73,
+   "fatG": 0.5,
+   "fiberG": 2.7,
+   "sugarG": 41.89,
+   "sodiumMg": 63,
+   "diet": [
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy"
+   ],
+   "ingredients": "Water, Vanilla Greek Yogurt (Cultured Nonfat Milk, Cane Sugar, Water, Fruit Pectin, Natural Flavors, Guar Gum, Locust Bean Gum, Vanilla Extract, Lemon Juice Concentrate. Contains Dairy), Mango (Mango.), Strawberries, 100% Apple Juice (Concentrated Apple Juice, Water, Natural Flavors, Ascorbic Acid (Vitamin C), Potassium Citrate.), Cranberry Juice (High Fructose Corn Syrup, Concentrated Cranberry Juice, Water, Citric Acid, Ascorbic Acid (Vitamin C), Potassium Citrate, Natural Flavor.)."
+  },
+  {
+   "id": "296968028",
+   "name": "Smango 24 oz",
+   "station": "Whirlybird's Express",
+   "category": "Beverages",
+   "mealPeriod": "Daily Menu",
+   "date": "2026-11-06",
+   "servingSize": "24 oz",
+   "servingGrams": 688,
+   "calories": 296,
+   "proteinG": 11.95,
+   "carbsG": 60.48,
+   "fatG": 0.67,
+   "fiberG": 3.8,
+   "sugarG": 52.52,
+   "sodiumMg": 70,
+   "diet": [
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy"
+   ],
+   "ingredients": "Water, Mango (Mango.), Vanilla Greek Yogurt (Cultured Nonfat Milk, Cane Sugar, Water, Fruit Pectin, Natural Flavors, Guar Gum, Locust Bean Gum, Vanilla Extract, Lemon Juice Concentrate. Contains Dairy), Strawberries, 100% Apple Juice (Concentrated Apple Juice, Water, Natural Flavors, Ascorbic Acid (Vitamin C), Potassium Citrate.), Cranberry Juice (High Fructose Corn Syrup, Concentrated Cranberry Juice, Water, Citric Acid, Ascorbic Acid (Vitamin C), Potassium Citrate, Natural Flavor.)."
+  },
+  {
+   "id": "296968029",
+   "name": "Strawberry Banana 16 oz",
+   "station": "Whirlybird's Express",
+   "category": "Beverages",
+   "mealPeriod": "Daily Menu",
+   "date": "2026-11-06",
+   "servingSize": "16 oz",
+   "servingGrams": 581,
+   "calories": 256,
+   "proteinG": 11.79,
+   "carbsG": 50.42,
+   "fatG": 0.24,
+   "fiberG": 3,
+   "sugarG": 39.81,
+   "sodiumMg": 75,
+   "diet": [
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy"
+   ],
+   "ingredients": "Water, Vanilla Greek Yogurt (Cultured Nonfat Milk, Cane Sugar, Water, Fruit Pectin, Natural Flavors, Guar Gum, Locust Bean Gum, Vanilla Extract, Lemon Juice Concentrate. Contains Dairy), Banana (Bananas, Ascorbic Acid (To Promote Color Retention), Citric Acid), Strawberries, 100% Apple Juice (Concentrated Apple Juice, Water, Natural Flavors, Ascorbic Acid (Vitamin C), Potassium Citrate.)."
+  },
+  {
+   "id": "296968030",
+   "name": "Strawberry Banana 24 oz",
+   "station": "Whirlybird's Express",
+   "category": "Beverages",
+   "mealPeriod": "Daily Menu",
+   "date": "2026-11-06",
+   "servingSize": "24 oz",
+   "servingGrams": 722,
+   "calories": 344,
+   "proteinG": 12.78,
+   "carbsG": 71.15,
+   "fatG": 0.32,
+   "fiberG": 5.3,
+   "sugarG": 52.82,
+   "sodiumMg": 80,
+   "diet": [
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy"
+   ],
+   "ingredients": "Water, Vanilla Greek Yogurt (Cultured Nonfat Milk, Cane Sugar, Water, Fruit Pectin, Natural Flavors, Guar Gum, Locust Bean Gum, Vanilla Extract, Lemon Juice Concentrate. Contains Dairy), Banana (Bananas, Ascorbic Acid (To Promote Color Retention), Citric Acid), Strawberries, 100% Apple Juice (Concentrated Apple Juice, Water, Natural Flavors, Ascorbic Acid (Vitamin C), Potassium Citrate.)."
+  },
+  {
+   "id": "296968031",
+   "name": "Strawberry Runner 16 oz",
+   "station": "Whirlybird's Express",
+   "category": "Beverages",
+   "mealPeriod": "Daily Menu",
+   "date": "2026-11-06",
+   "servingSize": "16 oz",
+   "servingGrams": 532,
+   "calories": 398,
+   "proteinG": 4.4,
+   "carbsG": 67.06,
+   "fatG": 13.09,
+   "fiberG": 2.1,
+   "sugarG": 54.91,
+   "sodiumMg": 69,
+   "diet": [
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy"
+   ],
+   "ingredients": "Pineapple Juice (Water, Concentrated Pineapple Juice, Ascorbic Acid (Vitamin C).), Vanilla Ice Cream (Milk, Cream, Skim Milk, Sugar, Buttermilk, Whey, Corn Syrup, Natural Flavors, Mono & Diglycerides, Carob Bean Gum, Cellulose Gum, Tara Gum, Carrageenan, Annatto Extract for Color. Contains Milk.), Strawberries, Water, Pineapple Cubes."
+  },
+  {
+   "id": "296968032",
+   "name": "Strawberry Runner 24 oz",
+   "station": "Whirlybird's Express",
+   "category": "Beverages",
+   "mealPeriod": "Daily Menu",
+   "date": "2026-11-06",
+   "servingSize": "24 oz",
+   "servingGrams": 801,
+   "calories": 498,
+   "proteinG": 4.66,
+   "carbsG": 91.91,
+   "fatG": 13.16,
+   "fiberG": 3.1,
+   "sugarG": 76.18,
+   "sodiumMg": 72,
+   "diet": [
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy"
+   ],
+   "ingredients": "Pineapple Juice (Water, Concentrated Pineapple Juice, Ascorbic Acid (Vitamin C).), Water, Vanilla Ice Cream (Milk, Cream, Skim Milk, Sugar, Buttermilk, Whey, Corn Syrup, Natural Flavors, Mono & Diglycerides, Carob Bean Gum, Cellulose Gum, Tara Gum, Carrageenan, Annatto Extract for Color. Contains Milk.), Strawberries, Pineapple Cubes."
+  },
+  {
+   "id": "296968033",
+   "name": "Strawberry Rush 24 oz",
+   "station": "Whirlybird's Express",
+   "category": "Beverages",
+   "mealPeriod": "Daily Menu",
+   "date": "2026-11-06",
+   "servingSize": "24 oz",
+   "servingGrams": 769,
+   "calories": 561,
+   "proteinG": 3.64,
+   "carbsG": 111.33,
+   "fatG": 13.7,
+   "fiberG": 6.5,
+   "sugarG": 98.25,
+   "sodiumMg": 148,
+   "diet": [
+    "vegan",
+    "vegetarian"
+   ],
+   "allergens": [],
+   "ingredients": "Red Bull (Carbonated Water, Sugar, Glucose, Citric Acid, Taurine, Natural & Artificial Flavors, Sodium Bicarbonate, Magnesium Carbonate, Colors, Caffeine, Niacinamide, Pyridoxine HCl, Calcium Pantothenate, Vitamin B12.), Water, Mango (Mango.), Strawberries, Coconut Cream (Coconut, Sugar, Water, Polysorbate 60, Sorbitan Monostearate, Salt, Propylene Glycol Alginate, Mono And Diglycerides (Emulsifiers), Citric Acid, Guar Gum, Locust Bean.), Cranberry Juice (High Fructose Corn Syrup, Concentrated Cranberry Juice, Water, Citric Acid, Ascorbic Acid (Vitamin C), Potassium Citrate, Natural Flavor.)."
+  },
+  {
+   "id": "296968034",
+   "name": "Tropical Blues 16 oz",
+   "station": "Whirlybird's Express",
+   "category": "Beverages",
+   "mealPeriod": "Daily Menu",
+   "date": "2026-11-06",
+   "servingSize": "16 oz",
+   "servingGrams": 525,
+   "calories": 352,
+   "proteinG": 12.22,
+   "carbsG": 60.65,
+   "fatG": 7.11,
+   "fiberG": 4,
+   "sugarG": 53.26,
+   "sodiumMg": 72,
+   "diet": [
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy"
+   ],
+   "ingredients": "Vanilla Greek Yogurt (Cultured Nonfat Milk, Cane Sugar, Water, Fruit Pectin, Natural Flavors, Guar Gum, Locust Bean Gum, Vanilla Extract, Lemon Juice Concentrate. Contains Dairy), Water, Pineapple Juice (Water, Concentrated Pineapple Juice, Ascorbic Acid (Vitamin C).), Blueberries, Pineapple Cubes, Coconut Cream (Coconut, Sugar, Water, Polysorbate 60, Sorbitan Monostearate, Salt, Propylene Glycol Alginate, Mono And Diglycerides (Emulsifiers), Citric Acid, Guar Gum, Locust Bean.)."
+  },
+  {
+   "id": "296968035",
+   "name": "Tropical Blues 24 oz",
+   "station": "Whirlybird's Express",
+   "category": "Beverages",
+   "mealPeriod": "Daily Menu",
+   "date": "2026-11-06",
+   "servingSize": "24 oz",
+   "servingGrams": 718,
+   "calories": 506,
+   "proteinG": 13.39,
+   "carbsG": 91.46,
+   "fatG": 10.94,
+   "fiberG": 7.4,
+   "sugarG": 78.54,
+   "sodiumMg": 81,
+   "diet": [
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy"
+   ],
+   "ingredients": "Blueberries, Water, Vanilla Greek Yogurt (Cultured Nonfat Milk, Cane Sugar, Water, Fruit Pectin, Natural Flavors, Guar Gum, Locust Bean Gum, Vanilla Extract, Lemon Juice Concentrate. Contains Dairy), Pineapple Juice (Water, Concentrated Pineapple Juice, Ascorbic Acid (Vitamin C).), Pineapple Cubes, Coconut Cream (Coconut, Sugar, Water, Polysorbate 60, Sorbitan Monostearate, Salt, Propylene Glycol Alginate, Mono And Diglycerides (Emulsifiers), Citric Acid, Guar Gum, Locust Bean.)."
+  },
+  {
+   "id": "296968036",
+   "name": "Tropical Twist 24 oz",
+   "station": "Whirlybird's Express",
+   "category": "Beverages",
+   "mealPeriod": "Daily Menu",
+   "date": "2026-11-06",
+   "servingSize": "24 oz",
+   "servingGrams": 676,
+   "calories": 651,
+   "proteinG": 3.88,
+   "carbsG": 118.87,
+   "fatG": 19.93,
+   "fiberG": 4.5,
+   "sugarG": 110.25,
+   "sodiumMg": 158,
+   "diet": [
+    "vegan",
+    "vegetarian"
+   ],
+   "allergens": [],
+   "ingredients": "Red Bull (Carbonated Water, Sugar, Glucose, Citric Acid, Taurine, Natural & Artificial Flavors, Sodium Bicarbonate, Magnesium Carbonate, Colors, Caffeine, Niacinamide, Pyridoxine HCl, Calcium Pantothenate, Vitamin B12.), Coconut Cream (Coconut, Sugar, Water, Polysorbate 60, Sorbitan Monostearate, Salt, Propylene Glycol Alginate, Mono And Diglycerides (Emulsifiers), Citric Acid, Guar Gum, Locust Bean.), Pineapple Juice (Water, Concentrated Pineapple Juice, Ascorbic Acid (Vitamin C).), Water, Mango (Mango.)."
+  },
+  {
+   "id": "296967994",
+   "name": "Banana",
+   "station": "Whirlybird's Express",
+   "category": "Build Your Own",
+   "mealPeriod": "Daily Menu",
+   "date": "2026-11-06",
+   "servingSize": "3 oz Ladle (2.03 oz)",
+   "servingGrams": 58,
+   "calories": 58,
+   "proteinG": 0.82,
+   "carbsG": 13.15,
+   "fatG": 0,
+   "fiberG": 1.6,
+   "sugarG": 6.99,
+   "sodiumMg": 0,
+   "diet": [
+    "halal",
+    "vegan",
+    "vegetarian"
+   ],
+   "allergens": [],
+   "ingredients": "Bananas, Ascorbic Acid (To Promote Color Retention), Citric Acid."
+  },
+  {
+   "id": "296967995",
+   "name": "Blueberries",
+   "station": "Whirlybird's Express",
+   "category": "Build Your Own",
+   "mealPeriod": "Daily Menu",
+   "date": "2026-11-06",
+   "servingSize": "3 oz Ladle (2.74 oz)",
+   "servingGrams": 78,
+   "calories": 40,
+   "proteinG": 0.33,
+   "carbsG": 9.45,
+   "fatG": 0.5,
+   "fiberG": 2.1,
+   "sugarG": 6.56,
+   "sodiumMg": 1,
+   "diet": [
+    "halal",
+    "vegan",
+    "vegetarian"
+   ],
+   "allergens": [],
+   "ingredients": "Blueberries frozen unsweetened (Includes foods for USDA's Food Distribution Program)."
+  },
+  {
+   "id": "296967996",
+   "name": "Semi Sweet Chocolate Chips",
+   "station": "Whirlybird's Express",
+   "category": "Build Your Own",
+   "mealPeriod": "Daily Menu",
+   "date": "2026-11-06",
+   "servingSize": "2 Oz Red Ladle",
+   "servingGrams": 45,
+   "calories": 212,
+   "proteinG": 3.02,
+   "carbsG": 30.24,
+   "fatG": 12.1,
+   "fiberG": 3,
+   "sugarG": 27.22,
+   "sodiumMg": 0,
+   "diet": [
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy",
+    "soy"
+   ],
+   "ingredients": "Semi-Sweet Chocolate (Sugar, Chocolate, Cocoa Butter, Milk Fat, Soy Lecithin, Natural Flavor). Contains Milk & Soy.."
+  },
+  {
+   "id": "296967997",
+   "name": "Vanilla Ice Cream",
+   "station": "Whirlybird's Express",
+   "category": "Build Your Own",
+   "mealPeriod": "Daily Menu",
+   "date": "2026-11-06",
+   "servingSize": "#8 Scoop (3.98 oz)",
+   "servingGrams": 113,
+   "calories": 233,
+   "proteinG": 3.89,
+   "carbsG": 25.94,
+   "fatG": 12.97,
+   "fiberG": 0,
+   "sugarG": 20.75,
+   "sodiumMg": 65,
+   "diet": [
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy"
+   ],
+   "ingredients": "Milk, Cream, Skim Milk, Sugar, Buttermilk, Whey, Corn Syrup, Natural Flavors, Mono & Diglycerides, Carob Bean Gum, Cellulose Gum, Tara Gum, Carrageenan, Annatto Extract for Color. Contains Milk.."
+  },
+  {
+   "id": "296967998",
+   "name": "Apple Juice",
+   "station": "Whirlybird's Express",
+   "category": "Build Your Own",
+   "mealPeriod": "Daily Menu",
+   "date": "2026-11-06",
+   "servingSize": "Ounce",
+   "servingGrams": 29,
+   "calories": 10,
+   "proteinG": 0.03,
+   "carbsG": 2.53,
+   "fatG": 0.02,
+   "fiberG": 0,
+   "sugarG": 2.38,
+   "sodiumMg": 3,
+   "diet": [
+    "vegan",
+    "vegetarian"
+   ],
+   "allergens": [],
+   "ingredients": "Water, 100% Apple Juice (Concentrated Apple Juice, Water, Natural Flavors, Ascorbic Acid (Vitamin C), Potassium Citrate.)."
+  },
+  {
+   "id": "296967999",
+   "name": "Cranberry Juice",
+   "station": "Whirlybird's Express",
+   "category": "Build Your Own",
+   "mealPeriod": "Daily Menu",
+   "date": "2026-11-06",
+   "servingSize": "Ounce",
+   "servingGrams": 29,
+   "calories": 10,
+   "proteinG": 0,
+   "carbsG": 2.55,
+   "fatG": 0,
+   "fiberG": 0,
+   "sugarG": 2.33,
+   "sodiumMg": 1,
+   "diet": [
+    "vegan",
+    "vegetarian"
+   ],
+   "allergens": [],
+   "ingredients": "Water, Cranberry Juice (High Fructose Corn Syrup, Concentrated Cranberry Juice, Water, Citric Acid, Ascorbic Acid (Vitamin C), Potassium Citrate, Natural Flavor.)."
+  },
+  {
+   "id": "296968000",
+   "name": "Pineapple Juice",
+   "station": "Whirlybird's Express",
+   "category": "Build Your Own",
+   "mealPeriod": "Daily Menu",
+   "date": "2026-11-06",
+   "servingSize": "Ounce",
+   "servingGrams": 28,
+   "calories": 14,
+   "proteinG": 0,
+   "carbsG": 3.37,
+   "fatG": 0,
+   "fiberG": 0,
+   "sugarG": 3.12,
+   "sodiumMg": 0,
+   "diet": [
+    "halal",
+    "vegan",
+    "vegetarian"
+   ],
+   "allergens": [],
+   "ingredients": "Water, Concentrated Pineapple Juice, Ascorbic Acid (Vitamin C).."
+  },
+  {
+   "id": "296968001",
+   "name": "Mango",
+   "station": "Whirlybird's Express",
+   "category": "Build Your Own",
+   "mealPeriod": "Daily Menu",
+   "date": "2026-11-06",
+   "servingSize": "3 oz Ladle (2.42 oz)",
+   "servingGrams": 69,
+   "calories": 44,
+   "proteinG": 0.49,
+   "carbsG": 10.29,
+   "fatG": 0.24,
+   "fiberG": 1,
+   "sugarG": 9.31,
+   "sodiumMg": 0,
+   "diet": [
+    "halal",
+    "vegan",
+    "vegetarian"
+   ],
+   "allergens": [],
+   "ingredients": "Mango.."
+  },
+  {
+   "id": "296968002",
+   "name": "2% Milk",
+   "station": "Whirlybird's Express",
+   "category": "Build Your Own",
+   "mealPeriod": "Daily Menu",
+   "date": "2026-11-06",
+   "servingSize": "Ounce",
+   "servingGrams": 28,
+   "calories": 14,
+   "proteinG": 0.93,
+   "carbsG": 1.39,
+   "fatG": 0.58,
+   "fiberG": 0,
+   "sugarG": 1.27,
+   "sodiumMg": 13,
+   "diet": [
+    "halal",
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy"
+   ],
+   "ingredients": "Pasteurized Reduced Fat Milk, Vitamin A Pamitate, Vitamin D3.."
+  },
+  {
+   "id": "296968003",
+   "name": "Oat Milk",
+   "station": "Whirlybird's Express",
+   "category": "Build Your Own",
+   "mealPeriod": "Daily Menu",
+   "date": "2026-11-06",
+   "servingSize": "Ounce",
+   "servingGrams": 28,
+   "calories": 17,
+   "proteinG": 0.35,
+   "carbsG": 1.89,
+   "fatG": 0.83,
+   "fiberG": 0.2,
+   "sugarG": 0.83,
+   "sodiumMg": 12,
+   "diet": [
+    "halal",
+    "vegan",
+    "vegetarian"
+   ],
+   "allergens": [],
+   "ingredients": "Oat Base (Water, Oats), Rapeseed Oil, Dipotassium Phosphate, Calcium Carbonate, Tricalcium Phosphate, Sea Salt, Dicalcium Phosphate, Riboflavin, Vitamin A, Vitamin D2, Vitamin B12.."
+  },
+  {
+   "id": "296968004",
+   "name": "Oreo Cookie Pieces",
+   "station": "Whirlybird's Express",
+   "category": "Build Your Own",
+   "mealPeriod": "Daily Menu",
+   "date": "2026-11-06",
+   "servingSize": "2 Oz Red Ladle",
+   "servingGrams": 28,
+   "calories": 136,
+   "proteinG": 1.05,
+   "carbsG": 21,
+   "fatG": 5.25,
+   "fiberG": 1,
+   "sugarG": 11.55,
+   "sodiumMg": 94,
+   "diet": [
+    "vegan",
+    "vegetarian"
+   ],
+   "allergens": [
+    "soy",
+    "wheat-gluten"
+   ],
+   "ingredients": "Unbleached Enriched Flour (Wheat Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Sugar, Palm And/Or Canola Oil, Cocoa (Processed With Alkali), Invert Sugar, Leavening (Baking Soda And/Or Calcium Phosphate), Soy Lecithin, Salt, Chocolate, Natural Flavor. Contains Wheat & Soy.."
+  },
+  {
+   "id": "296968005",
+   "name": "Creamy Peanut Butter",
+   "station": "Whirlybird's Express",
+   "category": "Build Your Own",
+   "mealPeriod": "Daily Menu",
+   "date": "2026-11-06",
+   "servingSize": "1 oz Scoop",
+   "servingGrams": 28,
+   "calories": 168,
+   "proteinG": 6.2,
+   "carbsG": 5.32,
+   "fatG": 14.17,
+   "fiberG": 1.8,
+   "sugarG": 2.66,
+   "sodiumMg": 133,
+   "diet": [
+    "halal",
+    "vegan",
+    "vegetarian"
+   ],
+   "allergens": [
+    "peanuts"
+   ],
+   "ingredients": "Roasted Peanuts, Sugar, Hydrogenated Vegetable Oil (Cottonseed, Soybean and Rapeseed Oil), Salt. Contains Peanuts.."
+  },
+  {
+   "id": "296968006",
+   "name": "Pineapple",
+   "station": "Whirlybird's Express",
+   "category": "Build Your Own",
+   "mealPeriod": "Daily Menu",
+   "date": "2026-11-06",
+   "servingSize": "3 oz Ladle (2.5 oz)",
+   "servingGrams": 71,
+   "calories": 51,
+   "proteinG": 0.51,
+   "carbsG": 11.14,
+   "fatG": 0,
+   "fiberG": 1,
+   "sugarG": 9.11,
+   "sodiumMg": 0,
+   "diet": [
+    "halal",
+    "vegan",
+    "vegetarian"
+   ],
+   "allergens": [],
+   "ingredients": "Pineapple Chunks Individually Quick Frozen Dole 1/20 Lb."
+  },
+  {
+   "id": "296968007",
+   "name": "Acai Puree",
+   "station": "Whirlybird's Express",
+   "category": "Build Your Own",
+   "mealPeriod": "Daily Menu",
+   "date": "2026-11-06",
+   "servingSize": "Ounce",
+   "servingGrams": 28,
+   "calories": 56,
+   "proteinG": 0.21,
+   "carbsG": 11.56,
+   "fatG": 1.19,
+   "fiberG": 0.5,
+   "sugarG": 11,
+   "sodiumMg": 2,
+   "diet": [
+    "halal",
+    "vegan",
+    "vegetarian"
+   ],
+   "allergens": [],
+   "ingredients": "Organic Acai, Water, Sugar, Citric Acid.."
+  },
+  {
+   "id": "296968008",
+   "name": "Strawberries",
+   "station": "Whirlybird's Express",
+   "category": "Build Your Own",
+   "mealPeriod": "Daily Menu",
+   "date": "2026-11-06",
+   "servingSize": "3 oz Ladle (1.85 oz)",
+   "servingGrams": 52,
+   "calories": 18,
+   "proteinG": 0.23,
+   "carbsG": 4.79,
+   "fatG": 0.06,
+   "fiberG": 1.1,
+   "sugarG": 2.39,
+   "sodiumMg": 1,
+   "diet": [
+    "halal",
+    "vegan",
+    "vegetarian"
+   ],
+   "allergens": [],
+   "ingredients": "Strawberries frozen unsweetened (Includes foods for USDA's Food Distribution Program)."
+  },
+  {
+   "id": "296968009",
+   "name": "Water",
+   "station": "Whirlybird's Express",
+   "category": "Build Your Own",
+   "mealPeriod": "Daily Menu",
+   "date": "2026-11-06",
+   "servingSize": "Ounce",
+   "servingGrams": 28,
+   "calories": 0,
+   "proteinG": 0,
+   "carbsG": 0,
+   "fatG": 0,
+   "fiberG": 0,
+   "sugarG": 0,
+   "sodiumMg": 1,
+   "diet": [],
+   "allergens": null,
+   "ingredients": "Beverages water tap drinking."
+  },
+  {
+   "id": "296968010",
+   "name": "Vanilla Greek Yogurt",
+   "station": "Whirlybird's Express",
+   "category": "Build Your Own",
+   "mealPeriod": "Daily Menu",
+   "date": "2026-11-06",
+   "servingSize": "1/2 Cup (4.5 oz)",
+   "servingGrams": 128,
+   "calories": 98,
+   "proteinG": 10.51,
+   "carbsG": 12.01,
+   "fatG": 0,
+   "fiberG": 0,
+   "sugarG": 11.26,
+   "sodiumMg": 49,
+   "diet": [
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy"
+   ],
+   "ingredients": "Cultured Nonfat Milk, Cane Sugar, Water, Fruit Pectin, Natural Flavors, Guar Gum, Locust Bean Gum, Vanilla Extract, Lemon Juice Concentrate. Contains Dairy."
+  },
+  {
+   "id": "296968037",
+   "name": "Soy Protein Blend",
+   "station": "Whirlybird's Express",
+   "category": "Toss Ins",
+   "mealPeriod": "Daily Menu",
+   "date": "2026-11-06",
+   "servingSize": "14.7 cc scoop",
+   "servingGrams": 6,
+   "calories": 20,
+   "proteinG": 5,
+   "carbsG": 0,
+   "fatG": 0,
+   "fiberG": 0,
+   "sugarG": 0,
+   "sodiumMg": 15,
+   "diet": [
+    "halal",
+    "vegan",
+    "vegetarian"
+   ],
+   "allergens": [
+    "soy"
+   ],
+   "ingredients": "Soy Protein Isolate."
+  },
+  {
+   "id": "296968038",
+   "name": "Organic Whey Protein Concentrate Powder",
+   "station": "Whirlybird's Express",
+   "category": "Toss Ins",
+   "mealPeriod": "Daily Menu",
+   "date": "2026-11-06",
+   "servingSize": "39cc Scoop (0.5 oz)",
+   "servingGrams": 14,
+   "calories": 55,
+   "proteinG": 11.06,
+   "carbsG": 1.13,
+   "fatG": 0.85,
+   "fiberG": 0,
+   "sugarG": 0.85,
+   "sodiumMg": 23,
+   "diet": [
+    "halal",
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy"
+   ],
+   "ingredients": "Whey Protein Concentrate. Contains Milk.."
+  }
+ ]
+}

@@ -1,0 +1,2043 @@
+{
+ "venue": "clydes",
+ "fetchedAt": "2026-11-06T17:28:52.685Z",
+ "fixed": true,
+ "items": [
+  {
+   "id": "301222088",
+   "name": "Chocolate Chip Bagel",
+   "station": "Bakery",
+   "category": "Bagels",
+   "mealPeriod": "Bakery Menu",
+   "date": "2026-11-06",
+   "servingSize": "Bagel",
+   "servingGrams": 96,
+   "calories": 237,
+   "proteinG": 8.04,
+   "carbsG": 45.29,
+   "fatG": 2.3,
+   "fiberG": 1.9,
+   "sugarG": 6.22,
+   "sodiumMg": 614,
+   "diet": [
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy",
+    "soy",
+    "wheat-gluten"
+   ],
+   "ingredients": "High Gluten Flour (Bleached Wheat Flour Enriched (Bleached Wheat Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Malted Barley Flour, Potassium Bromate. Contains Wheat.), Water, Mini Semi Sweet Chocolate Chips (Sugar, Chocolate Liquor, Cocoa Butter, Butterfat (Milk), Soy Lecithin, Vanilla. Contains Milk & Soy.), Bagel Base (Sugar, Sea Salt, Malted Barley Flour, Yeast, Molasses Powder (Molasses, Wheat Starch), Honey Powder (Honey, Maltodextrin), Soybean Oil, Hydrolyzed Wheat Gluten, Natural Flavor, Ascorbic Acid (Vitamin C), Enriched Wheat Flour (Wheat Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Enzymes. Contains Wheat.), Yellow Cornmeal (Degerminated Yellow Corn Meal, Niacin, Reduced Iron, Thiamin Mononitrate, Riboflavin, Folic Acid.), Malt Powder (Malted Barley, Wheat Flour, Dextrose. Contains Wheat), Instant Yeast (Yeast, Sorbitan Monostearate, Ascorbic Acid)."
+  },
+  {
+   "id": "301222089",
+   "name": "Jalapeno Cheddar Bagel",
+   "station": "Bakery",
+   "category": "Bagels",
+   "mealPeriod": "Bakery Menu",
+   "date": "2026-11-06",
+   "servingSize": "Bagel",
+   "servingGrams": 131,
+   "calories": 319,
+   "proteinG": 13.63,
+   "carbsG": 49.97,
+   "fatG": 6.72,
+   "fiberG": 1.9,
+   "sugarG": 4.27,
+   "sodiumMg": 831,
+   "diet": [
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy",
+    "wheat-gluten"
+   ],
+   "ingredients": "High Gluten Flour (Bleached Wheat Flour Enriched (Bleached Wheat Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Malted Barley Flour, Potassium Bromate. Contains Wheat.), Water, Mild White Cheddar Cheese (Cheddar Cheese (Pasteurized Milk, Cheese Culture, Salt, Enzymes), Potato Starch, Powdered Cellulose, Natamycin. Contains Milk.), Bagel Base (Sugar, Sea Salt, Malted Barley Flour, Yeast, Molasses Powder (Molasses, Wheat Starch), Honey Powder (Honey, Maltodextrin), Soybean Oil, Hydrolyzed Wheat Gluten, Natural Flavor, Ascorbic Acid (Vitamin C), Enriched Wheat Flour (Wheat Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Enzymes. Contains Wheat.), Sliced Fresh Jalapeno, Diced Jalapeno (Jalapeno Peppers, Water, Citric Acid, Salt, Calcium Chloride.), Yellow Cornmeal (Degerminated Yellow Corn Meal, Niacin, Reduced Iron, Thiamin Mononitrate, Riboflavin, Folic Acid.), Malt Powder (Malted Barley, Wheat Flour, Dextrose. Contains Wheat), Instant Yeast (Yeast, Sorbitan Monostearate, Ascorbic Acid)."
+  },
+  {
+   "id": "301222090",
+   "name": "Plain Bagel",
+   "station": "Bakery",
+   "category": "Bagels",
+   "mealPeriod": "Bakery Menu",
+   "date": "2026-11-06",
+   "servingSize": "Bagel",
+   "servingGrams": 114,
+   "calories": 269,
+   "proteinG": 10.01,
+   "carbsG": 53.32,
+   "fatG": 1.12,
+   "fiberG": 1.9,
+   "sugarG": 4.36,
+   "sodiumMg": 793,
+   "diet": [
+    "halal",
+    "vegetarian"
+   ],
+   "allergens": [
+    "wheat-gluten"
+   ],
+   "ingredients": "High Gluten Flour (Bleached Wheat Flour Enriched (Bleached Wheat Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Malted Barley Flour, Potassium Bromate. Contains Wheat.), Water, Bagel Base (Sugar, Sea Salt, Malted Barley Flour, Yeast, Molasses Powder (Molasses, Wheat Starch), Honey Powder (Honey, Maltodextrin), Soybean Oil, Hydrolyzed Wheat Gluten, Natural Flavor, Ascorbic Acid (Vitamin C), Enriched Wheat Flour (Wheat Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Enzymes. Contains Wheat.), Malt Powder (Malted Barley, Wheat Flour, Dextrose. Contains Wheat), Yellow Cornmeal (Degerminated Yellow Corn Meal, Niacin, Reduced Iron, Thiamin Mononitrate, Riboflavin, Folic Acid.), Instant Yeast (Yeast, Sorbitan Monostearate, Ascorbic Acid)."
+  },
+  {
+   "id": "301222091",
+   "name": "Pumpkin Bread",
+   "station": "Bakery",
+   "category": "Muffins, Breads, and Pastries",
+   "mealPeriod": "Bakery Menu",
+   "date": "2026-11-06",
+   "servingSize": "1 Slice (1/10)",
+   "servingGrams": 147,
+   "calories": 419,
+   "proteinG": 6,
+   "carbsG": 66.44,
+   "fatG": 15.44,
+   "fiberG": 1.5,
+   "sugarG": 42.6,
+   "sodiumMg": 439,
+   "diet": [
+    "vegetarian"
+   ],
+   "allergens": [
+    "eggs",
+    "wheat-gluten"
+   ],
+   "ingredients": "Pure Cane Sugar (Sugar.), Pumpkin (Pumpkin.), Patent Bread Flour (Wheat Flour, Malted Barley Flour, Niacin, Iron, Thiamin Mononitrate, Riboflavin, Folic Acid. Contains: Wheat), Water, Canola Oil, Egg (Whole Eggs, Sodium Phosphate, Citric Acid, Nisin Preparation. Contains Eggs.), Pastry Flour (Enriched Flour (Wheat Flour, Niacin, Iron, Thiamin Mononitrate, Riboflavin, Folic Acid). Contains Wheat), Baking Powder (Corn Starch, Sodium Bicarbonate, Sodium Aluminum Sulfate, Monocalcium Phosphate.), Kosher Salt, Baking Soda (Sodium Bicarbonate.), Ground Nutmeg, Cinnamon."
+  },
+  {
+   "id": "301222092",
+   "name": "Plain Croissant",
+   "station": "Bakery",
+   "category": "Muffins, Breads, and Pastries",
+   "mealPeriod": "Bakery Menu",
+   "date": "2026-11-06",
+   "servingSize": "1 Croissant",
+   "servingGrams": 70,
+   "calories": 280,
+   "proteinG": 6,
+   "carbsG": 29.02,
+   "fatG": 15.01,
+   "fiberG": 1,
+   "sugarG": 5,
+   "sodiumMg": 320,
+   "diet": [
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy",
+    "eggs",
+    "wheat-gluten"
+   ],
+   "ingredients": "Croissant (Unbleached Enriched Flour (Wheat Flour, Niacin, Reduced Iron, Thiamin Mononitrate, Riboflavin, Folic Acid), Butter (Cream), Water, Sugar, Yeast, Whole Milk Powder, Eggs, Salt, Wheat Gluten, Food Enzymes (Xylanase, Amylase), Ascorbic Acid. Contains Milk, Eggs, Wheat)."
+  },
+  {
+   "id": "301222093",
+   "name": "Strawberry Cream Cheese Danish",
+   "station": "Bakery",
+   "category": "Muffins, Breads, and Pastries",
+   "mealPeriod": "Bakery Menu",
+   "date": "2026-11-06",
+   "servingSize": "1 Danish",
+   "servingGrams": 101,
+   "calories": 337,
+   "proteinG": 4.96,
+   "carbsG": 42.67,
+   "fatG": 14.88,
+   "fiberG": 1,
+   "sugarG": 16.87,
+   "sodiumMg": 347,
+   "diet": [
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy",
+    "eggs",
+    "soy",
+    "wheat-gluten"
+   ],
+   "ingredients": "Strawberry Cream Cheese Danish (Unbleached Enriched Flour, Cream Cheese Filling (Glucose-Fructose, Sugar, Cream Cheese, Modified Corn Starch, Copra Oil, Propylene Glycol, Sodium Alginate, Natural And Artificial Flavor, Salt, Potassium Sorbate, Sodium Benzoate, Sorbitan Monostearate, Polysorbate 60, Titanium Dioxide, Lactic Acid, Tartrazine Colour, Yellow Sunset Color), Butter, Strawberry Filling (Glucose-Fructose, Sugar, Strawberries, Modified Corn Starch, Propylene Glycol, Citric Acid, Sodium Alginate, Natural & Artificial Flavor, Potassium Sorbate, Aalt, Allura Red Color, Yellow Sunset Color, Sodium Citrate, Caramel Color), Water, Yeast, Sugar, Liquid Whole Eggs, Partly Skimmed Milk, Salt, Wheat Gluten, Food Enzymes (Xylanase, Amylase), Ascorbic Acid, Dried Whole Eggs, Skim Milk Powder, Soy Flour. Contains Wheat, Milk, Dairy, Soy.)."
+  },
+  {
+   "id": "301222094",
+   "name": "Glazed Cinnamon Twist Donut",
+   "station": "Bakery",
+   "category": "Muffins, Breads, and Pastries",
+   "mealPeriod": "Bakery Menu",
+   "date": "2026-11-06",
+   "servingSize": "1 Twist",
+   "servingGrams": 120,
+   "calories": 374,
+   "proteinG": 7.4,
+   "carbsG": 57.78,
+   "fatG": 12.63,
+   "fiberG": 1.8,
+   "sugarG": 18.33,
+   "sodiumMg": 497,
+   "diet": [
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy",
+    "eggs",
+    "soy",
+    "wheat-gluten"
+   ],
+   "ingredients": "Donut Mix (Enriched Wheat Flour Bleached (Flour, Niacin, Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Soybean Oil, Dextrose, Beta-Carotene (Color), Defatted Soy Flour, Dough Conditioner (Ascorbic Acid), Eggs, Leavening (Baking Soda, Sodium Acid Pyrophosphate), Mono And Diglycerides, Natural And Artificial Flavor, Salt, Sodium Stearoyl Lactylate, Whey. Contains Wheat, Milk, Soy, Egg), Water, Donut Glaze (Sugar, Water, Maltodextrin, Cornstarch, Agar-Agar, Carob Bean Gum, Citric Acid, Disodium Phosphate, Mono- And Diglycerides, Potassium Sorbate.), Soy Palm Shortening (Palm Oil, Soybean Oil, Hydrogenated Soybean Oil.), Instant Yeast (Yeast, Sorbitan Monostearate, Ascorbic Acid), Cinnamon."
+  },
+  {
+   "id": "301222095",
+   "name": "Blueberry Muffin",
+   "station": "Bakery",
+   "category": "Muffins, Breads, and Pastries",
+   "mealPeriod": "Bakery Menu",
+   "date": "2026-11-06",
+   "servingSize": "Muffin",
+   "servingGrams": 141,
+   "calories": 439,
+   "proteinG": 5.02,
+   "carbsG": 57.09,
+   "fatG": 22.21,
+   "fiberG": 1.1,
+   "sugarG": 34.98,
+   "sodiumMg": 385,
+   "diet": [
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy",
+    "eggs",
+    "soy",
+    "wheat-gluten"
+   ],
+   "ingredients": "Creme Cake Base (Sugar, Enriched Wheat Flour Bleached (Flour, Niacin, Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Food Starch-modified, Soybean Oil, Defatted Soy Flour, Eggs, Leavening (Aluminum Sulfate, Baking Soda, Sodium Aluminum Phosphate), Mono- And Diglycerides, Natural And Artificial Flavor, Propylene Glycol Mono- And Diesters Of Fatty Acids, Salt, Sodium Stearoyl Lactylate, Vital Wheat Gluten, Whey. Contains Milk, Wheat, Egg, Soy.), Egg (Whole Eggs, Sodium Phosphate, Citric Acid, Nisin Preparation. Contains Eggs.), Wild Blueberries, Canola Oil, Water, Blueberry Pie Filling (Blueberries, Water, High Fructose Corn Syrup, Modified Food Starch (Corn), Potassium Sorbate (Preservative), Artificial Flavor, Citric Acid.), White Coarse Sugar (Sugar, Confectioners Glaze, Carnauba Wax.)."
+  },
+  {
+   "id": "301222096",
+   "name": "Chocolate Raspberry Muffin",
+   "station": "Bakery",
+   "category": "Muffins, Breads, and Pastries",
+   "mealPeriod": "Bakery Menu",
+   "date": "2026-11-06",
+   "servingSize": "Muffin",
+   "servingGrams": 135,
+   "calories": 452,
+   "proteinG": 5.81,
+   "carbsG": 58.02,
+   "fatG": 25.18,
+   "fiberG": 1.4,
+   "sugarG": 37.62,
+   "sodiumMg": 506,
+   "diet": [
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy",
+    "eggs",
+    "soy",
+    "wheat-gluten"
+   ],
+   "ingredients": "Chocolate Creme Mix (Sugar, Enriched Wheat Flour Bleached (Flour, Niacin, Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Food Starch-Modified, Cocoa Processed With Alkali, Soybean Oil, Whey, Artificial Flavor, Caramel Color, Defatted Soy Flour, Eggs, Leavening (Aluminum Sulfate, Baking Soda, Sodium Aluminum Phosphate), Mono And Diglycerides, Propylene Glycol Mono And Diesters Of Fatty Acids, Red 40, Salt, Sodium Stearoyl Lactylate, Sulfites, Vital Wheat Gluten. Contains Egg, Milk, Soy, Wheat.), Egg (Whole Eggs, Sodium Phosphate, Citric Acid, Nisin Preparation. Contains Eggs.), Canola Oil, Water, Raspberries, Raspberry Pie Filling (High Fructose Corn Syrup, Water, Raspberries, Modified Food Starch, Corn Syrup, Cellulose Gum, Citric Acid, Color Added (Caramel, Red 40), Natural Flavor, Potassium Sorbate and Sodium Benzoate (Preservatives), Sodium Citrate.), White Chocolate Chips (Sugar, Fractionated Palm Kernel Oil, Nonfat Milk, Hydrogenated Palm Oil, Soy Lecithin, Natural Flavor. Contains Milk & Soy.)."
+  },
+  {
+   "id": "301222097",
+   "name": "Cinnamon Roll w/ Cream Cheese Frosting",
+   "station": "Bakery",
+   "category": "Muffins, Breads, and Pastries",
+   "mealPeriod": "Bakery Menu",
+   "date": "2026-11-06",
+   "servingSize": "1 Roll",
+   "servingGrams": 166,
+   "calories": 541,
+   "proteinG": 9.95,
+   "carbsG": 91,
+   "fatG": 15.11,
+   "fiberG": 4,
+   "sugarG": 48.93,
+   "sodiumMg": 544,
+   "diet": [
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy",
+    "eggs",
+    "soy",
+    "wheat-gluten"
+   ],
+   "ingredients": "Cinnamon Roll Dough (Enriched Unbleached Flour (Wheat Flour, Malted Barley Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Water, Powdered Sugar (Cornstarch Added To Prevent Caking), High Fructose Corn Syrup, Yeast, Palm Oil, Egg, Whey, Soybean Oil, Salt, Datem, Dextrose, Ascorbic Acid, Enzyme, Sodium Benzoate (Preservative), Citric Acid, Beta Carotene (Color), Vitamin A Palmitate, Mono-and Diglycerides, Proprionic Acid, Phosphoric Acid, Cinnamon, Natural And Artificial Flavor, Apo Carotenal, Alpha Tocopherol (Freshness), Sodium Stearoyl Lactylate, Wheat Starch, Vegetable Color Extracted From Annatto And Turmeric, Yellow Corn Flour, Food Starch – Modified, Soy Lecithin. Contains Wheat, Egg, Milk, Soy.), Cream Cheese Icing (Sugar, Cream Cheese (Milk, Cream (From Milk), Cheese Culture, Salt, Carob Bean Gum), Vegetable Shortening (Palm Oil, Mono And Diglycerides, Polysorbate 60), Corn Syrup, Water, Salt, Lactic Acid (Sodium Benzoate, Potassium Sorbate), Whey (Milk), Guar Gum, Cultured Whey (Milk), Maltodextrin, Citric Acid, Artificial Colors (Yellow 5, Yellow 6). Contains Milk.), Pure Cane Sugar (Sugar.), Water, Light Corn Syrup (Corn Syrup, Salt, Vanilla Extract (Vanilla Beans, Water, Ethyl Alcohol).), Orange Marmalade (High Fructose Corn Syrup, Corn Syrup, Orange Peel, Orange Juice From Concentrate (Water, Orange Juice Concentrate), Fruit Pectin, Citric Acid, Natural Orange Flavor.)."
+  },
+  {
+   "id": "301222098",
+   "name": "Salted Caramel Rice Krispie Bar",
+   "station": "Bakery",
+   "category": "Cookies, Bars, and Desserts",
+   "mealPeriod": "Bakery Menu",
+   "date": "2026-11-06",
+   "servingSize": "3x4 Cut",
+   "servingGrams": 125,
+   "calories": 562,
+   "proteinG": 6.3,
+   "carbsG": 98.8,
+   "fatG": 15.23,
+   "fiberG": 0,
+   "sugarG": 64.59,
+   "sodiumMg": 496,
+   "diet": [],
+   "allergens": [
+    "dairy",
+    "soy",
+    "wheat-gluten"
+   ],
+   "ingredients": "Mini Marshmallows (Corn Syrup, Sugar, Modified Cornstarch, Dextrose, Water, Gelatin, Tetrasodium Pyrophosphate (Whipping Aid), Natural & Artificial Flavor, Blue 1.), Candy Caramel Bits (Sugar, Corn Syrup, Liquid Sugar, Nonfat Milk, Palm Oil, Butter, Salt, Mono- And Diglycerides, Soy Lecithin. Contains Milk And Soy.), Rice Krispies Cereal (Rice, Sugar, Contains 2% Or Less Of Salt, Malt Flavor. Vitamins And Minerals: Iron (Ferric Phosphate), Niacinamide, Vitamin B6 (Pyridoxine Hydrochloride), Vitamin B2 (Riboflavin), Vitamin B1 (Thiamin Hydrochloride), Folic Acid, Vitamin D3, Vitamin B12.), Unsalted Butter (Pasteurized Cream & Natural Flavorings. Contains Milk.), Caramel Sauce (Corn Syrup, High Fructose Corn Syrup, Sugar, Condensed Nonfat Milk, Heavy Whipping Cream, Water, Salt, Artificial Flavor, Pectin, Disodium Phosphate. Contains Milk.), Whipping Cream (Cream (Milk).), Kosher Salt, Coarse Sea Salt."
+  },
+  {
+   "id": "301222099",
+   "name": "Peanut Butter Monster Cookie Bar",
+   "station": "Bakery",
+   "category": "Cookies, Bars, and Desserts",
+   "mealPeriod": "Bakery Menu",
+   "date": "2026-11-06",
+   "servingSize": "1 Piece (1/12)",
+   "servingGrams": 125,
+   "calories": 571,
+   "proteinG": 11.48,
+   "carbsG": 65.86,
+   "fatG": 30.94,
+   "fiberG": 4.9,
+   "sugarG": 47.19,
+   "sodiumMg": 269,
+   "diet": [
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy",
+    "eggs",
+    "peanuts",
+    "soy",
+    "wheat-gluten"
+   ],
+   "ingredients": "Creamy Peanut Butter (Roasted Peanuts, Sugar, Hydrogenated Vegetable Oil (Cottonseed, Soybean and Rapeseed Oil), Salt. Contains Peanuts.), Quick Rolled Oats, Brown Sugar (Brown Cane Sugar.), Pure Cane Sugar (Sugar.), Unsalted Butter (Pasteurized Cream & Natural Flavorings. Contains Milk.), Semi Sweet Chocolate Chips (Semi-Sweet Chocolate (Sugar, Chocolate, Cocoa Butter, Milk Fat, Soy Lecithin, Natural Flavor). Contains Milk & Soy.), Mini M&M Candy, Egg (Whole Eggs, Sodium Phosphate, Citric Acid, Nisin Preparation. Contains Eggs.), Vanilla Extract (Water, Alcohol, Vanillin, Artificial Flavorings, Citric Acid.), Baking Soda (Sodium Bicarbonate.)."
+  },
+  {
+   "id": "301222100",
+   "name": "Chocolate Chip Cookie",
+   "station": "Bakery",
+   "category": "Cookies, Bars, and Desserts",
+   "mealPeriod": "Bakery Menu",
+   "date": "2026-11-06",
+   "servingSize": "1 Cookie",
+   "servingGrams": 85,
+   "calories": 363,
+   "proteinG": 3.4,
+   "carbsG": 53.33,
+   "fatG": 16.81,
+   "fiberG": 1.9,
+   "sugarG": 34.42,
+   "sodiumMg": 272,
+   "diet": [
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy",
+    "eggs",
+    "soy",
+    "wheat-gluten"
+   ],
+   "ingredients": "Chocolate Chip Dough Cookie (Semi-Sweet Chocolate Chips (Sugar, Chocolate Liquor, Cocoa Butter, Milkfat, Soy Lecithin, Natural Flavors), Enriched Wheat Flour (Bleached And Unbleached Wheat Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin), Butter, Brown Sugar, Sugar, Eggs (Pasteurized), Water, Invert Sugar, Modified Food Starch, Salt, Vanilla, Baking Soda, Soy Lecithin, Guar Gum. Contains Eggs, Milk, Soy, Wheat.)."
+  },
+  {
+   "id": "301222101",
+   "name": "Triple Chocolate Cookie",
+   "station": "Bakery",
+   "category": "Cookies, Bars, and Desserts",
+   "mealPeriod": "Bakery Menu",
+   "date": "2026-11-06",
+   "servingSize": "1 Cookie",
+   "servingGrams": 85,
+   "calories": 311,
+   "proteinG": 3.49,
+   "carbsG": 43.63,
+   "fatG": 14.37,
+   "fiberG": 1.7,
+   "sugarG": 28.83,
+   "sodiumMg": 205,
+   "diet": [
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy",
+    "eggs",
+    "soy",
+    "wheat-gluten"
+   ],
+   "ingredients": "Triple Chocolate Cookie Dough (Enriched Wheat Flour (Bleached And Unbleached Wheat Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin), Sugar, White Confectionery Chunks (Sugar, Palm Kernel Oil, Nonfat Milk Powder, Whey Powder, Palm Oil, Soy Lecithin, Vanilla), Butter, Chocolate Chunks (Sugar, Chocolate Liquor, Cocoa Butter, Dextrose, Soy Lecithin, Vanilla), Eggs (Pasteurized), Cocoa, Water, Salt, Molasses, Baking Soda, Soy Lecithin, Vanilla. Contains Eggs, Milk, Soy, Wheat.)."
+  },
+  {
+   "id": "301222016",
+   "name": "Sourdough Bread",
+   "station": "Clyde's",
+   "category": "Made to Order Breakfast Sandwich : Breads",
+   "mealPeriod": "Breakfast",
+   "date": "2026-11-06",
+   "servingSize": "2 Slices",
+   "servingGrams": 116,
+   "calories": 300,
+   "proteinG": 12,
+   "carbsG": 56,
+   "fatG": 3,
+   "fiberG": 2,
+   "sugarG": 2,
+   "sodiumMg": 660,
+   "diet": [
+    "halal",
+    "vegan",
+    "vegetarian"
+   ],
+   "allergens": [
+    "wheat-gluten"
+   ],
+   "ingredients": "Unbleached Enriched Flour (Wheat Flour, Malted Barley Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Water, Yeast, Wheat Flour, Salt, Malted Barley Flour (Contains Wheat), Fumaric Acid, Acetic Acid, Lactic Acid, Fully Refined Soybean Oil, Granulated Sugar, Wheat Gluten, Calcium Propionate (to retain freshness), Dough Improver (Malted Wheat Flour, Enzymes, Ascorbic Acid. Contains Wheat.."
+  },
+  {
+   "id": "301222017",
+   "name": "Wheat Berry Bread",
+   "station": "Clyde's",
+   "category": "Made to Order Breakfast Sandwich : Breads",
+   "mealPeriod": "Breakfast",
+   "date": "2026-11-06",
+   "servingSize": "2 Slices",
+   "servingGrams": 120,
+   "calories": 360,
+   "proteinG": 12,
+   "carbsG": 64,
+   "fatG": 6,
+   "fiberG": 4,
+   "sugarG": 10,
+   "sodiumMg": 600,
+   "diet": [
+    "halal",
+    "vegetarian"
+   ],
+   "allergens": [
+    "wheat-gluten"
+   ],
+   "ingredients": "Unbleached Enriched Flour (Wheat Flour, Malted Barley Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Water, Coarse Cracked Wheat, Yeast, Honey, Fully Refined Soybean Oil, Granulated Sugar, Wheat Gluten, Salt, Calcium Propionate (to retain freshness), Tapioca, Malt, Dough Improver (Malted Wheat Flour, Enzymes, Ascorbic Acid), Enriched Wheat Flour (Wheat Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin , Folic Acid), Enzymes, Caramel Color, Ascorbic Acid. Contains Wheat.."
+  },
+  {
+   "id": "301222018",
+   "name": "Plain Croissant",
+   "station": "Clyde's",
+   "category": "Made to Order Breakfast Sandwich : Breads",
+   "mealPeriod": "Breakfast",
+   "date": "2026-11-06",
+   "servingSize": "1 Croissant",
+   "servingGrams": 70,
+   "calories": 280,
+   "proteinG": 6,
+   "carbsG": 29.02,
+   "fatG": 15.01,
+   "fiberG": 1,
+   "sugarG": 5,
+   "sodiumMg": 320,
+   "diet": [
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy",
+    "eggs",
+    "wheat-gluten"
+   ],
+   "ingredients": "Croissant (Unbleached Enriched Flour (Wheat Flour, Niacin, Reduced Iron, Thiamin Mononitrate, Riboflavin, Folic Acid), Butter (Cream), Water, Sugar, Yeast, Whole Milk Powder, Eggs, Salt, Wheat Gluten, Food Enzymes (Xylanase, Amylase), Ascorbic Acid. Contains Milk, Eggs, Wheat)."
+  },
+  {
+   "id": "301222019",
+   "name": "Bagel",
+   "station": "Clyde's",
+   "category": "Made to Order Breakfast Sandwich : Breads",
+   "mealPeriod": "Breakfast",
+   "date": "2026-11-06",
+   "servingSize": "Each",
+   "servingGrams": 28,
+   "calories": null,
+   "proteinG": null,
+   "carbsG": null,
+   "fatG": null,
+   "fiberG": null,
+   "sugarG": null,
+   "sodiumMg": null,
+   "diet": [],
+   "allergens": null,
+   "ingredients": "Assorted Bagels MDI (FALL 2026)."
+  },
+  {
+   "id": "301222005",
+   "name": "Fried Egg",
+   "station": "Clyde's",
+   "category": "Made to Order Breakfast Sandwich : Eggs",
+   "mealPeriod": "Breakfast",
+   "date": "2026-11-06",
+   "servingSize": "1 Egg",
+   "servingGrams": 55,
+   "calories": 114,
+   "proteinG": 6.31,
+   "carbsG": 0.49,
+   "fatG": 9.61,
+   "fiberG": 0,
+   "sugarG": 0,
+   "sodiumMg": 66,
+   "diet": [
+    "halal",
+    "vegetarian"
+   ],
+   "allergens": [
+    "eggs"
+   ],
+   "ingredients": "Egg, Canola Oil."
+  },
+  {
+   "id": "301222003",
+   "name": "Bacon",
+   "station": "Clyde's",
+   "category": "Made to Order Breakfast Sandwich : Protein",
+   "mealPeriod": "Breakfast",
+   "date": "2026-11-06",
+   "servingSize": "2 Strips",
+   "servingGrams": 45,
+   "calories": 180,
+   "proteinG": 6,
+   "carbsG": 0,
+   "fatG": 16.8,
+   "fiberG": 0,
+   "sugarG": 0,
+   "sodiumMg": 446,
+   "diet": [],
+   "allergens": [],
+   "ingredients": "Pork Bacon (Pork, Water, Salt, Sugar, Dextrose, Sodium Erythorbate, Sodium Nitrite.)."
+  },
+  {
+   "id": "301222004",
+   "name": "Shaved Ham",
+   "station": "Clyde's",
+   "category": "Made to Order Breakfast Sandwich : Protein",
+   "mealPeriod": "Breakfast",
+   "date": "2026-11-06",
+   "servingSize": "2 oz Portion",
+   "servingGrams": 57,
+   "calories": 67,
+   "proteinG": 10,
+   "carbsG": 0.67,
+   "fatG": 3,
+   "fiberG": 0,
+   "sugarG": 0.67,
+   "sodiumMg": 593,
+   "diet": [],
+   "allergens": null,
+   "ingredients": "Ham (Ham, Water, Salt, Dextrose, Sodium Phosphates, Sodium Erythorbate, Sodium Nitrite.)."
+  },
+  {
+   "id": "301222006",
+   "name": "Chicken Sausage Patty",
+   "station": "Clyde's",
+   "category": "Made to Order Breakfast Sandwich : Protein",
+   "mealPeriod": "Breakfast",
+   "date": "2026-11-06",
+   "servingSize": "2 Sausages (3 oz)",
+   "servingGrams": 85,
+   "calories": 162,
+   "proteinG": 12.15,
+   "carbsG": 0,
+   "fatG": 12.15,
+   "fiberG": 0,
+   "sugarG": 0,
+   "sodiumMg": 547,
+   "diet": [],
+   "allergens": null,
+   "ingredients": "Chicken Sausage Patty (Chicken, Water, Salt, Spices, Dextrose, Sugar, Dried Parsley.)."
+  },
+  {
+   "id": "301222010",
+   "name": "White American Cheese",
+   "station": "Clyde's",
+   "category": "Made to Order Breakfast Sandwich : Cheese",
+   "mealPeriod": "Breakfast",
+   "date": "2026-11-06",
+   "servingSize": "Slice",
+   "servingGrams": 19,
+   "calories": 70,
+   "proteinG": 3,
+   "carbsG": 1,
+   "fatG": 6,
+   "fiberG": 0,
+   "sugarG": 1,
+   "sodiumMg": 340,
+   "diet": [],
+   "allergens": [
+    "dairy",
+    "soy"
+   ],
+   "ingredients": "Milk, Cream, Water, Sodium Citrate, Salt, Cheese Culture, Sorbic Acid, Enzymes, Citric Acid, Soy Lecithin. Contains Milk, Soy.."
+  },
+  {
+   "id": "301222011",
+   "name": "Cheddar Cheese",
+   "station": "Clyde's",
+   "category": "Made to Order Breakfast Sandwich : Cheese",
+   "mealPeriod": "Breakfast",
+   "date": "2026-11-06",
+   "servingSize": "1 Slice (0.75 oz)",
+   "servingGrams": 21,
+   "calories": 81,
+   "proteinG": 5.06,
+   "carbsG": 0,
+   "fatG": 9.11,
+   "fiberG": 0,
+   "sugarG": 0,
+   "sodiumMg": 182,
+   "diet": [
+    "halal",
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy"
+   ],
+   "ingredients": "Cultured Pasteurized Milk, Salt, Enzymes, Annatto. Contains Milk.."
+  },
+  {
+   "id": "301222012",
+   "name": "Colby Jack Cheese",
+   "station": "Clyde's",
+   "category": "Made to Order Breakfast Sandwich : Cheese",
+   "mealPeriod": "Breakfast",
+   "date": "2026-11-06",
+   "servingSize": ".75 oz Slice",
+   "servingGrams": 21,
+   "calories": 80,
+   "proteinG": 5,
+   "carbsG": 0,
+   "fatG": 7,
+   "fiberG": 0,
+   "sugarG": 0,
+   "sodiumMg": 125,
+   "diet": [
+    "halal",
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy"
+   ],
+   "ingredients": "Pasteurized Milk, Cheese Culture, Salt, Enzymes, And Annatto (Vegetable Color). Contains Milk."
+  },
+  {
+   "id": "301222013",
+   "name": "Gouda Cheese",
+   "station": "Clyde's",
+   "category": "Made to Order Breakfast Sandwich : Cheese",
+   "mealPeriod": "Breakfast",
+   "date": "2026-11-06",
+   "servingSize": "Slice",
+   "servingGrams": 21,
+   "calories": 60,
+   "proteinG": 3.77,
+   "carbsG": 0,
+   "fatG": 4.52,
+   "fiberG": 0,
+   "sugarG": 0,
+   "sodiumMg": 218,
+   "diet": [
+    "halal",
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy"
+   ],
+   "ingredients": "Gouda Cheese (Pasteurized Cultured Milk, Salt, Enzymes), Water, Sodium Phosphate, Potassium Sorbate, Apocarotenal. Contains Milk.."
+  },
+  {
+   "id": "301222014",
+   "name": "Pepper Jack Cheese",
+   "station": "Clyde's",
+   "category": "Made to Order Breakfast Sandwich : Cheese",
+   "mealPeriod": "Breakfast",
+   "date": "2026-11-06",
+   "servingSize": "1 Slice (0.75 oz)",
+   "servingGrams": 21,
+   "calories": 80,
+   "proteinG": 5,
+   "carbsG": 0,
+   "fatG": 6,
+   "fiberG": 0,
+   "sugarG": 0,
+   "sodiumMg": 130,
+   "diet": [
+    "halal",
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy"
+   ],
+   "ingredients": "Pasteurized Milk, Red And Green Jalapeno Peppers, Cheese Culture, Salt, Enzymes. Contains Milk.."
+  },
+  {
+   "id": "301222015",
+   "name": "Swiss Cheese",
+   "station": "Clyde's",
+   "category": "Made to Order Breakfast Sandwich : Cheese",
+   "mealPeriod": "Breakfast",
+   "date": "2026-11-06",
+   "servingSize": "1 Slice (0.75 oz)",
+   "servingGrams": 21,
+   "calories": 75,
+   "proteinG": 5.99,
+   "carbsG": 0,
+   "fatG": 5.99,
+   "fiberG": 0,
+   "sugarG": 0,
+   "sodiumMg": 45,
+   "diet": [
+    "halal",
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy"
+   ],
+   "ingredients": "Cultured Pasteurized Part-Skim Milk, Salt, Enzymes.."
+  },
+  {
+   "id": "301222007",
+   "name": "Fried Potatoes",
+   "station": "Clyde's",
+   "category": "Sides",
+   "mealPeriod": "Breakfast",
+   "date": "2026-11-06",
+   "servingSize": "1 Cup",
+   "servingGrams": 241,
+   "calories": 350,
+   "proteinG": 4.02,
+   "carbsG": 36.24,
+   "fatG": 21.33,
+   "fiberG": 3.9,
+   "sugarG": 1.96,
+   "sodiumMg": 713,
+   "diet": [
+    "vegetarian"
+   ],
+   "allergens": [
+    "wheat-gluten"
+   ],
+   "ingredients": "Diced Potato (Potatoes & Disodium Dihydrogen Pyrophosphate.), Fryer Oil (Fully Refined Canola Oil, TBHQ, Citric Acid, Dimethylpolysiloxane.), Old Bay Seasoning (Celery Salt (Salt, Celery Seed), Spices (Including Red Pepper & Black Pepper), Paprika.), Parsley, Vinegar Malt Powder (Corn Maltodextrin, Malt Vinegar, Modified Food Starch. Contains Wheat)."
+  },
+  {
+   "id": "301222008",
+   "name": "Pineapple Cup",
+   "station": "Clyde's",
+   "category": "Sides",
+   "mealPeriod": "Breakfast",
+   "date": "2026-11-06",
+   "servingSize": "1 Container",
+   "servingGrams": 170,
+   "calories": 90,
+   "proteinG": 1,
+   "carbsG": 20.01,
+   "fatG": 0,
+   "fiberG": 2,
+   "sugarG": 14.01,
+   "sodiumMg": 0,
+   "diet": [
+    "halal",
+    "vegan",
+    "vegetarian"
+   ],
+   "allergens": [],
+   "ingredients": "Pineapple."
+  },
+  {
+   "id": "301222009",
+   "name": "Smothered Bacon Cheddar Potatoes",
+   "station": "Clyde's",
+   "category": "Sides",
+   "mealPeriod": "Breakfast",
+   "date": "2026-11-06",
+   "servingSize": "1 Serving",
+   "servingGrams": 133,
+   "calories": 459,
+   "proteinG": 11.94,
+   "carbsG": 25.07,
+   "fatG": 34.27,
+   "fiberG": 2.6,
+   "sugarG": 1.31,
+   "sodiumMg": 963,
+   "diet": [],
+   "allergens": [
+    "dairy",
+    "wheat-gluten"
+   ],
+   "ingredients": "Diced Potato (Potatoes & Disodium Dihydrogen Pyrophosphate.), Pork Bacon (Pork, Water, Salt, Sugar, Dextrose, Sodium Erythorbate, Sodium Nitrite.), Mild Cheddar Cheese (Pasteurized Milk, Cheese Culture, Salt, Enzymes, Annatto, Potato Starch, Powdered Cellulose. Contains Milk.), Fryer Oil (Fully Refined Canola Oil, TBHQ, Citric Acid, Dimethylpolysiloxane.), Old Bay Seasoning (Celery Salt (Salt, Celery Seed), Spices (Including Red Pepper & Black Pepper), Paprika.), Parsley, Vinegar Malt Powder (Corn Maltodextrin, Malt Vinegar, Modified Food Starch. Contains Wheat)."
+  },
+  {
+   "id": "301222029",
+   "name": "Bacon Cheeseburger",
+   "station": "Clyde's",
+   "category": "Burgers",
+   "mealPeriod": "Daily Menu",
+   "date": "2026-11-06",
+   "servingSize": "1 Sandwich",
+   "servingGrams": 335,
+   "calories": 843,
+   "proteinG": 39.14,
+   "carbsG": 34.9,
+   "fatG": 62.26,
+   "fiberG": 3.5,
+   "sugarG": 8.13,
+   "sodiumMg": 1692,
+   "diet": [],
+   "allergens": [
+    "dairy",
+    "sesame",
+    "soy",
+    "wheat-gluten"
+   ],
+   "ingredients": "Beef Patty (Beef), Sesame Seed Potato Roll (Unbleached Enriched Wheat Flour (Flour, Ferrous Sulfate, Niacin, Thiamin, Riboflavin, Folic Acid), Water, Yeast, Nonfat Milk, Sugar, Cane Sugar Syrup, Wheat Gluten, Sunflower Oil, Salt, Calcium Propionate, Dough Conditioners (Sodium Stearoyl Lactylate, Monoglycerides & Diglycerides), Monocalcium Phosphate, Guar Gum, Ascorbic Acid, Datem, Calcium Sulfate, Enzymes, Sesame Seeds. Contains Wheat, Milk, Sesame.), Tomatoes (Tomatoes.), Pork Bacon (Pork, Water, Salt, Sugar, Dextrose, Sodium Erythorbate, Sodium Nitrite.), Fresh Cucumbers, Cheddar Cheese (Cultured Pasteurized Milk, Salt, Enzymes, Annatto. Contains Milk.), Spring Lettuce Mix, Water, Canola Oil, Tomato Puree (Tomato Puree (Water, Tomato Paste), Citric Acid.), Red Bell Pepper, Red Onions, Brown Sugar (Brown Cane Sugar.), Gluten Free Soy Sauce (Water, Hydrolyzed Soy Protein, Corn Syrup, Salt, Caramel Color, Lactic Acid, Potassium Sorbate. Contains Soy.), Tomato Paste (Vine Ripened Tomatoes, Citric Acid.), Celery, Shredded Carrots (Carrots.), Rice Vinegar (Rice Vinegar, Water.), Kosher Salt, Pure Cane Sugar (Sugar.), Ground Black Pepper, Fresh Dill Weed, Fresh Garlic, Whole Mustard Seed, Black Peppercorns, Bay Leaves."
+  },
+  {
+   "id": "301222031",
+   "name": "Cheeseburger",
+   "station": "Clyde's",
+   "category": "Burgers",
+   "mealPeriod": "Daily Menu",
+   "date": "2026-11-06",
+   "servingSize": "1 Sandwich",
+   "servingGrams": 318,
+   "calories": 663,
+   "proteinG": 33.14,
+   "carbsG": 34.9,
+   "fatG": 45.46,
+   "fiberG": 3.5,
+   "sugarG": 8.13,
+   "sodiumMg": 1246,
+   "diet": [],
+   "allergens": [
+    "dairy",
+    "sesame",
+    "soy",
+    "wheat-gluten"
+   ],
+   "ingredients": "Beef Patty (Beef), Sesame Seed Potato Roll (Unbleached Enriched Wheat Flour (Flour, Ferrous Sulfate, Niacin, Thiamin, Riboflavin, Folic Acid), Water, Yeast, Nonfat Milk, Sugar, Cane Sugar Syrup, Wheat Gluten, Sunflower Oil, Salt, Calcium Propionate, Dough Conditioners (Sodium Stearoyl Lactylate, Monoglycerides & Diglycerides), Monocalcium Phosphate, Guar Gum, Ascorbic Acid, Datem, Calcium Sulfate, Enzymes, Sesame Seeds. Contains Wheat, Milk, Sesame.), Tomatoes (Tomatoes.), Fresh Cucumbers, Cheddar Cheese (Cultured Pasteurized Milk, Salt, Enzymes, Annatto. Contains Milk.), Spring Lettuce Mix, Water, Canola Oil, Tomato Puree (Tomato Puree (Water, Tomato Paste), Citric Acid.), Red Bell Pepper, Red Onions, Brown Sugar (Brown Cane Sugar.), Gluten Free Soy Sauce (Water, Hydrolyzed Soy Protein, Corn Syrup, Salt, Caramel Color, Lactic Acid, Potassium Sorbate. Contains Soy.), Tomato Paste (Vine Ripened Tomatoes, Citric Acid.), Celery, Shredded Carrots (Carrots.), Rice Vinegar (Rice Vinegar, Water.), Kosher Salt, Pure Cane Sugar (Sugar.), Ground Black Pepper, Fresh Dill Weed, Fresh Garlic, Whole Mustard Seed, Black Peppercorns, Bay Leaves."
+  },
+  {
+   "id": "301222032",
+   "name": "Grilled Chicken Sandwich",
+   "station": "Clyde's",
+   "category": "Burgers",
+   "mealPeriod": "Daily Menu",
+   "date": "2026-11-06",
+   "servingSize": "1 Sandwich",
+   "servingGrams": 321,
+   "calories": 468,
+   "proteinG": 37.25,
+   "carbsG": 56.97,
+   "fatG": 9.19,
+   "fiberG": 1.5,
+   "sugarG": 12.15,
+   "sodiumMg": 1801,
+   "diet": [],
+   "allergens": [
+    "soy",
+    "wheat-gluten"
+   ],
+   "ingredients": "Unbreaded Chicken Breast (Chicken, Water, Sea Salt, Seasoning (Turbinado Sugar, Sodium Carbonate, Sea Salt, Natural Flavoring).), Wheat Bun With Oat Topping (Unbleached Enriched Flour (Wheat Flour, Malted Barley Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Water, Yeast, Granulated Sugar, Fully Refined Soybean Oil, Coarse Cracked Wheat, Whole Wheat Flour, Wheat Gluten, Salt, Calcium Propionate (to retain freshness), Dough Improver (Malted Wheat Flour, Enzymes, Ascorbic Acid), Caramel Color, Enriched Wheat Flour (Wheat Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Enzymes, 100% Whole Grain Oats, Ascorbic Acid. Contains Wheat.), Tomatoes (Tomatoes.), Fresh Cucumbers, Water, Spring Lettuce Mix, Tomato Puree (Tomato Puree (Water, Tomato Paste), Citric Acid.), Red Bell Pepper, Red Onions, Brown Sugar (Brown Cane Sugar.), Gluten Free Soy Sauce (Water, Hydrolyzed Soy Protein, Corn Syrup, Salt, Caramel Color, Lactic Acid, Potassium Sorbate. Contains Soy.), Tomato Paste (Vine Ripened Tomatoes, Citric Acid.), Kosher Salt, Celery, Shredded Carrots (Carrots.), Rice Vinegar (Rice Vinegar, Water.), Fresh Lemon Juice, Pure Cane Sugar (Sugar.), Ground Black Pepper, Fresh Dill Weed, Fresh Garlic, Black Peppercorns, Whole Mustard Seed, Thyme, Rosemary, Bay Leaves."
+  },
+  {
+   "id": "301222035",
+   "name": "Falafel Burger",
+   "station": "Clyde's",
+   "category": "Burgers",
+   "mealPeriod": "Daily Menu",
+   "date": "2026-11-06",
+   "servingSize": "1 Sandwich",
+   "servingGrams": 313,
+   "calories": 622,
+   "proteinG": 20.96,
+   "carbsG": 84.42,
+   "fatG": 23.59,
+   "fiberG": 6.9,
+   "sugarG": 18.12,
+   "sodiumMg": 1579,
+   "diet": [
+    "vegan",
+    "vegetarian"
+   ],
+   "allergens": [
+    "soy",
+    "wheat-gluten"
+   ],
+   "ingredients": "Wheat Bun With Oat Topping (Unbleached Enriched Flour (Wheat Flour, Malted Barley Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Water, Yeast, Granulated Sugar, Fully Refined Soybean Oil, Coarse Cracked Wheat, Whole Wheat Flour, Wheat Gluten, Salt, Calcium Propionate (to retain freshness), Dough Improver (Malted Wheat Flour, Enzymes, Ascorbic Acid), Caramel Color, Enriched Wheat Flour (Wheat Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Enzymes, 100% Whole Grain Oats, Ascorbic Acid. Contains Wheat.), Water, Fresh Sliced Mushrooms, Tomatoes (Tomatoes.), Garbanzo Beans, Fresh Cucumbers, Roasted Red Pepper Strips (Roasted Red Peppers, Water, Salt, Citric Acid.), Spring Lettuce Mix, Fryer Oil (Fully Refined Canola Oil, TBHQ, Citric Acid, Dimethylpolysiloxane.), Tomato Puree (Tomato Puree (Water, Tomato Paste), Citric Acid.), Fresh Garlic, Red Bell Pepper, Red Onions, Canola Oil, Fresh Cilantro, Brown Sugar (Brown Cane Sugar.), Canola Olive Oil Blend (Canola Oil, Extra Virgin Olive Oil.), Gluten Free Soy Sauce (Water, Hydrolyzed Soy Protein, Corn Syrup, Salt, Caramel Color, Lactic Acid, Potassium Sorbate. Contains Soy.), Vegetable Base (Custom Culinary: Tomato Juice From Concentrate, Salt, Yeast Extract, Sugar, Xanthan Gum, Carrot Extract, Natural Flavors, Onion Extract. Knorr: Vegetable Juice Blend (Water, Carrot Juice Concentrate, Celery Juice Concentrate, Onion Juice Concentrate, Cabbage Juice, Tomato Juice Concentrate, Salt, Citric Acid), Maltodextrin, Salt, Sugar, Yeast Extract, Garlic Powder, Mushroom Juice Concentrate, Spice, Natural Flavor.), Kosher Salt, Tomato Paste (Vine Ripened Tomatoes, Citric Acid.), Celery, Shredded Carrots (Carrots.), Rice Vinegar (Rice Vinegar, Water.), Shallot, Parsley, Pure Cane Sugar (Sugar.), Ground Black Pepper, Cumin Powder, Ground Coriander, Fresh Dill Weed, Baking Soda (Sodium Bicarbonate.), Cayenne Pepper, Ground White Pepper, Ground Cardamom, Whole Mustard Seed, Black P"
+  },
+  {
+   "id": "301222036",
+   "name": "Hamburger",
+   "station": "Clyde's",
+   "category": "Burgers",
+   "mealPeriod": "Daily Menu",
+   "date": "2026-11-06",
+   "servingSize": "1 Sandwich",
+   "servingGrams": 297,
+   "calories": 582,
+   "proteinG": 28.08,
+   "carbsG": 34.9,
+   "fatG": 36.35,
+   "fiberG": 3.5,
+   "sugarG": 8.13,
+   "sodiumMg": 1064,
+   "diet": [],
+   "allergens": [
+    "dairy",
+    "sesame",
+    "soy",
+    "wheat-gluten"
+   ],
+   "ingredients": "Beef Patty (Beef), Sesame Seed Potato Roll (Unbleached Enriched Wheat Flour (Flour, Ferrous Sulfate, Niacin, Thiamin, Riboflavin, Folic Acid), Water, Yeast, Nonfat Milk, Sugar, Cane Sugar Syrup, Wheat Gluten, Sunflower Oil, Salt, Calcium Propionate, Dough Conditioners (Sodium Stearoyl Lactylate, Monoglycerides & Diglycerides), Monocalcium Phosphate, Guar Gum, Ascorbic Acid, Datem, Calcium Sulfate, Enzymes, Sesame Seeds. Contains Wheat, Milk, Sesame.), Tomatoes (Tomatoes.), Fresh Cucumbers, Spring Lettuce Mix, Water, Canola Oil, Tomato Puree (Tomato Puree (Water, Tomato Paste), Citric Acid.), Red Bell Pepper, Red Onions, Brown Sugar (Brown Cane Sugar.), Gluten Free Soy Sauce (Water, Hydrolyzed Soy Protein, Corn Syrup, Salt, Caramel Color, Lactic Acid, Potassium Sorbate. Contains Soy.), Tomato Paste (Vine Ripened Tomatoes, Citric Acid.), Celery, Shredded Carrots (Carrots.), Rice Vinegar (Rice Vinegar, Water.), Kosher Salt, Pure Cane Sugar (Sugar.), Ground Black Pepper, Fresh Dill Weed, Fresh Garlic, Whole Mustard Seed, Black Peppercorns, Bay Leaves."
+  },
+  {
+   "id": "301222030",
+   "name": "Roasted Garlic Aioli Burger",
+   "station": "Clyde's",
+   "category": "Specialty Burgers",
+   "mealPeriod": "Daily Menu",
+   "date": "2026-11-06",
+   "servingSize": "1 Sandwich",
+   "servingGrams": 337,
+   "calories": 927,
+   "proteinG": 35.35,
+   "carbsG": 50.07,
+   "fatG": 64.69,
+   "fiberG": 2.1,
+   "sugarG": 7.42,
+   "sodiumMg": 865,
+   "diet": [],
+   "allergens": [
+    "dairy",
+    "eggs",
+    "wheat-gluten"
+   ],
+   "ingredients": "Beef Patty (Beef), Homestyle Brioche Bun (Unbleached Enriched Flour (Wheat Flour, Malted Barley Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Water, Granulated Sugar, Yeast, Fully Refined Soybean Oil, Wheat Gluten, Salt, Dough Improver (Malted Wheat Flour, Enzymes, Ascorbic Acid), Calcium Propionate, Natural Flavor, Yellow Corn Flour, Colors (Turmeric, Paprika), Natural Flavor, Vegetable Proteins, Vegetable Oil, Dextrose, Maltodextrins, Starch. Contains Wheat.), Tomatoes (Tomatoes.), Fresh Cucumbers, Swiss Cheese (Cultured Pasteurized Part-Skim Milk, Salt, Enzymes.), Mayonnaise (Soybean Oil, Water, Vinegar, Eggs, Sugar, Salt, Egg Yolks, Natural Flavor (Mustard), Lemon Juice Concentrate, Dried Garlic, Dried Onion, Paprika, Calcium Disodium EDTA. Contains Eggs.), Canola Oil, Spring Lettuce Mix, Fresh Garlic, Water, Crispy Fried Onions Topping (Onions, Palm Oil, Wheat Flour, Dextrose, Salt. Contains Wheat.), Canola Olive Oil Blend (Canola Oil, Extra Virgin Olive Oil.), Rice Vinegar (Rice Vinegar, Water.), Kosher Salt, Pure Cane Sugar (Sugar.), Fresh Dill Weed, Ground Black Pepper, Whole Mustard Seed, Black Peppercorns, Bay Leaves."
+  },
+  {
+   "id": "301222033",
+   "name": "Rodeo Burger",
+   "station": "Clyde's",
+   "category": "Specialty Burgers",
+   "mealPeriod": "Daily Menu",
+   "date": "2026-11-06",
+   "servingSize": "1 Sandwich",
+   "servingGrams": 258,
+   "calories": 932,
+   "proteinG": 37.97,
+   "carbsG": 42.32,
+   "fatG": 68.66,
+   "fiberG": 2,
+   "sugarG": 11.1,
+   "sodiumMg": 1426,
+   "diet": [],
+   "allergens": [
+    "dairy",
+    "sesame",
+    "soy",
+    "wheat-gluten"
+   ],
+   "ingredients": "Beef Patty (Beef), Sesame Seed Potato Roll (Unbleached Enriched Wheat Flour (Flour, Ferrous Sulfate, Niacin, Thiamin, Riboflavin, Folic Acid), Water, Yeast, Nonfat Milk, Sugar, Cane Sugar Syrup, Wheat Gluten, Sunflower Oil, Salt, Calcium Propionate, Dough Conditioners (Sodium Stearoyl Lactylate, Monoglycerides & Diglycerides), Monocalcium Phosphate, Guar Gum, Ascorbic Acid, Datem, Calcium Sulfate, Enzymes, Sesame Seeds. Contains Wheat, Milk, Sesame.), Pork Bacon (Pork, Water, Salt, Sugar, Dextrose, Sodium Erythorbate, Sodium Nitrite.), Cheddar Cheese (Cultured Pasteurized Milk, Salt, Enzymes, Annatto. Contains Milk.), Sweet Baby Ray's BBQ Sauce (High Fructose Corn Syrup, Distilled Vinegar, Tomato Paste, Modified Corn Starch, Salt, Pineapple Juice Concentrate, Natural Smoke Flavor, Spice, Caramel Color, Molasses, Sodium Benzoate, Garlic, Mustard Flour, Corn Syrup, Sugar, Tamarind, Natural Flavor, Celery Seed.), Canola Oil, Water, Crispy Fried Onions Topping (Onions, Palm Oil, Wheat Flour, Dextrose, Salt. Contains Wheat.), Crispy Jalapeno Strips (Jalapeno Peppers, Enriched Flour (Wheat Flour, Niacin, Reduced Iron, Thiamin Mononitrate, Riboflavin, Folic Acid), Sunflower, Safflower And/Or Canola Oil, Salt. Contains Wheat.), Gluten Free Soy Sauce (Water, Hydrolyzed Soy Protein, Corn Syrup, Salt, Caramel Color, Lactic Acid, Potassium Sorbate. Contains Soy.), Demi Glace Brown Sauce Mix (Rice Flour, Potato Starch, Yeast Extract, Salt, Tomato Powder, Colour, Sea Salt, Sugar, Maltodextrin, Guar Gum, Flavours, Spices (Paprika, Pepper, Rosemary, Laurel, Clove), Olive Oil, Dehydrated Beetroot Juice.), Brown Sugar (Brown Cane Sugar.), Kosher Salt, Ground Black Pepper."
+  },
+  {
+   "id": "301222034",
+   "name": "Deluxe Cheeseburger",
+   "station": "Clyde's",
+   "category": "Specialty Burgers",
+   "mealPeriod": "Daily Menu",
+   "date": "2026-11-06",
+   "servingSize": "1 Sandwich",
+   "servingGrams": 375,
+   "calories": 783,
+   "proteinG": 46.32,
+   "carbsG": 40.02,
+   "fatG": 50.26,
+   "fiberG": 3.5,
+   "sugarG": 12.68,
+   "sodiumMg": 1807,
+   "diet": [],
+   "allergens": [
+    "dairy",
+    "sesame",
+    "soy",
+    "wheat-gluten"
+   ],
+   "ingredients": "Beef Patty (Beef), Pork, Sesame Seed Potato Roll (Unbleached Enriched Wheat Flour (Flour, Ferrous Sulfate, Niacin, Thiamin, Riboflavin, Folic Acid), Water, Yeast, Nonfat Milk, Sugar, Cane Sugar Syrup, Wheat Gluten, Sunflower Oil, Salt, Calcium Propionate, Dough Conditioners (Sodium Stearoyl Lactylate, Monoglycerides & Diglycerides), Monocalcium Phosphate, Guar Gum, Ascorbic Acid, Datem, Calcium Sulfate, Enzymes, Sesame Seeds. Contains Wheat, Milk, Sesame.), Tomatoes (Tomatoes.), Water, Fresh Cucumbers, Cheddar Cheese (Cultured Pasteurized Milk, Salt, Enzymes, Annatto. Contains Milk.), Spring Lettuce Mix, Canola Oil, Sweet Baby Ray's BBQ Sauce (High Fructose Corn Syrup, Distilled Vinegar, Tomato Paste, Modified Corn Starch, Salt, Pineapple Juice Concentrate, Natural Smoke Flavor, Spice, Caramel Color, Molasses, Sodium Benzoate, Garlic, Mustard Flour, Corn Syrup, Sugar, Tamarind, Natural Flavor, Celery Seed.), Tomato Puree (Tomato Puree (Water, Tomato Paste), Citric Acid.), Red Bell Pepper, Red Onions, Brown Sugar (Brown Cane Sugar.), Gluten Free Soy Sauce (Water, Hydrolyzed Soy Protein, Corn Syrup, Salt, Caramel Color, Lactic Acid, Potassium Sorbate. Contains Soy.), Kosher Salt, Tomato Paste (Vine Ripened Tomatoes, Citric Acid.), Celery, Shredded Carrots (Carrots.), Rice Vinegar (Rice Vinegar, Water.), Demi Glace Brown Sauce Mix (Rice Flour, Potato Starch, Yeast Extract, Salt, Tomato Powder, Colour, Sea Salt, Sugar, Maltodextrin, Guar Gum, Flavours, Spices (Paprika, Pepper, Rosemary, Laurel, Clove), Olive Oil, Dehydrated Beetroot Juice.), Pure Cane Sugar (Sugar.), Ground Black Pepper, Fresh Dill Weed, Fresh Garlic, Whole Mustard Seed, Black Peppercorns, Bay Leaves."
+  },
+  {
+   "id": "301222040",
+   "name": "5 Cheese",
+   "station": "Clyde's",
+   "category": "Grilled Sandwiches",
+   "mealPeriod": "Daily Menu",
+   "date": "2026-11-06",
+   "servingSize": "1 Sandwich",
+   "servingGrams": 261,
+   "calories": 943,
+   "proteinG": 40.58,
+   "carbsG": 56.53,
+   "fatG": 67.78,
+   "fiberG": 2,
+   "sugarG": 2,
+   "sodiumMg": 1545,
+   "diet": [
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy",
+    "wheat-gluten"
+   ],
+   "ingredients": "Sourdough Bread (Unbleached Enriched Flour (Wheat Flour, Malted Barley Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Water, Yeast, Wheat Flour, Salt, Malted Barley Flour (Contains Wheat), Fumaric Acid, Acetic Acid, Lactic Acid, Fully Refined Soybean Oil, Granulated Sugar, Wheat Gluten, Calcium Propionate (to retain freshness), Dough Improver (Malted Wheat Flour, Enzymes, Ascorbic Acid. Contains Wheat.), Cheddar Cheese (Cultured Pasteurized Milk, Salt, Enzymes, Annatto. Contains Milk.), Extra Virgin Olive Oil (Extra Virgin Olive Oil.), Gouda Cheese (Gouda Cheese (Pasteurized Cultured Milk, Salt, Enzymes), Water, Sodium Phosphate, Potassium Sorbate, Apocarotenal. Contains Milk.), Swiss Cheese (Cultured Pasteurized Part-Skim Milk, Salt, Enzymes.), Colby Jack Cheese (Pasteurized Milk, Cheese Culture, Salt, Enzymes, And Annatto (Vegetable Color). Contains Milk), Grated Parmesan Cheese (Parmesan Cheese: (Pasteurized Part-Skim Cows Milk, Cheese Cultures, Salt, Enzymes), Powdered Cellulose, Natamycin. Contains Milk.)."
+  },
+  {
+   "id": "301222041",
+   "name": "American",
+   "station": "Clyde's",
+   "category": "Grilled Sandwiches",
+   "mealPeriod": "Daily Menu",
+   "date": "2026-11-06",
+   "servingSize": "1 Sandwich",
+   "servingGrams": 168,
+   "calories": 562,
+   "proteinG": 18,
+   "carbsG": 58,
+   "fatG": 29.29,
+   "fiberG": 2,
+   "sugarG": 4,
+   "sodiumMg": 1340,
+   "diet": [],
+   "allergens": [
+    "dairy",
+    "soy",
+    "wheat-gluten"
+   ],
+   "ingredients": "Sourdough Bread (Unbleached Enriched Flour (Wheat Flour, Malted Barley Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Water, Yeast, Wheat Flour, Salt, Malted Barley Flour (Contains Wheat), Fumaric Acid, Acetic Acid, Lactic Acid, Fully Refined Soybean Oil, Granulated Sugar, Wheat Gluten, Calcium Propionate (to retain freshness), Dough Improver (Malted Wheat Flour, Enzymes, Ascorbic Acid. Contains Wheat.), White American Cheese (Milk, Cream, Water, Sodium Citrate, Salt, Cheese Culture, Sorbic Acid, Enzymes, Citric Acid, Soy Lecithin. Contains Milk, Soy.), Extra Virgin Olive Oil (Extra Virgin Olive Oil.)."
+  },
+  {
+   "id": "301222042",
+   "name": "Gochujang Chicken",
+   "station": "Clyde's",
+   "category": "Grilled Sandwiches",
+   "mealPeriod": "Daily Menu",
+   "date": "2026-11-06",
+   "servingSize": "1 Sandwich",
+   "servingGrams": 373,
+   "calories": 990,
+   "proteinG": 50.83,
+   "carbsG": 66.81,
+   "fatG": 58.2,
+   "fiberG": 3.6,
+   "sugarG": 7.38,
+   "sodiumMg": 1945,
+   "diet": [],
+   "allergens": [
+    "dairy",
+    "sesame",
+    "soy",
+    "wheat-gluten"
+   ],
+   "ingredients": "Chicken Thighs, Sourdough Bread (Unbleached Enriched Flour (Wheat Flour, Malted Barley Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Water, Yeast, Wheat Flour, Salt, Malted Barley Flour (Contains Wheat), Fumaric Acid, Acetic Acid, Lactic Acid, Fully Refined Soybean Oil, Granulated Sugar, Wheat Gluten, Calcium Propionate (to retain freshness), Dough Improver (Malted Wheat Flour, Enzymes, Ascorbic Acid. Contains Wheat.), Extra Virgin Olive Oil (Extra Virgin Olive Oil.), Colby Jack Cheese (Pasteurized Milk, Cheese Culture, Salt, Enzymes, And Annatto (Vegetable Color). Contains Milk), Pepper Jack Cheese (Pasteurized Milk, Red And Green Jalapeno Peppers, Cheese Culture, Salt, Enzymes. Contains Milk.), White American Cheese (Milk, Cream, Water, Sodium Citrate, Salt, Cheese Culture, Sorbic Acid, Enzymes, Citric Acid, Soy Lecithin. Contains Milk, Soy.), Gochujang Hot Pepper Paste (Wheat Flour, Corn Syrup, Water, Hot Pepper Powder, Salt, Wheat, Cooking Rice Wine, Defatted Soybean Powder, Malt. Contains Wheat & Soy.), Water, Rice Vinegar (Rice Vinegar, Water.), Green Onions, White Sesame Seeds, Pure Sesame Oil (Sesame Seed Oil.), Fresh Garlic, Thai Green Chili Pepper, Cornstarch, Vegetable Base (Custom Culinary: Tomato Juice From Concentrate, Salt, Yeast Extract, Sugar, Xanthan Gum, Carrot Extract, Natural Flavors, Onion Extract. Knorr: Vegetable Juice Blend (Water, Carrot Juice Concentrate, Celery Juice Concentrate, Onion Juice Concentrate, Cabbage Juice, Tomato Juice Concentrate, Salt, Citric Acid), Maltodextrin, Salt, Sugar, Yeast Extract, Garlic Powder, Mushroom Juice Concentrate, Spice, Natural Flavor.), Canola Olive Oil Blend (Canola Oil, Extra Virgin Olive Oil.), Kosher Salt, Cayenne Pepper."
+  },
+  {
+   "id": "301222043",
+   "name": "Ham & Cheese",
+   "station": "Clyde's",
+   "category": "Grilled Sandwiches",
+   "mealPeriod": "Daily Menu",
+   "date": "2026-11-06",
+   "servingSize": "1 Sandwich",
+   "servingGrams": 239,
+   "calories": 737,
+   "proteinG": 32.12,
+   "carbsG": 56.67,
+   "fatG": 48.51,
+   "fiberG": 2,
+   "sugarG": 2.67,
+   "sodiumMg": 1618,
+   "diet": [],
+   "allergens": [
+    "dairy",
+    "wheat-gluten"
+   ],
+   "ingredients": "Sourdough Bread (Unbleached Enriched Flour (Wheat Flour, Malted Barley Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Water, Yeast, Wheat Flour, Salt, Malted Barley Flour (Contains Wheat), Fumaric Acid, Acetic Acid, Lactic Acid, Fully Refined Soybean Oil, Granulated Sugar, Wheat Gluten, Calcium Propionate (to retain freshness), Dough Improver (Malted Wheat Flour, Enzymes, Ascorbic Acid. Contains Wheat.), Ham (Ham, Water, Salt, Dextrose, Sodium Phosphates, Sodium Erythorbate, Sodium Nitrite.), Cheddar Cheese (Cultured Pasteurized Milk, Salt, Enzymes, Annatto. Contains Milk.), Extra Virgin Olive Oil (Extra Virgin Olive Oil.)."
+  },
+  {
+   "id": "301222044",
+   "name": "Pesto Turkey",
+   "station": "Clyde's",
+   "category": "Grilled Sandwiches",
+   "mealPeriod": "Daily Menu",
+   "date": "2026-11-06",
+   "servingSize": "1 Sandwich",
+   "servingGrams": 302,
+   "calories": 794,
+   "proteinG": 33.73,
+   "carbsG": 59.04,
+   "fatG": 48.84,
+   "fiberG": 2.6,
+   "sugarG": 4.27,
+   "sodiumMg": 1358,
+   "diet": [],
+   "allergens": [
+    "dairy",
+    "eggs",
+    "wheat-gluten"
+   ],
+   "ingredients": "Sourdough Bread (Unbleached Enriched Flour (Wheat Flour, Malted Barley Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Water, Yeast, Wheat Flour, Salt, Malted Barley Flour (Contains Wheat), Fumaric Acid, Acetic Acid, Lactic Acid, Fully Refined Soybean Oil, Granulated Sugar, Wheat Gluten, Calcium Propionate (to retain freshness), Dough Improver (Malted Wheat Flour, Enzymes, Ascorbic Acid. Contains Wheat.), Oven Roasted Turkey Breast (Carolina Turkey: Turkey Breast, Turkey Broth, Salt, Dextrose, Carrageenan, Sodium Phosphate. ISU Turkey Breast: Turkey Breast Meat, Turkey Broth, Vinegar, Salt, Rice Starch, Sodium Phosphates, Natural Flavor.), Tomatoes (Tomatoes.), Swiss Cheese (Cultured Pasteurized Part-Skim Milk, Salt, Enzymes.), Extra Virgin Olive Oil (Extra Virgin Olive Oil.), Mayonnaise (Soybean Oil, Water, Vinegar, Eggs, Sugar, Salt, Egg Yolks, Natural Flavor (Mustard), Lemon Juice Concentrate, Dried Garlic, Dried Onion, Paprika, Calcium Disodium EDTA. Contains Eggs.), Basil Pesto Sauce (Basil, Canola Oil, Water, Parmesan Cheese (Pasteurized Part-Skim Cows Milk, Cheese Culture, Salt, Enzymes), Granulated Garlic, Salt. Contains Milk.), Kosher Salt."
+  },
+  {
+   "id": "301222045",
+   "name": "Pulled Pork",
+   "station": "Clyde's",
+   "category": "Grilled Sandwiches",
+   "mealPeriod": "Daily Menu",
+   "date": "2026-11-06",
+   "servingSize": "1 Sandwich",
+   "servingGrams": 324,
+   "calories": 916,
+   "proteinG": 48.68,
+   "carbsG": 67.85,
+   "fatG": 55.15,
+   "fiberG": 2.2,
+   "sugarG": 12.09,
+   "sodiumMg": 2331,
+   "diet": [],
+   "allergens": [
+    "dairy",
+    "soy",
+    "wheat-gluten"
+   ],
+   "ingredients": "Pork, Sourdough Bread (Unbleached Enriched Flour (Wheat Flour, Malted Barley Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Water, Yeast, Wheat Flour, Salt, Malted Barley Flour (Contains Wheat), Fumaric Acid, Acetic Acid, Lactic Acid, Fully Refined Soybean Oil, Granulated Sugar, Wheat Gluten, Calcium Propionate (to retain freshness), Dough Improver (Malted Wheat Flour, Enzymes, Ascorbic Acid. Contains Wheat.), Water, Cheddar Cheese (Cultured Pasteurized Milk, Salt, Enzymes, Annatto. Contains Milk.), Fresh Cucumbers, Extra Virgin Olive Oil (Extra Virgin Olive Oil.), Sweet Baby Ray's BBQ Sauce (High Fructose Corn Syrup, Distilled Vinegar, Tomato Paste, Modified Corn Starch, Salt, Pineapple Juice Concentrate, Natural Smoke Flavor, Spice, Caramel Color, Molasses, Sodium Benzoate, Garlic, Mustard Flour, Corn Syrup, Sugar, Tamarind, Natural Flavor, Celery Seed.), Kosher Salt, Rice Vinegar (Rice Vinegar, Water.), Gluten Free Soy Sauce (Water, Hydrolyzed Soy Protein, Corn Syrup, Salt, Caramel Color, Lactic Acid, Potassium Sorbate. Contains Soy.), Demi Glace Brown Sauce Mix (Rice Flour, Potato Starch, Yeast Extract, Salt, Tomato Powder, Colour, Sea Salt, Sugar, Maltodextrin, Guar Gum, Flavours, Spices (Paprika, Pepper, Rosemary, Laurel, Clove), Olive Oil, Dehydrated Beetroot Juice.), Brown Sugar (Brown Cane Sugar.), Pure Cane Sugar (Sugar.), Fresh Dill Weed, Fresh Garlic, Whole Mustard Seed, Black Peppercorns, Bay Leaves."
+  },
+  {
+   "id": "301222051",
+   "name": "White American Cheese",
+   "station": "Clyde's",
+   "category": "Cheese Options",
+   "mealPeriod": "Daily Menu",
+   "date": "2026-11-06",
+   "servingSize": "Slice",
+   "servingGrams": 19,
+   "calories": 70,
+   "proteinG": 3,
+   "carbsG": 1,
+   "fatG": 6,
+   "fiberG": 0,
+   "sugarG": 1,
+   "sodiumMg": 340,
+   "diet": [],
+   "allergens": [
+    "dairy",
+    "soy"
+   ],
+   "ingredients": "Milk, Cream, Water, Sodium Citrate, Salt, Cheese Culture, Sorbic Acid, Enzymes, Citric Acid, Soy Lecithin. Contains Milk, Soy.."
+  },
+  {
+   "id": "301222052",
+   "name": "Cheddar Cheese",
+   "station": "Clyde's",
+   "category": "Cheese Options",
+   "mealPeriod": "Daily Menu",
+   "date": "2026-11-06",
+   "servingSize": "1 Slice (0.75 oz)",
+   "servingGrams": 21,
+   "calories": 81,
+   "proteinG": 5.06,
+   "carbsG": 0,
+   "fatG": 9.11,
+   "fiberG": 0,
+   "sugarG": 0,
+   "sodiumMg": 182,
+   "diet": [
+    "halal",
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy"
+   ],
+   "ingredients": "Cultured Pasteurized Milk, Salt, Enzymes, Annatto. Contains Milk.."
+  },
+  {
+   "id": "301222053",
+   "name": "Colby Jack Cheese",
+   "station": "Clyde's",
+   "category": "Cheese Options",
+   "mealPeriod": "Daily Menu",
+   "date": "2026-11-06",
+   "servingSize": ".75 oz Slice",
+   "servingGrams": 21,
+   "calories": 80,
+   "proteinG": 5,
+   "carbsG": 0,
+   "fatG": 7,
+   "fiberG": 0,
+   "sugarG": 0,
+   "sodiumMg": 125,
+   "diet": [
+    "halal",
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy"
+   ],
+   "ingredients": "Pasteurized Milk, Cheese Culture, Salt, Enzymes, And Annatto (Vegetable Color). Contains Milk."
+  },
+  {
+   "id": "301222054",
+   "name": "Gouda Cheese",
+   "station": "Clyde's",
+   "category": "Cheese Options",
+   "mealPeriod": "Daily Menu",
+   "date": "2026-11-06",
+   "servingSize": "Slice",
+   "servingGrams": 21,
+   "calories": 60,
+   "proteinG": 3.77,
+   "carbsG": 0,
+   "fatG": 4.52,
+   "fiberG": 0,
+   "sugarG": 0,
+   "sodiumMg": 218,
+   "diet": [
+    "halal",
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy"
+   ],
+   "ingredients": "Gouda Cheese (Pasteurized Cultured Milk, Salt, Enzymes), Water, Sodium Phosphate, Potassium Sorbate, Apocarotenal. Contains Milk.."
+  },
+  {
+   "id": "301222055",
+   "name": "Pepper Jack Cheese",
+   "station": "Clyde's",
+   "category": "Cheese Options",
+   "mealPeriod": "Daily Menu",
+   "date": "2026-11-06",
+   "servingSize": "1 Slice (0.75 oz)",
+   "servingGrams": 21,
+   "calories": 80,
+   "proteinG": 5,
+   "carbsG": 0,
+   "fatG": 6,
+   "fiberG": 0,
+   "sugarG": 0,
+   "sodiumMg": 130,
+   "diet": [
+    "halal",
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy"
+   ],
+   "ingredients": "Pasteurized Milk, Red And Green Jalapeno Peppers, Cheese Culture, Salt, Enzymes. Contains Milk.."
+  },
+  {
+   "id": "301222056",
+   "name": "Swiss Cheese",
+   "station": "Clyde's",
+   "category": "Cheese Options",
+   "mealPeriod": "Daily Menu",
+   "date": "2026-11-06",
+   "servingSize": "1 Slice (0.75 oz)",
+   "servingGrams": 21,
+   "calories": 75,
+   "proteinG": 5.99,
+   "carbsG": 0,
+   "fatG": 5.99,
+   "fiberG": 0,
+   "sugarG": 0,
+   "sodiumMg": 45,
+   "diet": [
+    "halal",
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy"
+   ],
+   "ingredients": "Cultured Pasteurized Part-Skim Milk, Salt, Enzymes.."
+  },
+  {
+   "id": "301222050",
+   "name": "Bacon",
+   "station": "Clyde's",
+   "category": "Sandwich and Burger Upgrades",
+   "mealPeriod": "Daily Menu",
+   "date": "2026-11-06",
+   "servingSize": "2 Strips",
+   "servingGrams": 45,
+   "calories": 180,
+   "proteinG": 6,
+   "carbsG": 0,
+   "fatG": 16.8,
+   "fiberG": 0,
+   "sugarG": 0,
+   "sodiumMg": 446,
+   "diet": [],
+   "allergens": [],
+   "ingredients": "Pork Bacon (Pork, Water, Salt, Sugar, Dextrose, Sodium Erythorbate, Sodium Nitrite.)."
+  },
+  {
+   "id": "301222057",
+   "name": "Fried Egg",
+   "station": "Clyde's",
+   "category": "Sandwich and Burger Upgrades",
+   "mealPeriod": "Daily Menu",
+   "date": "2026-11-06",
+   "servingSize": "1 Egg",
+   "servingGrams": 55,
+   "calories": 114,
+   "proteinG": 6.31,
+   "carbsG": 0.49,
+   "fatG": 9.61,
+   "fiberG": 0,
+   "sugarG": 0,
+   "sodiumMg": 66,
+   "diet": [
+    "halal",
+    "vegetarian"
+   ],
+   "allergens": [
+    "eggs"
+   ],
+   "ingredients": "Egg, Canola Oil."
+  },
+  {
+   "id": "301222058",
+   "name": "Hamburger Patty",
+   "station": "Clyde's",
+   "category": "Sandwich and Burger Upgrades",
+   "mealPeriod": "Daily Menu",
+   "date": "2026-11-06",
+   "servingSize": "1 Patty",
+   "servingGrams": 122,
+   "calories": 365,
+   "proteinG": 18.83,
+   "carbsG": 0.01,
+   "fatG": 31.16,
+   "fiberG": 0,
+   "sugarG": 0,
+   "sodiumMg": 117,
+   "diet": [],
+   "allergens": null,
+   "ingredients": "Beef Patty (Beef), Canola Oil, Kosher Salt, Ground Black Pepper."
+  },
+  {
+   "id": "301222059",
+   "name": "Sauteed Mushrooms",
+   "station": "Clyde's",
+   "category": "Sandwich and Burger Upgrades",
+   "mealPeriod": "Daily Menu",
+   "date": "2026-11-06",
+   "servingSize": "2 Tbsp (0.51 oz)",
+   "servingGrams": 27,
+   "calories": 17,
+   "proteinG": 0.81,
+   "carbsG": 0.86,
+   "fatG": 1.35,
+   "fiberG": 0.3,
+   "sugarG": 0.52,
+   "sodiumMg": 12,
+   "diet": [
+    "vegan",
+    "vegetarian"
+   ],
+   "allergens": [],
+   "ingredients": "Fresh Sliced Mushrooms, Canola Olive Oil Blend (Canola Oil, Extra Virgin Olive Oil.), Kosher Salt, Ground Black Pepper."
+  },
+  {
+   "id": "301222064",
+   "name": "Gluten Free Whole Grain Bread",
+   "station": "Clyde's",
+   "category": "Alternative Bread Options",
+   "mealPeriod": "Daily Menu",
+   "date": "2026-11-06",
+   "servingSize": "2 Slices",
+   "servingGrams": 66,
+   "calories": 170,
+   "proteinG": 1,
+   "carbsG": 35,
+   "fatG": 3.5,
+   "fiberG": 4,
+   "sugarG": 5,
+   "sodiumMg": 250,
+   "diet": [
+    "halal",
+    "vegan",
+    "vegetarian"
+   ],
+   "allergens": [],
+   "ingredients": "Water, Gluten-free Flour Blend (Modified Tapioca Starch, Corn Starch, Potato Starch), Whole Grain Blend (Whole Brown Rice Flour, Whole Teff Flour, Whole Millet, Whole Red Quinoa), Sunflower Oil, Raisin Juice, Dextrose, Psyllium Husk, Cane Sugar, Yeast, Modified Cellulose, Pea Fiber, Salt, Rice Bran, Cultured Cane Sugar, Vinegar, Cellulose Gum.."
+  },
+  {
+   "id": "301222065",
+   "name": "Udi's Gluten Free Hamburger Bun",
+   "station": "Clyde's",
+   "category": "Alternative Bread Options",
+   "mealPeriod": "Daily Menu",
+   "date": "2026-11-06",
+   "servingSize": "Bun",
+   "servingGrams": 74,
+   "calories": 200,
+   "proteinG": 4,
+   "carbsG": 37,
+   "fatG": 6,
+   "fiberG": 5,
+   "sugarG": 5,
+   "sodiumMg": 370,
+   "diet": [
+    "vegetarian"
+   ],
+   "allergens": [
+    "eggs"
+   ],
+   "ingredients": "Filtered Water, Tapioca Starch, Brown Rice Flour, Sunflower Oil, Egg Whites, Resistant Corn Starch, Cane Syrup, Tapioca Maltodextrin, Potato Flour, Evaporated Cane Juice, Tapioca Syrup, Yeast (Yeast, Potato Starch), Sugarcane Fiber, Salt, Gum (Xanthan Gum, Sodium Alginate, Guar Gum), Mold Inhibitor (Cultured Corn Syrup, Citric Acid), Xanthan Gum, Enzyme (Calcium Sulfate, Enzymes). Contains Eggs.."
+  },
+  {
+   "id": "301222038",
+   "name": "Clyde's Triple",
+   "station": "Clyde's",
+   "category": "Sandwiches",
+   "mealPeriod": "Daily Menu",
+   "date": "2026-11-06",
+   "servingSize": "1 Sandwich",
+   "servingGrams": 303,
+   "calories": 750,
+   "proteinG": 33.2,
+   "carbsG": 65.68,
+   "fatG": 42.01,
+   "fiberG": 2.8,
+   "sugarG": 9.77,
+   "sodiumMg": 2007,
+   "diet": [],
+   "allergens": [
+    "dairy",
+    "eggs",
+    "wheat-gluten"
+   ],
+   "ingredients": "Sourdough Bread (Unbleached Enriched Flour (Wheat Flour, Malted Barley Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Water, Yeast, Wheat Flour, Salt, Malted Barley Flour (Contains Wheat), Fumaric Acid, Acetic Acid, Lactic Acid, Fully Refined Soybean Oil, Granulated Sugar, Wheat Gluten, Calcium Propionate (to retain freshness), Dough Improver (Malted Wheat Flour, Enzymes, Ascorbic Acid. Contains Wheat.), Tomatoes (Tomatoes.), Pork Bacon (Pork, Water, Salt, Sugar, Dextrose, Sodium Erythorbate, Sodium Nitrite.), Dijon Honey Mustard Dressing (Soybean Oil, High Fructose Corn Syrup, Distilled Vinegar, Water, Dijon Mustard (Distilled Vinegar, Water, Mustard Seed, Salt, White Wine, Citric Acid, Tartaric Acid, Spice), Honey, Sugar, Egg Yolk, Salt, Mustard Flour, Xanthan Gum, Spice, Oleoresin Paprika (Color), Calcium Disodium EDTA, Yellow 5, Corn Syrup, Natural Flavor. Contains Egg.), Ham (Ham, Water, Salt, Dextrose, Sodium Phosphates, Sodium Erythorbate, Sodium Nitrite.), Oven Roasted Turkey Breast (Carolina Turkey: Turkey Breast, Turkey Broth, Salt, Dextrose, Carrageenan, Sodium Phosphate. ISU Turkey Breast: Turkey Breast Meat, Turkey Broth, Vinegar, Salt, Rice Starch, Sodium Phosphates, Natural Flavor.), Cheddar Cheese (Cultured Pasteurized Milk, Salt, Enzymes, Annatto. Contains Milk.), Spring Lettuce Mix, Red Onions."
+  },
+  {
+   "id": "301222039",
+   "name": "Turkey Sandwich",
+   "station": "Clyde's",
+   "category": "Sandwiches",
+   "mealPeriod": "Daily Menu",
+   "date": "2026-11-06",
+   "servingSize": "1 Sandwich",
+   "servingGrams": 269,
+   "calories": 540,
+   "proteinG": 26.13,
+   "carbsG": 32.96,
+   "fatG": 33.52,
+   "fiberG": 1.8,
+   "sugarG": 7.96,
+   "sodiumMg": 1398,
+   "diet": [],
+   "allergens": [
+    "dairy",
+    "eggs",
+    "wheat-gluten"
+   ],
+   "ingredients": "Oven Roasted Turkey Breast (Carolina Turkey: Turkey Breast, Turkey Broth, Salt, Dextrose, Carrageenan, Sodium Phosphate. ISU Turkey Breast: Turkey Breast Meat, Turkey Broth, Vinegar, Salt, Rice Starch, Sodium Phosphates, Natural Flavor.), Croissant (Unbleached Enriched Flour (Wheat Flour, Niacin, Reduced Iron, Thiamin Mononitrate, Riboflavin, Folic Acid), Butter (Cream), Water, Sugar, Yeast, Whole Milk Powder, Eggs, Salt, Wheat Gluten, Food Enzymes (Xylanase, Amylase), Ascorbic Acid. Contains Milk, Eggs, Wheat), Tomatoes (Tomatoes.), Swiss Cheese (Cultured Pasteurized Part-Skim Milk, Salt, Enzymes.), Mayonnaise (Soybean Oil, Water, Vinegar, Eggs, Sugar, Salt, Egg Yolks, Natural Flavor (Mustard), Lemon Juice Concentrate, Dried Garlic, Dried Onion, Paprika, Calcium Disodium EDTA. Contains Eggs.), Mustard (Distilled White Vinegar, Water, Mustard Seed, Mustard Bran, Salt, Turmeric, Spices.), Spring Lettuce Mix, Red Onions."
+  },
+  {
+   "id": "301222037",
+   "name": "Pesto Swiss Sandwich",
+   "station": "Clyde's",
+   "category": "Limited Time Offer",
+   "mealPeriod": "Daily Menu",
+   "date": "2026-11-06",
+   "servingSize": "1 Sandwich",
+   "servingGrams": 220,
+   "calories": 470,
+   "proteinG": 17.15,
+   "carbsG": 52.13,
+   "fatG": 21.62,
+   "fiberG": 0.9,
+   "sugarG": 8.39,
+   "sodiumMg": 770,
+   "diet": [],
+   "allergens": [
+    "dairy",
+    "eggs",
+    "wheat-gluten"
+   ],
+   "ingredients": "Wheat Bun With Oat Topping (Unbleached Enriched Flour (Wheat Flour, Malted Barley Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Water, Yeast, Granulated Sugar, Fully Refined Soybean Oil, Coarse Cracked Wheat, Whole Wheat Flour, Wheat Gluten, Salt, Calcium Propionate (to retain freshness), Dough Improver (Malted Wheat Flour, Enzymes, Ascorbic Acid), Caramel Color, Enriched Wheat Flour (Wheat Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Enzymes, 100% Whole Grain Oats, Ascorbic Acid. Contains Wheat.), Tomatoes (Tomatoes.), Fresh Cucumbers, Swiss Cheese (Cultured Pasteurized Part-Skim Milk, Salt, Enzymes.), Spring Lettuce Mix, Mayonnaise (Soybean Oil, Water, Vinegar, Eggs, Sugar, Salt, Egg Yolks, Natural Flavor (Mustard), Lemon Juice Concentrate, Dried Garlic, Dried Onion, Paprika, Calcium Disodium EDTA. Contains Eggs.), Water, Basil Pesto Sauce (Basil, Canola Oil, Water, Parmesan Cheese (Pasteurized Part-Skim Cows Milk, Cheese Culture, Salt, Enzymes), Granulated Garlic, Salt. Contains Milk.), Red Onions, Rice Vinegar (Rice Vinegar, Water.), Pure Cane Sugar (Sugar.), Kosher Salt, Fresh Dill Weed, Fresh Garlic, Whole Mustard Seed, Black Peppercorns, Bay Leaves."
+  },
+  {
+   "id": "301222078",
+   "name": "with Grilled Chicken",
+   "station": "Clyde's",
+   "category": "LTO Sandwich Protein Options",
+   "mealPeriod": "Daily Menu",
+   "date": "2026-11-06",
+   "servingSize": "1 Serving",
+   "servingGrams": 108,
+   "calories": 130,
+   "proteinG": 26.01,
+   "carbsG": 0.08,
+   "fatG": 2,
+   "fiberG": 0,
+   "sugarG": 0.02,
+   "sodiumMg": 684,
+   "diet": [],
+   "allergens": null,
+   "ingredients": "Unbreaded Chicken Breast (Chicken, Water, Sea Salt, Seasoning (Turbinado Sugar, Sodium Carbonate, Sea Salt, Natural Flavoring).), Water, Fresh Lemon Juice, Kosher Salt, Thyme, Black Peppercorns, Rosemary, Bay Leaves."
+  },
+  {
+   "id": "301222079",
+   "name": "with Falafel Patty",
+   "station": "Clyde's",
+   "category": "LTO Sandwich Protein Options",
+   "mealPeriod": "Daily Menu",
+   "date": "2026-11-06",
+   "servingSize": "1 Serving",
+   "servingGrams": 100,
+   "calories": 284,
+   "proteinG": 9.71,
+   "carbsG": 27.53,
+   "fatG": 16.4,
+   "fiberG": 5.4,
+   "sugarG": 5.99,
+   "sodiumMg": 463,
+   "diet": [
+    "vegan",
+    "vegetarian"
+   ],
+   "allergens": [],
+   "ingredients": "Fresh Sliced Mushrooms, Water, Garbanzo Beans, Roasted Red Pepper Strips (Roasted Red Peppers, Water, Salt, Citric Acid.), Fryer Oil (Fully Refined Canola Oil, TBHQ, Citric Acid, Dimethylpolysiloxane.), Fresh Garlic, Canola Oil, Fresh Cilantro, Canola Olive Oil Blend (Canola Oil, Extra Virgin Olive Oil.), Vegetable Base (Custom Culinary: Tomato Juice From Concentrate, Salt, Yeast Extract, Sugar, Xanthan Gum, Carrot Extract, Natural Flavors, Onion Extract. Knorr: Vegetable Juice Blend (Water, Carrot Juice Concentrate, Celery Juice Concentrate, Onion Juice Concentrate, Cabbage Juice, Tomato Juice Concentrate, Salt, Citric Acid), Maltodextrin, Salt, Sugar, Yeast Extract, Garlic Powder, Mushroom Juice Concentrate, Spice, Natural Flavor.), Shallot, Parsley, Kosher Salt, Cumin Powder, Ground Coriander, Baking Soda (Sodium Bicarbonate.), Cayenne Pepper, Ground White Pepper, Ground Cardamom, Ground Black Pepper."
+  },
+  {
+   "id": "301222080",
+   "name": "with Hamburger Patty",
+   "station": "Clyde's",
+   "category": "LTO Sandwich Protein Options",
+   "mealPeriod": "Daily Menu",
+   "date": "2026-11-06",
+   "servingSize": "1 Serving",
+   "servingGrams": 113,
+   "calories": 365,
+   "proteinG": 18.83,
+   "carbsG": 0.01,
+   "fatG": 31.16,
+   "fiberG": 0,
+   "sugarG": 0,
+   "sodiumMg": 117,
+   "diet": [],
+   "allergens": null,
+   "ingredients": "Beef Patty (Beef), Canola Oil, Kosher Salt, Ground Black Pepper."
+  },
+  {
+   "id": "301222027",
+   "name": "House Salad",
+   "station": "Clyde's",
+   "category": "Salads",
+   "mealPeriod": "Daily Menu",
+   "date": "2026-11-06",
+   "servingSize": "1 Salad",
+   "servingGrams": 185,
+   "calories": 172,
+   "proteinG": 8.76,
+   "carbsG": 12.42,
+   "fatG": 10.41,
+   "fiberG": 2,
+   "sugarG": 2.84,
+   "sodiumMg": 309,
+   "diet": [
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy",
+    "wheat-gluten"
+   ],
+   "ingredients": "Spring Lettuce Mix, Tomatoes (Tomatoes.), Mild Cheddar Cheese (Pasteurized Milk, Cheese Culture, Salt, Enzymes, Annatto, Potato Starch, Powdered Cellulose. Contains Milk.), Fresh Cucumbers, Shredded Carrots (Carrots.), Butter Garlic Croutons (Enriched Flour (Wheat Flour, Malted Barley Flour, Niacin, Reduced Iron, Thiamin Mononitrate, Riboflavin, Folic Acid), Canola And/or Sunflower Oil (With Rosemary Extract And Ascorbic Acid), Salt, Maltodextrin, Sugar, Yeast, Whey, Dextrose, Garlic Powder, Buttermilk, Onion Powder, Dehydrated Parsley, Natural Butter Flavor (With Butter [Cream, Nonfat Milk, Salt], Cream), Corn Syrup Solids, Guar Gum, Extractives Of Annatto And Turmeric (Color), Enzymes. Contains Wheat & Milk.), Red Onions."
+  },
+  {
+   "id": "301222048",
+   "name": "Side Salad",
+   "station": "Clyde's",
+   "category": "Salads",
+   "mealPeriod": "Daily Menu",
+   "date": "2026-11-06",
+   "servingSize": "1 Salad",
+   "servingGrams": 121,
+   "calories": 50,
+   "proteinG": 2.07,
+   "carbsG": 9.27,
+   "fatG": 1.2,
+   "fiberG": 1,
+   "sugarG": 1.78,
+   "sodiumMg": 106,
+   "diet": [
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy",
+    "wheat-gluten"
+   ],
+   "ingredients": "Fresh Cucumbers, Spring Lettuce Mix, Tomatoes (Tomatoes.), Butter Garlic Croutons (Enriched Flour (Wheat Flour, Malted Barley Flour, Niacin, Reduced Iron, Thiamin Mononitrate, Riboflavin, Folic Acid), Canola And/or Sunflower Oil (With Rosemary Extract And Ascorbic Acid), Salt, Maltodextrin, Sugar, Yeast, Whey, Dextrose, Garlic Powder, Buttermilk, Onion Powder, Dehydrated Parsley, Natural Butter Flavor (With Butter [Cream, Nonfat Milk, Salt], Cream), Corn Syrup Solids, Guar Gum, Extractives Of Annatto And Turmeric (Color), Enzymes. Contains Wheat & Milk.), Red Onions."
+  },
+  {
+   "id": "301222028",
+   "name": "Iowan Salad",
+   "station": "Clyde's",
+   "category": "Salad with Choice of Protein",
+   "mealPeriod": "Daily Menu",
+   "date": "2026-11-06",
+   "servingSize": "1 Salad",
+   "servingGrams": 266,
+   "calories": 357,
+   "proteinG": 13.92,
+   "carbsG": 19.27,
+   "fatG": 25.71,
+   "fiberG": 3.9,
+   "sugarG": 6.75,
+   "sodiumMg": 660,
+   "diet": [],
+   "allergens": [
+    "dairy"
+   ],
+   "ingredients": "Red Onions, Spring Lettuce Mix, Diced Red Peppers, Pork Bacon (Pork, Water, Salt, Sugar, Dextrose, Sodium Erythorbate, Sodium Nitrite.), Mild Cheddar Cheese (Pasteurized Milk, Cheese Culture, Salt, Enzymes, Annatto, Potato Starch, Powdered Cellulose. Contains Milk.), Corn, Canola Olive Oil Blend (Canola Oil, Extra Virgin Olive Oil.), Kosher Salt, Ground Black Pepper."
+  },
+  {
+   "id": "301222077",
+   "name": "with Grilled Chicken",
+   "station": "Clyde's",
+   "category": "Salad Protein Options",
+   "mealPeriod": "Daily Menu",
+   "date": "2026-11-06",
+   "servingSize": "1 Serving",
+   "servingGrams": 108,
+   "calories": 130,
+   "proteinG": 26.01,
+   "carbsG": 0.08,
+   "fatG": 2,
+   "fiberG": 0,
+   "sugarG": 0.02,
+   "sodiumMg": 684,
+   "diet": [],
+   "allergens": null,
+   "ingredients": "Unbreaded Chicken Breast (Chicken, Water, Sea Salt, Seasoning (Turbinado Sugar, Sodium Carbonate, Sea Salt, Natural Flavoring).), Water, Fresh Lemon Juice, Kosher Salt, Thyme, Black Peppercorns, Rosemary, Bay Leaves."
+  },
+  {
+   "id": "301222081",
+   "name": "with BBQ Pork",
+   "station": "Clyde's",
+   "category": "Salad Protein Options",
+   "mealPeriod": "Daily Menu",
+   "date": "2026-11-06",
+   "servingSize": "1 Serving",
+   "servingGrams": 92,
+   "calories": 196,
+   "proteinG": 21.96,
+   "carbsG": 7.68,
+   "fatG": 8,
+   "fiberG": 0,
+   "sugarG": 6.82,
+   "sodiumMg": 909,
+   "diet": [],
+   "allergens": [
+    "soy"
+   ],
+   "ingredients": "Pork, Water, Sweet Baby Ray's BBQ Sauce (High Fructose Corn Syrup, Distilled Vinegar, Tomato Paste, Modified Corn Starch, Salt, Pineapple Juice Concentrate, Natural Smoke Flavor, Spice, Caramel Color, Molasses, Sodium Benzoate, Garlic, Mustard Flour, Corn Syrup, Sugar, Tamarind, Natural Flavor, Celery Seed.), Kosher Salt, Gluten Free Soy Sauce (Water, Hydrolyzed Soy Protein, Corn Syrup, Salt, Caramel Color, Lactic Acid, Potassium Sorbate. Contains Soy.), Demi Glace Brown Sauce Mix (Rice Flour, Potato Starch, Yeast Extract, Salt, Tomato Powder, Colour, Sea Salt, Sugar, Maltodextrin, Guar Gum, Flavours, Spices (Paprika, Pepper, Rosemary, Laurel, Clove), Olive Oil, Dehydrated Beetroot Juice.), Brown Sugar (Brown Cane Sugar.)."
+  },
+  {
+   "id": "301222060",
+   "name": "Balsamic Vinaigrette Dressing",
+   "station": "Clyde's",
+   "category": "Dressings",
+   "mealPeriod": "Daily Menu",
+   "date": "2026-11-06",
+   "servingSize": "2 oz Portion",
+   "servingGrams": 57,
+   "calories": 208,
+   "proteinG": 0,
+   "carbsG": 7.56,
+   "fatG": 20.79,
+   "fiberG": 0,
+   "sugarG": 7.56,
+   "sodiumMg": 340,
+   "diet": [
+    "vegan",
+    "vegetarian"
+   ],
+   "allergens": [],
+   "ingredients": "Soybean Oil, Water, Balsamic Vinegar, Sugar, Red Wine Vinegar, Extra Virgin Olive Oil, Dijon Mustard (Distilled Vinegar, Water, Mustard Seed, Salt, White Wine, Citric Acid, Turmeric, Spices, Tartaric Acid), Garlic Juice, Salt, Spice, Xanthan Gum, Sodium Benzoate, Potassium Sorbate, Shallots, Propylene Glycol Alginate, Calcium Disodium EDTA.."
+  },
+  {
+   "id": "301222061",
+   "name": "Dijon Honey Mustard Dressing",
+   "station": "Clyde's",
+   "category": "Dressings",
+   "mealPeriod": "Daily Menu",
+   "date": "2026-11-06",
+   "servingSize": "2 oz Portion",
+   "servingGrams": 57,
+   "calories": 238,
+   "proteinG": 0,
+   "carbsG": 12.8,
+   "fatG": 21.95,
+   "fiberG": 0,
+   "sugarG": 10.97,
+   "sodiumMg": 311,
+   "diet": [
+    "vegetarian"
+   ],
+   "allergens": [
+    "eggs"
+   ],
+   "ingredients": "Soybean Oil, High Fructose Corn Syrup, Distilled Vinegar, Water, Dijon Mustard (Distilled Vinegar, Water, Mustard Seed, Salt, White Wine, Citric Acid, Tartaric Acid, Spice), Honey, Sugar, Egg Yolk, Salt, Mustard Flour, Xanthan Gum, Spice, Oleoresin Paprika (Color), Calcium Disodium EDTA, Yellow 5, Corn Syrup, Natural Flavor. Contains Egg.."
+  },
+  {
+   "id": "301222062",
+   "name": "Peppercorn Ranch",
+   "station": "Clyde's",
+   "category": "Dressings",
+   "mealPeriod": "Daily Menu",
+   "date": "2026-11-06",
+   "servingSize": "2 oz Souffle Cup",
+   "servingGrams": 43,
+   "calories": 142,
+   "proteinG": 0.75,
+   "carbsG": 1.52,
+   "fatG": 14.59,
+   "fiberG": 0.2,
+   "sugarG": 1.13,
+   "sodiumMg": 327,
+   "diet": [
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy",
+    "eggs",
+    "soy"
+   ],
+   "ingredients": "Lowfat Buttermilk (Grade A Cultured Lowfat Milk, Locust Bean Gum, Modified Cornstarch, Carrageenan, Salt, Sodium Citrate, Mono And Diglycerides, Vitamin A Palmitate, Vitamin D3.), Mayonnaise (Soybean Oil, Water, Vinegar, Eggs, Sugar, Salt, Egg Yolks, Natural Flavor (Mustard), Lemon Juice Concentrate, Dried Garlic, Dried Onion, Paprika, Calcium Disodium EDTA. Contains Eggs.), White Wine, Hidden Valley Ranch Mix (Salt, Monosodium Glutamate, Garlic, Modified Corn Starch, Spices, Onion, Maltodextrin, Natural Flavor, Guar Gum, Calcium Stearate. Contains Milk, Soy.), Cracked Black Pepper."
+  },
+  {
+   "id": "301222063",
+   "name": "Roasted Garlic Aioli",
+   "station": "Clyde's",
+   "category": "Dressings",
+   "mealPeriod": "Daily Menu",
+   "date": "2026-11-06",
+   "servingSize": "2 oz Portion",
+   "servingGrams": 57,
+   "calories": 428,
+   "proteinG": 1.49,
+   "carbsG": 7.74,
+   "fatG": 44.57,
+   "fiberG": 0.5,
+   "sugarG": 0.23,
+   "sodiumMg": 232,
+   "diet": [
+    "vegetarian"
+   ],
+   "allergens": [
+    "eggs"
+   ],
+   "ingredients": "Mayonnaise (Soybean Oil, Water, Vinegar, Eggs, Sugar, Salt, Egg Yolks, Natural Flavor (Mustard), Lemon Juice Concentrate, Dried Garlic, Dried Onion, Paprika, Calcium Disodium EDTA. Contains Eggs.), Fresh Garlic, Canola Oil, Canola Olive Oil Blend (Canola Oil, Extra Virgin Olive Oil.), Kosher Salt."
+  },
+  {
+   "id": "301222046",
+   "name": "Krinkle Cut Fries",
+   "station": "Clyde's",
+   "category": "Sides",
+   "mealPeriod": "Daily Menu",
+   "date": "2026-11-06",
+   "servingSize": "5 oz Portion",
+   "servingGrams": 223,
+   "calories": 460,
+   "proteinG": 4.85,
+   "carbsG": 43.8,
+   "fatG": 28.43,
+   "fiberG": 4.8,
+   "sugarG": 0,
+   "sodiumMg": 299,
+   "diet": [
+    "vegetarian"
+   ],
+   "allergens": [
+    "wheat-gluten"
+   ],
+   "ingredients": "Crinkle Cut French Fries (Potatoes, Vegetable Oil (Contains One Or More Of The Following: Canola, Palm, Soybean, Sunflower), Disodium Dihydrogen Pyrophosphate (To Promote Color Retention), Dextrose.), Fryer Oil (Fully Refined Canola Oil, TBHQ, Citric Acid, Dimethylpolysiloxane.), Old Bay Seasoning (Celery Salt (Salt, Celery Seed), Spices (Including Red Pepper & Black Pepper), Paprika.), Vinegar Malt Powder (Corn Maltodextrin, Malt Vinegar, Modified Food Starch. Contains Wheat)."
+  },
+  {
+   "id": "301222047",
+   "name": "Pineapple Cup",
+   "station": "Clyde's",
+   "category": "Sides",
+   "mealPeriod": "Daily Menu",
+   "date": "2026-11-06",
+   "servingSize": "1 Container",
+   "servingGrams": 170,
+   "calories": 90,
+   "proteinG": 1,
+   "carbsG": 20.01,
+   "fatG": 0,
+   "fiberG": 2,
+   "sugarG": 14.01,
+   "sodiumMg": 0,
+   "diet": [
+    "halal",
+    "vegan",
+    "vegetarian"
+   ],
+   "allergens": [],
+   "ingredients": "Pineapple."
+  },
+  {
+   "id": "301222049",
+   "name": "Bacon Cheddar Fries",
+   "station": "Clyde's",
+   "category": "Sides",
+   "mealPeriod": "Daily Menu",
+   "date": "2026-11-06",
+   "servingSize": "1 Serving",
+   "servingGrams": 198,
+   "calories": 768,
+   "proteinG": 18.65,
+   "carbsG": 45.31,
+   "fatG": 55.22,
+   "fiberG": 4.8,
+   "sugarG": 0,
+   "sodiumMg": 921,
+   "diet": [],
+   "allergens": [
+    "dairy",
+    "wheat-gluten"
+   ],
+   "ingredients": "Crinkle Cut French Fries (Potatoes, Vegetable Oil (Contains One Or More Of The Following: Canola, Palm, Soybean, Sunflower), Disodium Dihydrogen Pyrophosphate (To Promote Color Retention), Dextrose.), Mild Cheddar Cheese (Pasteurized Milk, Cheese Culture, Salt, Enzymes, Annatto, Potato Starch, Powdered Cellulose. Contains Milk.), Pork Bacon (Pork, Water, Salt, Sugar, Dextrose, Sodium Erythorbate, Sodium Nitrite.), Fryer Oil (Fully Refined Canola Oil, TBHQ, Citric Acid, Dimethylpolysiloxane.), Old Bay Seasoning (Celery Salt (Salt, Celery Seed), Spices (Including Red Pepper & Black Pepper), Paprika.), Vinegar Malt Powder (Corn Maltodextrin, Malt Vinegar, Modified Food Starch. Contains Wheat)."
+  },
+  {
+   "id": "301222069",
+   "name": "Brownie",
+   "station": "Clyde's",
+   "category": "Shakes",
+   "mealPeriod": "Daily Menu",
+   "date": "2026-11-06",
+   "servingSize": "1 Shake",
+   "servingGrams": 437,
+   "calories": 1015,
+   "proteinG": 14.2,
+   "carbsG": 142.36,
+   "fatG": 43.47,
+   "fiberG": 5.3,
+   "sugarG": 107.65,
+   "sodiumMg": 1655,
+   "diet": [
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy",
+    "eggs",
+    "soy",
+    "wheat-gluten"
+   ],
+   "ingredients": "Chocolate Ice Cream (Milk, Cream, Skim Milk, Sugar, Buttermilk, Corn Syrup, Cocoa Processed with Alkali, Carob Bean Gum, Tara Gum, Guar Gum, Carrageenan, Mono And Diglycerides, Cellulose Gel, Cellulose Gum, Red 40, Yellow 5, Blue 1. Contains Milk.), Whole Milk (Grade A Milk, Vitamin D3.), Chocolate Brownie Mix (Sugar, Enriched Flour Bleached (Wheat Flour, Niacin, Iron, Thiamin Mononitrate, Riboflavin, Folic Acid), Palm Oil, Cocoa Processed With Alkali, Soybean Oil, Corn Starch, Egg White, Salt, Leavening (Baking Soda, Monocalcium Phosphate), Natural Flavor, Soy Flour, Nonfat Milk. Contains Eggs, Milk, Soy, Wheat), Designer Caramel Sauce (Corn Syrup, High Fructose Corn Syrup, Sugar, Condensed Nonfat Milk, Water, Heavy Whipping Cream, Salt, Pectin, Artificial Flavors, Potassium Sorbate, Caramel Color, Disodium Phosphate. Contains Milk.), Whipping Cream (Cream (Milk).), Water, Chunk Chocolate (Sugar, Unsweetened Chocolate, Cocoa Butter, Dextrose, Soy Lecithin, Natural Vanilla Extract, Milk. Contain Soy & Milk.), Caramel Syrup (Pure Cane Sugar, Water, Natural Flavors, Natural Caramel Flavor), Vanilla Syrup (Pure Cane Sugar, Water, Natural Flavors, Natural Vanilla Extract), Coarse Sea Salt."
+  },
+  {
+   "id": "301222070",
+   "name": "Chocolate",
+   "station": "Clyde's",
+   "category": "Shakes",
+   "mealPeriod": "Daily Menu",
+   "date": "2026-11-06",
+   "servingSize": "1 Shake",
+   "servingGrams": 394,
+   "calories": 682,
+   "proteinG": 12.42,
+   "carbsG": 75.72,
+   "fatG": 37.18,
+   "fiberG": 2.9,
+   "sugarG": 61.14,
+   "sodiumMg": 215,
+   "diet": [
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy"
+   ],
+   "ingredients": "Chocolate Ice Cream (Milk, Cream, Skim Milk, Sugar, Buttermilk, Corn Syrup, Cocoa Processed with Alkali, Carob Bean Gum, Tara Gum, Guar Gum, Carrageenan, Mono And Diglycerides, Cellulose Gel, Cellulose Gum, Red 40, Yellow 5, Blue 1. Contains Milk.), Whole Milk (Grade A Milk, Vitamin D3.), Whipping Cream (Cream (Milk).), Caramel Syrup (Pure Cane Sugar, Water, Natural Flavors, Natural Caramel Flavor), Vanilla Syrup (Pure Cane Sugar, Water, Natural Flavors, Natural Vanilla Extract)."
+  },
+  {
+   "id": "301222071",
+   "name": "Oreo",
+   "station": "Clyde's",
+   "category": "Shakes",
+   "mealPeriod": "Daily Menu",
+   "date": "2026-11-06",
+   "servingSize": "1 Shake",
+   "servingGrams": 428,
+   "calories": 944,
+   "proteinG": 13.45,
+   "carbsG": 108.39,
+   "fatG": 50.18,
+   "fiberG": 1.7,
+   "sugarG": 81.13,
+   "sodiumMg": 349,
+   "diet": [
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy",
+    "soy",
+    "wheat-gluten"
+   ],
+   "ingredients": "Vanilla Ice Cream (Milk, Cream, Skim Milk, Sugar, Buttermilk, Whey, Corn Syrup, Natural Flavors, Mono & Diglycerides, Carob Bean Gum, Cellulose Gum, Tara Gum, Carrageenan, Annatto Extract for Color. Contains Milk.), Whole Milk (Grade A Milk, Vitamin D3.), Oreo Cookie Pieces (Unbleached Enriched Flour (Wheat Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Sugar, Palm And/Or Canola Oil, Cocoa (Processed With Alkali), Invert Sugar, Leavening (Baking Soda And/Or Calcium Phosphate), Soy Lecithin, Salt, Chocolate, Natural Flavor. Contains Wheat & Soy.), Whipping Cream (Cream (Milk).), Designer Chocolate Sauce (High Fructose Corn Syrup, Water, Cocoa, Sugar, Modified Food Starch, Salt, Potassium Sorbate, Xanthan Gum, Artificial Flavor.), Caramel Syrup (Pure Cane Sugar, Water, Natural Flavors, Natural Caramel Flavor), Vanilla Syrup (Pure Cane Sugar, Water, Natural Flavors, Natural Vanilla Extract)."
+  },
+  {
+   "id": "301222072",
+   "name": "Pumpkin Cheesecake",
+   "station": "Clyde's",
+   "category": "Shakes",
+   "mealPeriod": "Daily Menu",
+   "date": "2026-11-06",
+   "servingSize": "1 Shake",
+   "servingGrams": 398,
+   "calories": 888,
+   "proteinG": 15.77,
+   "carbsG": 80.71,
+   "fatG": 53.5,
+   "fiberG": 1.1,
+   "sugarG": 57.61,
+   "sodiumMg": 551,
+   "diet": [
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy",
+    "eggs",
+    "wheat-gluten"
+   ],
+   "ingredients": "Vanilla Ice Cream (Milk, Cream, Skim Milk, Sugar, Buttermilk, Whey, Corn Syrup, Natural Flavors, Mono & Diglycerides, Carob Bean Gum, Cellulose Gum, Tara Gum, Carrageenan, Annatto Extract for Color. Contains Milk.), Whole Milk (Grade A Milk, Vitamin D3.), Cream Cheese (Pasteurized Milk And Cream, Salt, Carob Bean Gum, Cheese Culture. Contains Milk.), Graham Cracker Crumbs (Unbleached Enriched Flour (Wheat Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Graham Flour (Whole Grain Wheat Flour), Sugar, Molasses, Canola Oil, Leavening (Baking Soda, Calcium Phosphate), Salt. Contains Wheat.), Whipping Cream (Cream (Milk).), Egg (Whole Eggs, Sodium Phosphate, Citric Acid, Nisin Preparation. Contains Eggs.), Pumpkin (Pumpkin.), Pure Cane Sugar (Sugar.), Caramel Syrup (Pure Cane Sugar, Water, Natural Flavors, Natural Caramel Flavor), Vanilla Syrup (Pure Cane Sugar, Water, Natural Flavors, Natural Vanilla Extract), Vanilla Extract (Water, Alcohol, Vanillin, Artificial Flavorings, Citric Acid.), Cinnamon, Kosher Salt, Starbucks Topping Pumpkin Spice, Ground Nutmeg, Ground Cloves, Ground Ginger."
+  },
+  {
+   "id": "301222073",
+   "name": "Strawberry",
+   "station": "Clyde's",
+   "category": "Shakes",
+   "mealPeriod": "Daily Menu",
+   "date": "2026-11-06",
+   "servingSize": "1 Shake",
+   "servingGrams": 394,
+   "calories": 653,
+   "proteinG": 9.52,
+   "carbsG": 72.82,
+   "fatG": 34.28,
+   "fiberG": 0,
+   "sugarG": 55.34,
+   "sodiumMg": 186,
+   "diet": [
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy"
+   ],
+   "ingredients": "Strawberry Ice Cream (Milk, Cream, Strawberries, Buttermilk, Whey, Corn Syrup, High Fructose Corn Syrup, Sugar, Skim Milk, Strawberry Juice Concentrate, Cherry Juice Concentrate, Natural Flavors, Guar Gum, Cellulose Gum, Carrageenan, Carob Bean Gum, Mono & Diglycerides, Polysorbate 80, Citric Acid, Cellulose Gel, Beet Extract for Color. Contains Milk.), Whole Milk (Grade A Milk, Vitamin D3.), Whipping Cream (Cream (Milk).), Caramel Syrup (Pure Cane Sugar, Water, Natural Flavors, Natural Caramel Flavor), Vanilla Syrup (Pure Cane Sugar, Water, Natural Flavors, Natural Vanilla Extract)."
+  },
+  {
+   "id": "301222074",
+   "name": "Vanilla",
+   "station": "Clyde's",
+   "category": "Shakes",
+   "mealPeriod": "Daily Menu",
+   "date": "2026-11-06",
+   "servingSize": "1 Shake",
+   "servingGrams": 394,
+   "calories": 711,
+   "proteinG": 12.42,
+   "carbsG": 67.02,
+   "fatG": 42.99,
+   "fiberG": 0,
+   "sugarG": 55.34,
+   "sodiumMg": 201,
+   "diet": [
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy"
+   ],
+   "ingredients": "Vanilla Ice Cream (Milk, Cream, Skim Milk, Sugar, Buttermilk, Whey, Corn Syrup, Natural Flavors, Mono & Diglycerides, Carob Bean Gum, Cellulose Gum, Tara Gum, Carrageenan, Annatto Extract for Color. Contains Milk.), Whole Milk (Grade A Milk, Vitamin D3.), Whipping Cream (Cream (Milk).), Caramel Syrup (Pure Cane Sugar, Water, Natural Flavors, Natural Caramel Flavor), Vanilla Syrup (Pure Cane Sugar, Water, Natural Flavors, Natural Vanilla Extract)."
+  },
+  {
+   "id": "301222066",
+   "name": "Chocolate Ice Cream",
+   "station": "Clyde's",
+   "category": "Ice Cream",
+   "mealPeriod": "Daily Menu",
+   "date": "2026-11-06",
+   "servingSize": "#8 Scoop (2.39 oz)",
+   "servingGrams": 68,
+   "calories": 133,
+   "proteinG": 2.34,
+   "carbsG": 17.95,
+   "fatG": 6.24,
+   "fiberG": 0.8,
+   "sugarG": 14.05,
+   "sodiumMg": 43,
+   "diet": [
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy"
+   ],
+   "ingredients": "Milk, Cream, Skim Milk, Sugar, Buttermilk, Corn Syrup, Cocoa Processed with Alkali, Carob Bean Gum, Tara Gum, Guar Gum, Carrageenan, Mono And Diglycerides, Cellulose Gel, Cellulose Gum, Red 40, Yellow 5, Blue 1. Contains Milk.."
+  },
+  {
+   "id": "301222067",
+   "name": "Strawberry Ice Cream",
+   "station": "Clyde's",
+   "category": "Ice Cream",
+   "mealPeriod": "Daily Menu",
+   "date": "2026-11-06",
+   "servingSize": "#8 Scoop (2.36 oz)",
+   "servingGrams": 67,
+   "calories": 123,
+   "proteinG": 1.54,
+   "carbsG": 16.95,
+   "fatG": 5.39,
+   "fiberG": 0,
+   "sugarG": 12.33,
+   "sodiumMg": 35,
+   "diet": [
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy"
+   ],
+   "ingredients": "Milk, Cream, Strawberries, Buttermilk, Whey, Corn Syrup, High Fructose Corn Syrup, Sugar, Skim Milk, Strawberry Juice Concentrate, Cherry Juice Concentrate, Natural Flavors, Guar Gum, Cellulose Gum, Carrageenan, Carob Bean Gum, Mono & Diglycerides, Polysorbate 80, Citric Acid, Cellulose Gel, Beet Extract for Color. Contains Milk.."
+  },
+  {
+   "id": "301222068",
+   "name": "Vanilla Ice Cream",
+   "station": "Clyde's",
+   "category": "Ice Cream",
+   "mealPeriod": "Daily Menu",
+   "date": "2026-11-06",
+   "servingSize": "#8 Scoop (3.98 oz)",
+   "servingGrams": 113,
+   "calories": 233,
+   "proteinG": 3.89,
+   "carbsG": 25.94,
+   "fatG": 12.97,
+   "fiberG": 0,
+   "sugarG": 20.75,
+   "sodiumMg": 65,
+   "diet": [
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy"
+   ],
+   "ingredients": "Milk, Cream, Skim Milk, Sugar, Buttermilk, Whey, Corn Syrup, Natural Flavors, Mono & Diglycerides, Carob Bean Gum, Cellulose Gum, Tara Gum, Carrageenan, Annatto Extract for Color. Contains Milk.."
+  }
+ ]
+}

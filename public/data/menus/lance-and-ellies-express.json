@@ -1,0 +1,223 @@
+{
+ "venue": "lance-and-ellies-express",
+ "fetchedAt": "2026-11-06T17:29:04.503Z",
+ "fixed": true,
+ "items": [
+  {
+   "id": "296964084",
+   "name": "Choice of Bagel Sandwich/Bagel w/Spread",
+   "station": "Deli",
+   "category": "Express Meal",
+   "mealPeriod": "Breakfast",
+   "date": "2026-11-06",
+   "servingSize": "Each",
+   "servingGrams": 28,
+   "calories": null,
+   "proteinG": null,
+   "carbsG": null,
+   "fatG": null,
+   "fiberG": null,
+   "sugarG": null,
+   "sodiumMg": null,
+   "diet": [],
+   "allergens": null,
+   "ingredients": "Sandwich Breakfast Bagel L&E EXPRESS Meal MDI."
+  },
+  {
+   "id": "296964076",
+   "name": "Bacon, Egg, & Cheese Bagel",
+   "station": "Deli",
+   "category": "Entree",
+   "mealPeriod": "Breakfast",
+   "date": "2026-11-06",
+   "servingSize": "1 Sandwich",
+   "servingGrams": 227,
+   "calories": 580,
+   "proteinG": 32.09,
+   "carbsG": 54.32,
+   "fatG": 26.22,
+   "fiberG": 1.9,
+   "sugarG": 4.36,
+   "sodiumMg": 1485,
+   "diet": [],
+   "allergens": [
+    "dairy",
+    "eggs",
+    "wheat-gluten"
+   ],
+   "ingredients": "High Gluten Flour (Bleached Wheat Flour Enriched (Bleached Wheat Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Malted Barley Flour, Potassium Bromate. Contains Wheat.), Homestyle Egg Patty (Egg Whites, Egg Yolks, Water, Soybean Oil, Modified Corn Starch, Dicalcium Phosphate, Sodium Bicarbonate, Black Pepper, Salt, Natural Butter Flavor, Cellulose Gum, Xanthan Gum, Citric Acid. Contains Eggs, Milk.), Water, Cheddar Cheese (Pasteurized Milk, Cheese Cultures, Salt, Enzymes, Annatto (Vegetable Color), If Colored. Contains Dairy), Pork Bacon (Pork, Cured With Water, Salt, Smoke Flavoring, Sugar, Sodium Diacetate, Dextrose, Sodium Erythorbate, Sodium Nitrite.), Bagel Base (Sugar, Sea Salt, Malted Barley Flour, Yeast, Molasses Powder (Molasses, Wheat Starch), Honey Powder (Honey, Maltodextrin), Soybean Oil, Hydrolyzed Wheat Gluten, Natural Flavor, Ascorbic Acid (Vitamin C), Enriched Wheat Flour (Wheat Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Enzymes. Contains Wheat.), Malt Powder (Malted Barley, Wheat Flour, Dextrose. Contains Wheat), Yellow Cornmeal (Degerminated Yellow Corn Meal, Niacin, Reduced Iron, Thiamin Mononitrate, Riboflavin, Folic Acid.), Instant Yeast (Yeast, Sorbitan Monostearate, Ascorbic Acid)."
+  },
+  {
+   "id": "296964077",
+   "name": "Egg & Cheese Bagel",
+   "station": "Deli",
+   "category": "Entree",
+   "mealPeriod": "Breakfast",
+   "date": "2026-11-06",
+   "servingSize": "1 Sandwich",
+   "servingGrams": 206,
+   "calories": 490,
+   "proteinG": 26.1,
+   "carbsG": 54.32,
+   "fatG": 19.22,
+   "fiberG": 1.9,
+   "sugarG": 4.36,
+   "sodiumMg": 1165,
+   "diet": [
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy",
+    "eggs",
+    "wheat-gluten"
+   ],
+   "ingredients": "High Gluten Flour (Bleached Wheat Flour Enriched (Bleached Wheat Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Malted Barley Flour, Potassium Bromate. Contains Wheat.), Homestyle Egg Patty (Egg Whites, Egg Yolks, Water, Soybean Oil, Modified Corn Starch, Dicalcium Phosphate, Sodium Bicarbonate, Black Pepper, Salt, Natural Butter Flavor, Cellulose Gum, Xanthan Gum, Citric Acid. Contains Eggs, Milk.), Water, Cheddar Cheese (Pasteurized Milk, Cheese Cultures, Salt, Enzymes, Annatto (Vegetable Color), If Colored. Contains Dairy), Bagel Base (Sugar, Sea Salt, Malted Barley Flour, Yeast, Molasses Powder (Molasses, Wheat Starch), Honey Powder (Honey, Maltodextrin), Soybean Oil, Hydrolyzed Wheat Gluten, Natural Flavor, Ascorbic Acid (Vitamin C), Enriched Wheat Flour (Wheat Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Enzymes. Contains Wheat.), Malt Powder (Malted Barley, Wheat Flour, Dextrose. Contains Wheat), Yellow Cornmeal (Degerminated Yellow Corn Meal, Niacin, Reduced Iron, Thiamin Mononitrate, Riboflavin, Folic Acid.), Instant Yeast (Yeast, Sorbitan Monostearate, Ascorbic Acid)."
+  },
+  {
+   "id": "296964078",
+   "name": "Sausage, Egg, & Cheese Bagel",
+   "station": "Deli",
+   "category": "Entree",
+   "mealPeriod": "Breakfast",
+   "date": "2026-11-06",
+   "servingSize": "1 Sandwich",
+   "servingGrams": 249,
+   "calories": 571,
+   "proteinG": 32.17,
+   "carbsG": 54.32,
+   "fatG": 25.3,
+   "fiberG": 1.9,
+   "sugarG": 4.36,
+   "sodiumMg": 1438,
+   "diet": [],
+   "allergens": [
+    "dairy",
+    "eggs",
+    "wheat-gluten"
+   ],
+   "ingredients": "High Gluten Flour (Bleached Wheat Flour Enriched (Bleached Wheat Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Malted Barley Flour, Potassium Bromate. Contains Wheat.), Homestyle Egg Patty (Egg Whites, Egg Yolks, Water, Soybean Oil, Modified Corn Starch, Dicalcium Phosphate, Sodium Bicarbonate, Black Pepper, Salt, Natural Butter Flavor, Cellulose Gum, Xanthan Gum, Citric Acid. Contains Eggs, Milk.), Chicken Sausage Patty (Chicken, Water, Salt, Spices, Dextrose, Sugar, Dried Parsley.), Water, Cheddar Cheese (Pasteurized Milk, Cheese Cultures, Salt, Enzymes, Annatto (Vegetable Color), If Colored. Contains Dairy), Bagel Base (Sugar, Sea Salt, Malted Barley Flour, Yeast, Molasses Powder (Molasses, Wheat Starch), Honey Powder (Honey, Maltodextrin), Soybean Oil, Hydrolyzed Wheat Gluten, Natural Flavor, Ascorbic Acid (Vitamin C), Enriched Wheat Flour (Wheat Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Enzymes. Contains Wheat.), Malt Powder (Malted Barley, Wheat Flour, Dextrose. Contains Wheat), Yellow Cornmeal (Degerminated Yellow Corn Meal, Niacin, Reduced Iron, Thiamin Mononitrate, Riboflavin, Folic Acid.), Instant Yeast (Yeast, Sorbitan Monostearate, Ascorbic Acid)."
+  },
+  {
+   "id": "296964083",
+   "name": "Plain Bagel",
+   "station": "Deli",
+   "category": "Entree",
+   "mealPeriod": "Breakfast",
+   "date": "2026-11-06",
+   "servingSize": "Bagel",
+   "servingGrams": 114,
+   "calories": 269,
+   "proteinG": 10.01,
+   "carbsG": 53.32,
+   "fatG": 1.12,
+   "fiberG": 1.9,
+   "sugarG": 4.36,
+   "sodiumMg": 793,
+   "diet": [
+    "halal",
+    "vegetarian"
+   ],
+   "allergens": [
+    "wheat-gluten"
+   ],
+   "ingredients": "High Gluten Flour (Bleached Wheat Flour Enriched (Bleached Wheat Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Malted Barley Flour, Potassium Bromate. Contains Wheat.), Water, Bagel Base (Sugar, Sea Salt, Malted Barley Flour, Yeast, Molasses Powder (Molasses, Wheat Starch), Honey Powder (Honey, Maltodextrin), Soybean Oil, Hydrolyzed Wheat Gluten, Natural Flavor, Ascorbic Acid (Vitamin C), Enriched Wheat Flour (Wheat Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Enzymes. Contains Wheat.), Malt Powder (Malted Barley, Wheat Flour, Dextrose. Contains Wheat), Yellow Cornmeal (Degerminated Yellow Corn Meal, Niacin, Reduced Iron, Thiamin Mononitrate, Riboflavin, Folic Acid.), Instant Yeast (Yeast, Sorbitan Monostearate, Ascorbic Acid)."
+  },
+  {
+   "id": "296964079",
+   "name": "Unsweetened Applesauce Pouch",
+   "station": "Deli",
+   "category": "Sides",
+   "mealPeriod": "Breakfast",
+   "date": "2026-11-06",
+   "servingSize": "3.2 oz",
+   "servingGrams": 91,
+   "calories": 0,
+   "proteinG": 0,
+   "carbsG": 0,
+   "fatG": 0,
+   "fiberG": 0,
+   "sugarG": 0,
+   "sodiumMg": 0,
+   "diet": [
+    "halal",
+    "vegan",
+    "vegetarian"
+   ],
+   "allergens": [],
+   "ingredients": "For nutrition & ingredient information, please refer to the package.."
+  },
+  {
+   "id": "296964080",
+   "name": "Nuts & Chocolate Trail Mix",
+   "station": "Deli",
+   "category": "Sides",
+   "mealPeriod": "Breakfast",
+   "date": "2026-11-06",
+   "servingSize": "2 oz Pkg",
+   "servingGrams": 57,
+   "calories": 0,
+   "proteinG": 0,
+   "carbsG": 0,
+   "fatG": 0,
+   "fiberG": 0,
+   "sugarG": 0,
+   "sodiumMg": 0,
+   "diet": [
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy",
+    "peanuts",
+    "soy",
+    "tree-nuts"
+   ],
+   "ingredients": "For nutrition & ingredient information, please refer to the package.."
+  },
+  {
+   "id": "296964081",
+   "name": "PC Cream Cheese Cup",
+   "station": "Deli",
+   "category": "Condiments",
+   "mealPeriod": "Breakfast",
+   "date": "2026-11-06",
+   "servingSize": "Each",
+   "servingGrams": 28,
+   "calories": 0,
+   "proteinG": 0,
+   "carbsG": 0,
+   "fatG": 0,
+   "fiberG": 0,
+   "sugarG": 0,
+   "sodiumMg": 0,
+   "diet": [
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy"
+   ],
+   "ingredients": "For nutrition & ingredient information, please refer to the package.."
+  },
+  {
+   "id": "296964082",
+   "name": "Pc Creamy Peanut Butter Cup",
+   "station": "Deli",
+   "category": "Condiments",
+   "mealPeriod": "Breakfast",
+   "date": "2026-11-06",
+   "servingSize": "0.75 oz Cup",
+   "servingGrams": 21,
+   "calories": 0,
+   "proteinG": 0,
+   "carbsG": 0,
+   "fatG": 0,
+   "fiberG": 0,
+   "sugarG": 0,
+   "sodiumMg": 0,
+   "diet": [],
+   "allergens": [
+    "peanuts"
+   ],
+   "ingredients": "For nutrition & ingredient information, please refer to the package.."
+  }
+ ]
+}

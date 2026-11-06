@@ -1,0 +1,1564 @@
+{
+ "venue": "whirlybirds",
+ "fetchedAt": "2026-11-06T17:29:22.931Z",
+ "fixed": true,
+ "items": [
+  {
+   "id": "301222912",
+   "name": "Chicken Caesar Salad",
+   "station": "Whirlybird's",
+   "category": "Salads",
+   "mealPeriod": "Grab and Go",
+   "date": "2026-11-06",
+   "servingSize": "1 Salad",
+   "servingGrams": 206,
+   "calories": 411,
+   "proteinG": 20.55,
+   "carbsG": 16.44,
+   "fatG": 32.89,
+   "fiberG": 2.1,
+   "sugarG": 2.06,
+   "sodiumMg": 966,
+   "diet": [],
+   "allergens": [
+    "dairy",
+    "eggs",
+    "fish",
+    "wheat-gluten"
+   ],
+   "ingredients": "Lettuce, Pulled Chicken Breast With Rib Meat (Skinless Boneless Chicken Breast Meat With Rib Meat, Water, Dehydrated Chicken Broth, Salt, Modified Food Starch, Sodium Phosphates, Carrageenan, Natural Flavor), Romano Caesar Dressing (Vegetable Oil (Canola And/or Soybean Oil), Water, Romano Cheese (Milk, Culture, Salt, Enzymes), Egg Yolk, Of Anchovy Paste (Anchovies, Salt, Water), Distilled Vinegar, Dried Garlic, Mustard (Distilled Vinegar, Water, Mustard Seed), Salt, Sugar, Lemon Juice Concentrate, Ground Mustard, Spice, Xanthan Gum), Parmesan Cheese (Parmesan Cheese (Pasteurized Cow's Milk, Cheese Culture, Salt, Enzymes), Powdered Cellulose (Anticaking Agent), And Natamycin (A Natural Mold Inhibitor)), Garlic Butter Croutons (Enriched Wheat Flour (Wheat Flour, Malted Barley Flour, Niacin, Ferrous Sulfate, Thiamine Mononitrate, Riboflavin, Folic Acid), Vegetable Oils ( Canola And/or Sunflower And/or Soybean Oil), Dehydrated Garlic, Salt, Water, Yeast, Maltodextrin, Natural Butter Flavor (A Milk Ingredient), Ascorbic Acid (Vitamin C)). Contains Egg, Milk, Wheat, Fish."
+  },
+  {
+   "id": "301222913",
+   "name": "Garden Salad with Ranch",
+   "station": "Whirlybird's",
+   "category": "Salads",
+   "mealPeriod": "Grab and Go",
+   "date": "2026-11-06",
+   "servingSize": "1 Salad",
+   "servingGrams": 255,
+   "calories": 380,
+   "proteinG": 11,
+   "carbsG": 20,
+   "fatG": 30,
+   "fiberG": 2,
+   "sugarG": 5,
+   "sodiumMg": 650,
+   "diet": [
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy",
+    "eggs",
+    "wheat-gluten"
+   ],
+   "ingredients": "Lettuce, Ranch Dressing (Vegetable Oil (Canola And/or Soybean Oil), Nonfat Buttermilk (Whey, Water, Skim Milk Powder, Corn Starch, Tapioca Starch, Carrageenan, Locust Bean Gum, Culture), Water, Egg Yolk, Nonfat Sour Cream (Cultured Skim Milk, Corn Starch, Tapioca Starch, Carrageenan, Locust Bean Gum), Dried Garlic, Distilled Vinegar, Salt, Seasoning Blend (Dextrose, Salt, Natural Flavors, Modified Corn Starch) Sugar, Dried Onion, Spices, Modified Corn Starch, Dried Green Onion, Lactic Acid, Xanthan Gum, Guar Gum), Tomatoes, Cucumber, Cheddar Cheese (Mild Cheddar Cheese (Pasteurized Milk, Cheese Cultures, Salt, Enzymes And Annatto [vegetable Color]), Powdered Cellulose (To Prevent Caking), Potassium Sorbate And Natamycin (Preservatives)), Carrots, Hard Cooked Eggs (Hard Cooked Eggs, Water, Citric Acid, Sodium Benzoate, And Nisin Preparation (As Preservatives)), Garlic Butter Croutons (Enriched Wheat Flour (Wheat Flour, Malted Barley Flour, Niacin, Ferrous Sulfate, Thiamine Mononitrate, Riboflavin, Folic Acid), Vegetable Oils (Canola And/or Sunflower And/or Soybean Oil), Dehydrated Garlic, Salt, Water, Yeast, Maltodextrin, Natural Butter Flavor (A Milk Ingredient), Ascorbic Acid (Vitamin C)). Contains Egg, Milk, Wheat."
+  },
+  {
+   "id": "301222914",
+   "name": "Southwest Chicken Salad",
+   "station": "Whirlybird's",
+   "category": "Salads",
+   "mealPeriod": "Grab and Go",
+   "date": "2026-11-06",
+   "servingSize": "1 Salad",
+   "servingGrams": 281,
+   "calories": 365,
+   "proteinG": 14.03,
+   "carbsG": 28.07,
+   "fatG": 22.45,
+   "fiberG": 2.8,
+   "sugarG": 5.61,
+   "sodiumMg": 617,
+   "diet": [],
+   "allergens": [
+    "dairy",
+    "eggs",
+    "soy",
+    "wheat-gluten"
+   ],
+   "ingredients": "Lettuce, Avocado Ranch Dressing (Nonfat Buttermilk (Whey, Water, Skim Milk Powder, Corn Starch, Tapioca Starch, Carrageenan, Locust Bean Gum, Culture), Vegetable Oil (Canola And/or Soybean Oil), Water, Avocado, Nonfat Sour Cream (Cultured Skim Milk, Corn Starch, Tapioca Starch, Carrageenan, Locust Bean Gum), Maltodextrin, Egg Yolk, Sugar, Salt, Distilled Vinegar, Apple Cider Vinegar, Dried Onion, Seasoning Blend (Dextrose, Salt, Natural Flavors, Modified Corn Starch), Modified Corn Starch, Dried Onion, Xanthan Gum, Seasoning Blend (Maltodextrin, Whey Powder, Skim Milk Powder, Modified Corn Starch, Butter Extractives, Natural Flavor), Soy Sauce (Water, Wheat, Soybeans, Salt, Alcohol, Vinegar, Lactic Acid), Dried Garlic, Spice, Cultured Dextrose, Dried Green Onion, Lactic Acid, Carrageenan, Calcium Disodium Edta (To Protect Quality), Yellow 5 & 6, Blue 1), Pulled Chicken Breast With Rib Meat (Skinless Boneless Chicken Breast Meat With Rib Meat, Water, Dehydrated Chicken Broth, Salt, Modified Food Starch, Sodium Phosphates, Carrageenan, Natural Flavor), Tomatoes, Roasted Corn, Shredded Mild Cheddar And Monterey Jack Cheese (Cheddar Cheese (Pasteurized Milk, Cheese Culture, Salt, Enzymes, Color Added), Monterey Jack Cheese (Pasteurized Milk, Cheese Culture, Salt, Enzymes), Potato Starch Added To Prevent Caking, Natamycin (A Natural Mold Inhibitor)), Green Onion, Tri-colored Tortilla Strips (Corn Masa Flour, Vegetable Oil (Sunflower, Safflower And/or Canola), Salt, Red 40, Blue 1, Blue 2), Cilantro. Contains Egg, Milk, Soy, Wheat."
+  },
+  {
+   "id": "301222917",
+   "name": "Sausage Croissant Breakfast Sandwich",
+   "station": "Whirlybird's",
+   "category": "Sandwiches",
+   "mealPeriod": "Grab and Go",
+   "date": "2026-11-06",
+   "servingSize": "1 Sandwich",
+   "servingGrams": 164,
+   "calories": 556,
+   "proteinG": 18.53,
+   "carbsG": 25.47,
+   "fatG": 41.69,
+   "fiberG": 0,
+   "sugarG": 2.32,
+   "sodiumMg": 741,
+   "diet": [],
+   "allergens": [
+    "dairy",
+    "eggs",
+    "soy",
+    "wheat-gluten"
+   ],
+   "ingredients": "Margarine Croissant (Enriched Flour (Wheat Flour, Niacin, Iron, Ascorbic Acid Added As A Dough Conditioner, Thiamine Mononitrate, Riboflavin, Enzyme, Folic Acid), Water, Margarine (Fractionated Palm And Palm Oil, Canola Oil, Water, Sugar, Soy Lecithin, Monoglycerides, Citric Acid, Natural Flavor, Vitamin A Palmitate, Vitamin D3, Beta-carotene [color]), Sugar, Yeast, High Fructose Corn Syrup (Contains Sulfites), Salt, Egg Whites, Calcium Propionate (Preservative), Dough Conditioners (Enzymes, Ascorbic Acid, L-cysteine Hydrochloride), Sunflower Oil, Natural Flavor (Contains Milk)), Cooked Egg Patty (Whole Eggs, Water, Soybean Oil, Modified Food Starch, Whey Solids, Salt, Nonfat Dried Milk, Citric Acid), Pork Sausage (Pork, Water, Salt, Spices, Dextrose, Sugar), Mild Cheddar Cheese (Pasteurized Milk, Cheese Cultures, Salt, Enzymes, Color Added). Contains Eggs, Milk, Soy, Wheat."
+  },
+  {
+   "id": "301222920",
+   "name": "Gourmet Cranberry & Turkey Sandwich",
+   "station": "Whirlybird's",
+   "category": "Sandwiches",
+   "mealPeriod": "Grab and Go",
+   "date": "2026-11-06",
+   "servingSize": "1 Sandwich",
+   "servingGrams": 221,
+   "calories": 450,
+   "proteinG": 28,
+   "carbsG": 50,
+   "fatG": 17,
+   "fiberG": 0,
+   "sugarG": 16,
+   "sodiumMg": 1070,
+   "diet": [],
+   "allergens": [
+    "dairy",
+    "wheat-gluten"
+   ],
+   "ingredients": "Cooked Turkey Breast (Turkey Breast, Water, Potassium Lactate, Modified Food Starch, Dextrose, Salt, Sodium Phosphate, Sodium Diacetate, Flavoring), Cranberry Wild Rice Bread (Enriched Flour (Wheat Flour, Malted Barley Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Water, Cranberries, Wild Rice, Sugar, Brown Sugar, Soybean Oil, Salt, Active Dry Yeast, Corn Starch, Enzymes, Ascorbic & Lactic Acid, Sunflower Oil, Fumaric & Acetic Acid, Calcium Propionate (Preserves Freshness)), Cranberry Cream Cheese (Cream Cheese (Pasteurized Milk And Cream, Cheese Culture, Salt, Guar Gum, Xanthan Gum, Carob Bean Gum), Cranberry Sauce (Cranberries, High Fructose Corn Syrup, Water, Corn Syrup)), Swiss Cheese (Pasteurized Part-skim Milk, Cheese Culture, Salt, Enzymes. Aged Over 60 Days), Lettuce. Contains Wheat & Milk.."
+  },
+  {
+   "id": "301222921",
+   "name": "Egg Salad Croissant Sandwich",
+   "station": "Whirlybird's",
+   "category": "Sandwiches",
+   "mealPeriod": "Grab and Go",
+   "date": "2026-11-06",
+   "servingSize": "1 Sandwich",
+   "servingGrams": 167,
+   "calories": 450,
+   "proteinG": 14,
+   "carbsG": 27,
+   "fatG": 32,
+   "fiberG": 0,
+   "sugarG": 4,
+   "sodiumMg": 510,
+   "diet": [
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy",
+    "eggs",
+    "soy",
+    "wheat-gluten"
+   ],
+   "ingredients": "Egg Salad (Hard Cooked Egg (Hard Cooked Eggs, Water, Citric Acid, Sodium Benzoate, And Nisin Preparation (As Preservatives)), Mayonnaise (Soybean Oil, Water, Egg Yolks, Distilled Vinegar, High Fructose Corn Syrup, Corn Syrup, Salt, Spice, Calcium Disodium Edta Added To Protect Flavor), Yellow Mustard (Distilled Vinegar, Water, No. 1 Mustard Seed, Salt, Turmeric, Oleoresin Paprika, Spices), Salt, White Pepper, Granulated Sugar), Margarine Croissant (Enriched Flour (Wheat Flour, Niacin, Iron, Ascorbic Acid, Thiamine Mononitrate, Riboflavin, Enzyme, Folic Acid), Water, Margarine (Fractionated Palm And Palm Oil, Canola Oil, Water, Sugar, Soy Lecithin, Monoglycerides, Citric Acid, Natural Flavor, Vitamin A Palmitate, Vitamin D3, Beta-Carotene [Color]), Sugar, Yeast, High Fructose Corn Syrup (Contains Sulfites), Salt, Egg Whites, Calcium Propionate (Preservative), Dough Conditioners (Enzymes, Ascorbic Acid, L-Cysteine Hydrochloride), Sunflower Oil, Natural Flavor (Contains Milk)), Lettuce. Contains Egg, Milk, Soy, Wheat.."
+  },
+  {
+   "id": "301222922",
+   "name": "Hawaiian Ham & Swiss Slider",
+   "station": "Whirlybird's",
+   "category": "Sandwiches",
+   "mealPeriod": "Grab and Go",
+   "date": "2026-11-06",
+   "servingSize": "1 Container",
+   "servingGrams": 123,
+   "calories": 269,
+   "proteinG": 17.96,
+   "carbsG": 33.93,
+   "fatG": 7.98,
+   "fiberG": 0,
+   "sugarG": 10.98,
+   "sodiumMg": 838,
+   "diet": [],
+   "allergens": [
+    "dairy",
+    "eggs",
+    "soy",
+    "wheat-gluten"
+   ],
+   "ingredients": "Bread Roll (Enriched Flour (Wheat Flour, Malted Barley Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Water, Sugar, Liquid Sugar (Sugar, Water), Butter (Pasteurized Cream, Salt), Eggs, Potato Flour, Yeast, Whey, Nonfat Milk, Soy Flour, Salt, Degerminated Yellow Corn Flour, Wheat Gluten, Sodium Stearoyl Lactylate, Datem, Monocalcium Phosphate, Wheat Flour, Calcium Sulfate, Sodium Silicoaluminate, Ascorbic Acid Added As A Dough Conditioner, Ammonium Sulfate, Wheat Starch, Sorbitan Monostearate, Enzymes, Microcrystalline Cellulose, Calcium Silicate), Ham (Ham Cured With Water, Salt, Potassium Lactate, Modified Cornstarch, Potassium Chloride, Dextrose, Sodium Phosphates, Sodium Diacetate, Sodium Nitrite, Sodium Erythorbate), Swiss Cheese (Part-skim Milk, Cheese Culture, Salt, Enzymes). Contains Egg, Milk, Soy, Wheat."
+  },
+  {
+   "id": "301222915",
+   "name": "Bacon Breakfast Burrito",
+   "station": "Whirlybird's",
+   "category": "Wraps",
+   "mealPeriod": "Grab and Go",
+   "date": "2026-11-06",
+   "servingSize": "1 Burrito",
+   "servingGrams": 227,
+   "calories": 599,
+   "proteinG": 31.97,
+   "carbsG": 56.95,
+   "fatG": 27.97,
+   "fiberG": 2,
+   "sugarG": 2,
+   "sodiumMg": 1569,
+   "diet": [],
+   "allergens": [
+    "dairy",
+    "eggs",
+    "wheat-gluten"
+   ],
+   "ingredients": "Flour Tortilla (Enriched Unbleached Flour (Wheat Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin And Folic Acid), Water, Vegetable Shortening (Palm Oil And Or Corn Oil), Salt, Aluminum Free Leavening (Sodium Acid Pyrophosphate, Sodium Bicarbonate, Corn Starch, Monocalcium Phosphate), Wheat Protein, Preservatives (Calcium Propionate, Sorbic Acid), Fumaric Acid, Xanthan Gum, Dough Conditioner (Mono And Diglycerides, Sodium Metabisulphite)), Cooked Diced Potato (Potatoes, Water, Salt, Calcium Chloride, Calcium Disodium Edta), Fully Cooked Bacon Smoke Flavoring Added (Bacon Cured With Water, Salt, Sugar, Sodium Erythorbate, Sodium Nitrite. May Also Contain Smoke Flavoring, Dextrose, Sodium Phosphate, Potassium Chloride, Sodium Diacetate, Flavoring, Honey), Fully Cooked Scrambled Eggs (Whole Eggs, Modified Corn Starch, Salt, Citric Acid, Xanthan Gum), Shredded Mild Cheddar And Monterey Jack Cheese (Cheddar Cheese (Pasteurized Milk, Cheese Culture, Salt, Enzymes, Color Added), Monterey Jack Cheese (Pasteurized Milk, Cheese Culture, Salt, Enzymes), Potato Starch Added To Prevent Caking, Natamycin (A Natural Mold Inhibitor)). Contains Eggs, Milk, Wheat.."
+  },
+  {
+   "id": "301222916",
+   "name": "Turkey Sausage Breakfast Burrito",
+   "station": "Whirlybird's",
+   "category": "Wraps",
+   "mealPeriod": "Grab and Go",
+   "date": "2026-11-06",
+   "servingSize": "1 Burrito",
+   "servingGrams": 198,
+   "calories": 460,
+   "proteinG": 21,
+   "carbsG": 48,
+   "fatG": 18,
+   "fiberG": 0,
+   "sugarG": 2,
+   "sodiumMg": 1050,
+   "diet": [],
+   "allergens": [
+    "dairy",
+    "eggs",
+    "wheat-gluten"
+   ],
+   "ingredients": "Flour Tortilla (Enriched Bleached Wheat Flour (Flour, Niacin, Reduced Iron, Thiamin Mononitrate, Riboflavin, Folic Acid), Water, Vegetable Shortening (Interesterified Soybean Oil, Fully Hydrogenated Soybean Oil), Salt, Mono- And Diglycerides, Dextrose, Leavening (Sodium Bicarbonate, Sodium Aluminum Phosphate, Sodium Aluminum Sulfate), Fumaric Acid, Yeast, Preservatives (Calcium Propionate, Potassium Sorbate), Corn Starch, Carboxymethyl Gum, Wheat Starch, Xanthan Gum, Enzymes (Wheat Starch, Microcrystalline Cellulose), Dough Conditioner (Sodium Metabisulfite)), Cooked Diced Potato (Potatoes, Water, Salt, Calcium Chloride, Calcium Disodium EDTA), Fully Cooked Turkey Sausage Crumble (Dark Turkey Meat, Mechanically Separated Turkey, Salt, Spices, Dextrose, Sugar, Flavoring, Yeast Extract, Lime Flavor (Corn Syrup Solids, Lime Juice Solids, Natural Flavor), Lactic Acid), Shredded Cheese Blend (Cheddar Cheese (Pasteurized Milk, Cheese Culture, Salt, Enzymes, Annatto [vegetable Color]), Monterey Jack Cheese (Pasteurized Milk, Cheese Culture, Salt, Enzymes), Anti-Caking Blend (Potato Starch, Powdered Cellulose)). Contains Egg, Milk, Wheat.."
+  },
+  {
+   "id": "301222918",
+   "name": "Chicken Taco Pinwheels",
+   "station": "Whirlybird's",
+   "category": "Wraps",
+   "mealPeriod": "Grab and Go",
+   "date": "2026-11-06",
+   "servingSize": "1 Container",
+   "servingGrams": 140,
+   "calories": 400,
+   "proteinG": 15,
+   "carbsG": 22,
+   "fatG": 27,
+   "fiberG": 0,
+   "sugarG": 2,
+   "sodiumMg": 650,
+   "diet": [],
+   "allergens": [
+    "dairy",
+    "eggs",
+    "wheat-gluten"
+   ],
+   "ingredients": "Taco Dip (Mayonnaise (Soybean Oil, Water, Egg Yolks, Distilled Vinegar, High Fructose Corn Syrup, Corn Syrup, Salt, Spice, Calcium Disodium Edta), Sour Cream (Cultured Cream), Tomato Paste (Vine-ripened Fresh Tomatoes And Naturally Derived Citric Acid), Taco Seasoning (Spices, Dehydrated Onion, Dehydrated Garlic, Salt, And Guar Gum), Minced Garlic (Garlic, Water, Citric Acid), Apple Cider Vinegar (Distilled Vinegar From Grain, Natural Flavor With Caramel Color, Diluted With Water To A Uniform Pickling And Table Strength Of 5% (50 Grains) Acidity)), Lavash (Enriched Unbleached Wheat Flour (Wheat Flour, Malted Barley Flour, Niacin, Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Filtered Water, Wheat Gluten, Canola Oil, Sugar, Sea Salt, Cultured Wheat Flour, Yeast, Baking Powder (Sodium Acid Pyrophosphate, Sodium Bicarbonate, Corn Starch, Monocalcium Phosphate), Enzymes), Pulled Chicken Breast With Rib Meat (Skinless Boneless Chicken Breast Meat With Rib Meat, Water, Dehydrated Chicken Broth, Salt, Modified Food Starch, Sodium Phosphates, Carrageenan, Natural Flavor), Mild Cheddar Cheese (Pasteurized Milk, Cheese Culture, Salt, Enzymes, Color Added), Black Olives (Ripe Olives, Water, Sea Salt, Ferrous Gluconate (To Stabilize Color)), Lettuce. Contains Egg, Milk, Wheat.."
+  },
+  {
+   "id": "301222919",
+   "name": "Veggie Pinwheels",
+   "station": "Whirlybird's",
+   "category": "Wraps",
+   "mealPeriod": "Grab and Go",
+   "date": "2026-11-06",
+   "servingSize": "1 Container",
+   "servingGrams": 113,
+   "calories": 260,
+   "proteinG": 7,
+   "carbsG": 24,
+   "fatG": 16,
+   "fiberG": 1,
+   "sugarG": 5,
+   "sodiumMg": 360,
+   "diet": [
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy",
+    "eggs",
+    "wheat-gluten"
+   ],
+   "ingredients": "Ranch Cream Cheese (Cream Cheese [Pasteurized Milk And Cream, Cheese Culture, Salt, Guar Gum, Carob Bean Gum, Xanthan Gum], Ranch Dressing [Vegetable Oil (Canola And/Or Soybean Oil), Nonfat Buttermilk (Whey, Water, Skim Milk Powder, Corn Starch, Tapioca Starch, Carrageenan, Locust Bean Gum, Culture), Water, Egg Yolk, Dried Garlic, Sugar, Salt, Distilled Vinegar, Green Onion, Apple Cider Vinegar, Spices, Xanthan Gum, Dried Onion, Skim Milk Powder Blend (Whey, Sodium Caseinate, Skim Milk Powder), Ground Mustard, Guar Gum]), Red Pepper Lavash (Enriched Unbleached Wheat Flour (Wheat Flour, Malted Barley Flour, Niacin, Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Filtered Water, Wheat Gluten, Sugar, Sea Salt, Paprika Resin, Canola Oil, Cultured Wheat, Baking Powder (Sodium Acid Pyrophosphate, Sodium Bicarbonate, Cornstarch, Monocalcium Phosphate), Yeast, Citric Acid, Organic Enzymes), Broccoli, Carrot, Red Bell Pepper. Contains Egg, Milk, Wheat.."
+  },
+  {
+   "id": "301222923",
+   "name": "Chicken Bacon Ranch Club Wrap",
+   "station": "Whirlybird's",
+   "category": "Wraps",
+   "mealPeriod": "Grab and Go",
+   "date": "2026-11-06",
+   "servingSize": "1 Wrap",
+   "servingGrams": 176,
+   "calories": 486,
+   "proteinG": 24.81,
+   "carbsG": 37.22,
+   "fatG": 26.88,
+   "fiberG": 2.1,
+   "sugarG": 3.1,
+   "sodiumMg": 1261,
+   "diet": [],
+   "allergens": [
+    "dairy",
+    "eggs",
+    "wheat-gluten"
+   ],
+   "ingredients": "Flour Tortilla (Enriched Unbleached Flour (Wheat Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin And Folic Acid), Water, Vegetable Shortening (Palm Oil And/or Olive Oil), Salt, Aluminum Free Leavening (Sodium Acid Pyrophosphate, Sodium Bicarbonate, Corn Starch, Monocalcium Phosphate), Wheat Protein, Preservatives (Calcium Propionate, Sorbic Acid), Fumaric Acid, Xanthan Gum, Dough Conditioner (Mono And Diglycerides, Sodium Metabisulphite)), Chicken Breast ( Chicken Breast Meat, Water, Salt, Dextrose, Vinegar, Sodium Phosphate, Browned In Vegetable Oil), Decant Chipotle Ranch Spread (Cream Cheese (Pasteurized Milk And Cream, Cheese Culture, Salt, Guar Gum, Carob Bean Gum, Xanthan Gum), Chipotle Ranch Dressing (Soybean Oil, Water, Buttermilk, Distilled Vinegar, Egg Yolk, Salt, Red Chili Pepper, Garlic Juice, Sugar, Chipotle Peppers Including Dehydrated, Monosodium Glutamate, Spice, Xanthan Gum, Potassium Sorbate And Sodium Benzoate Added As Preservatives, Garlic*, Onion*, Propylene Glycol Alginate, Natural Smoke Flavor, Calcium Disodium Edta Added To Protect Flavor. *Dehydrated)), Mild Cheddar Cheese (Pasteurized Milk, Cheese Culture, Salt, Enzymes, Color Added), Leaf Lettuce, Fully Cooked Bacon Smoke Flavoring Added (Bacon Cured With Water, Salt, Sugar, Sodium Erythorbate, Sodium Nitrite. May Also Contain Smoke Flavoring, Dextrose, Sodium Phosphate, Potassium Chloride, Sodium Diacetate, Flavoring, Honey). Contains Eggs, Milk, Wheat."
+  },
+  {
+   "id": "301222924",
+   "name": "Mexican Style Pork Wrap",
+   "station": "Whirlybird's",
+   "category": "Wraps",
+   "mealPeriod": "Grab and Go",
+   "date": "2026-11-06",
+   "servingSize": "1 Wrap",
+   "servingGrams": 181,
+   "calories": 440,
+   "proteinG": 20,
+   "carbsG": 37,
+   "fatG": 24,
+   "fiberG": 2,
+   "sugarG": 1,
+   "sodiumMg": 1010,
+   "diet": [],
+   "allergens": [
+    "dairy",
+    "eggs",
+    "wheat-gluten"
+   ],
+   "ingredients": "Tomato Basil Tortilla (Enriched Unbleached Flour (Wheat Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin And Folic Acid), Water, Vegetable Shortening (Contains Palm Oil And/or Olive Oil), Seasoning (Salt, Dehydrated Garlic And Onion, Paprika, Tomato Powder, Spice, Natural Flavors, Extractives Of Paprika, And Silicon Dioxide To Prevent Caking), Salt, Leavening (Sodium Acid Pyrophosphate, Sodium Bicarbonate, Corn Starch, Monocalcium Phosphate), Wheat Protein, Preservatives (Calcium Propionate, Sorbic Acid), Dough Conditioner (Fumaric Acid, Xanthan Gum, Mono-and Diglycerides, Sodium Metabisulphite)), Pork Carnitas (Pork, Marinating Solution (Water, Salt, Orange Juice Concentrate, Sodium Phosphates), Rubbed With Flavoring, Caramel Color, Paprika (For Color)), Black Bean Salsa (Tomatoes, Black Beans (Black Beans, Water, Salt, Calcium Chloride, And Ferrous Gluconate), Onion, Jalapeno Pepper, Minced Garlic (Garlic, Water, Citric Acid), Lime Juice, Salt, Black Pepper, Cilantro), Cheddar Cheese (Mild Cheddar Cheese (Pasteurized Milk, Cheese Cultures, Salt, Enzymes And Annatto [Vegetable Color]), Powdered Cellulose (To Prevent Caking), Potassium Sorbate And Natamycin (Preservatives)), Taco Dip (Mayonnaise (Soybean Oil, Water, Egg Yolks, Distilled Vinegar, High Fructose Corn Syrup, Corn Syrup, Salt, Spice, Calcium Disodium Edta Added To Protect Flavor), Sour Cream (Cultured Cream), Tomato Paste (Vine-ripened Fresh Tomatoes And Naturally Derived Citric Acid), Taco Seasoning (Spices, Dehydrated Onion, Dehydrated Garlic, Salt, And Guar Gum), Minced Garlic(Garlic, Water, Citric Acid), Apple Cider Vinegar (Distilled Vinegar From Grain, Natural Flavor With Caramel Color, Diluted With Water To A Uniform Pickling And Table Strength Of 5% (50 Grains) Acidity)), Lettuce. Contains Egg, Milk, Wheat.."
+  },
+  {
+   "id": "301222925",
+   "name": "5 Fruit Blend",
+   "station": "Whirlybird's",
+   "category": "Sides",
+   "mealPeriod": "Grab and Go",
+   "date": "2026-11-06",
+   "servingSize": "1 Container",
+   "servingGrams": 170,
+   "calories": 70,
+   "proteinG": 1,
+   "carbsG": 18.01,
+   "fatG": 0,
+   "fiberG": 2,
+   "sugarG": 15.01,
+   "sodiumMg": 15,
+   "diet": [
+    "halal",
+    "vegan",
+    "vegetarian"
+   ],
+   "allergens": [],
+   "ingredients": "Cantaloupe, Honeydew, Grapes, Pineapple, Strawberries."
+  },
+  {
+   "id": "301222926",
+   "name": "Veggie Snacker",
+   "station": "Whirlybird's",
+   "category": "Sides",
+   "mealPeriod": "Grab and Go",
+   "date": "2026-11-06",
+   "servingSize": "1 Container",
+   "servingGrams": 111,
+   "calories": 230,
+   "proteinG": 2,
+   "carbsG": 10,
+   "fatG": 21,
+   "fiberG": 2,
+   "sugarG": 6,
+   "sodiumMg": 290,
+   "diet": [
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy",
+    "eggs"
+   ],
+   "ingredients": "Dill Dip (Mayonnaise (Soybean Oil, Egg Yolk, Water, Sugar, Vinegar, Salt, Spices, Lemon Juice Concentrate, Natural Flavor), Sour Cream (Grade A Milk, Cream, Skim Milk, Food Starch Modified, Guar Gum, Sodium Phosphate, Locust Bean Gum, Sodium Citrate, Carrageenan, Dextrose, Potassium Sorbate, Cultures), Salad Dressing (Soybean Oil, Water, Vinegar, Sugar, Modified Food Starch, Egg Yolks, Salt, Spices, Onion Powder, Natural Flavors), Onion, Monosodium Glutamate, Garlic Salt (Salt, Garlic Powder, Silicon Dioxide), Dill Weed), Baby Carrots, Sugar Snap Pea Pods. Contains Egg & Milk.."
+  },
+  {
+   "id": "301222927",
+   "name": "Strawberry Parfait",
+   "station": "Whirlybird's",
+   "category": "Sides",
+   "mealPeriod": "Grab and Go",
+   "date": "2026-11-06",
+   "servingSize": "1 Parfait",
+   "servingGrams": 170,
+   "calories": 200,
+   "proteinG": 6,
+   "carbsG": 42.02,
+   "fatG": 1.5,
+   "fiberG": 2,
+   "sugarG": 24.01,
+   "sodiumMg": 70,
+   "diet": [
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy"
+   ],
+   "ingredients": "Vanilla Yogurt (Cultured Grade A Low Fat Milk, Sugar, Modified Corn Starch, Corn Starch, Natural Flavor, Potassium Sorbate Added To Maintain Freshness, Vitamin A Acetate, Vitamin D3), Strawberries, Granola (Whole Grain Oats, Sugar, Rice Flour, Canola And/or Sunflower Oil, Honey, Maltodextrin, Molasses, Salt, Barley Malt Extract, Baking Soda, Natural Flavor, Rosemary Extract, Vitamin E (Mixed Tocopherols) Added To Preserve Freshness). Contains Milk."
+  },
+  {
+   "id": "301222928",
+   "name": "Pineapple Cup",
+   "station": "Whirlybird's",
+   "category": "Sides",
+   "mealPeriod": "Grab and Go",
+   "date": "2026-11-06",
+   "servingSize": "1 Container",
+   "servingGrams": 170,
+   "calories": 90,
+   "proteinG": 1,
+   "carbsG": 20.01,
+   "fatG": 0,
+   "fiberG": 2,
+   "sugarG": 14.01,
+   "sodiumMg": 0,
+   "diet": [
+    "halal",
+    "vegan",
+    "vegetarian"
+   ],
+   "allergens": [],
+   "ingredients": "Pineapple."
+  },
+  {
+   "id": "301222929",
+   "name": "Protein Powerhouse Snacker",
+   "station": "Whirlybird's",
+   "category": "Sides",
+   "mealPeriod": "Grab and Go",
+   "date": "2026-11-06",
+   "servingSize": "1 Container",
+   "servingGrams": 200,
+   "calories": 550,
+   "proteinG": 24.98,
+   "carbsG": 33.98,
+   "fatG": 35.98,
+   "fiberG": 4,
+   "sugarG": 24.98,
+   "sodiumMg": 450,
+   "diet": [
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy",
+    "eggs",
+    "peanuts",
+    "tree-nuts"
+   ],
+   "ingredients": "Grapes, Fruit & Nut Mix (Roasted Peanuts (Peanuts, High Oleic Canola And/or Sunflower Oil, Salt), Dried Apricots (Apricots, Sulfur Dioxide [added For Color Retention And As A Preservative]), Almonds (Almonds, High Oleic Canola And/or Sunflower Oil, Salt), Dried Cranberries (Cranberries, Sugar, Sunflower Oil), Walnuts, Raisins, Filberts), Cheddar Cheese (Pasteurized Milk, Cheese Culture, Salt, Enzymes, Annatto (Color)), Hard Cooked Eggs (Hard Cooked Eggs, Water, Citric Acid, Sodium Benzoate, And Nisin Preparation (As Preservatives)). Contains Milk, Egg, Peanuts, Tree Nuts."
+  },
+  {
+   "id": "301222933",
+   "name": "Banana",
+   "station": "Whirlybird's",
+   "category": "Build Your Own",
+   "mealPeriod": "Beverage Menu",
+   "date": "2026-11-06",
+   "servingSize": "3 oz Ladle (2.03 oz)",
+   "servingGrams": 58,
+   "calories": 58,
+   "proteinG": 0.82,
+   "carbsG": 13.15,
+   "fatG": 0,
+   "fiberG": 1.6,
+   "sugarG": 6.99,
+   "sodiumMg": 0,
+   "diet": [
+    "halal",
+    "vegan",
+    "vegetarian"
+   ],
+   "allergens": [],
+   "ingredients": "Bananas, Ascorbic Acid (To Promote Color Retention), Citric Acid."
+  },
+  {
+   "id": "301222934",
+   "name": "Blueberries",
+   "station": "Whirlybird's",
+   "category": "Build Your Own",
+   "mealPeriod": "Beverage Menu",
+   "date": "2026-11-06",
+   "servingSize": "3 oz Ladle (2.74 oz)",
+   "servingGrams": 78,
+   "calories": 40,
+   "proteinG": 0.33,
+   "carbsG": 9.45,
+   "fatG": 0.5,
+   "fiberG": 2.1,
+   "sugarG": 6.56,
+   "sodiumMg": 1,
+   "diet": [
+    "halal",
+    "vegan",
+    "vegetarian"
+   ],
+   "allergens": [],
+   "ingredients": "Blueberries frozen unsweetened (Includes foods for USDA's Food Distribution Program)."
+  },
+  {
+   "id": "301222935",
+   "name": "Semi Sweet Chocolate Chips",
+   "station": "Whirlybird's",
+   "category": "Build Your Own",
+   "mealPeriod": "Beverage Menu",
+   "date": "2026-11-06",
+   "servingSize": "2 Oz Red Ladle",
+   "servingGrams": 45,
+   "calories": 212,
+   "proteinG": 3.02,
+   "carbsG": 30.24,
+   "fatG": 12.1,
+   "fiberG": 3,
+   "sugarG": 27.22,
+   "sodiumMg": 0,
+   "diet": [
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy",
+    "soy"
+   ],
+   "ingredients": "Semi-Sweet Chocolate (Sugar, Chocolate, Cocoa Butter, Milk Fat, Soy Lecithin, Natural Flavor). Contains Milk & Soy.."
+  },
+  {
+   "id": "301222936",
+   "name": "Vanilla Ice Cream",
+   "station": "Whirlybird's",
+   "category": "Build Your Own",
+   "mealPeriod": "Beverage Menu",
+   "date": "2026-11-06",
+   "servingSize": "#8 Scoop (3.98 oz)",
+   "servingGrams": 113,
+   "calories": 233,
+   "proteinG": 3.89,
+   "carbsG": 25.94,
+   "fatG": 12.97,
+   "fiberG": 0,
+   "sugarG": 20.75,
+   "sodiumMg": 65,
+   "diet": [
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy"
+   ],
+   "ingredients": "Milk, Cream, Skim Milk, Sugar, Buttermilk, Whey, Corn Syrup, Natural Flavors, Mono & Diglycerides, Carob Bean Gum, Cellulose Gum, Tara Gum, Carrageenan, Annatto Extract for Color. Contains Milk.."
+  },
+  {
+   "id": "301222937",
+   "name": "Apple Juice",
+   "station": "Whirlybird's",
+   "category": "Build Your Own",
+   "mealPeriod": "Beverage Menu",
+   "date": "2026-11-06",
+   "servingSize": "Ounce",
+   "servingGrams": 29,
+   "calories": 10,
+   "proteinG": 0.03,
+   "carbsG": 2.53,
+   "fatG": 0.02,
+   "fiberG": 0,
+   "sugarG": 2.38,
+   "sodiumMg": 3,
+   "diet": [
+    "vegan",
+    "vegetarian"
+   ],
+   "allergens": [],
+   "ingredients": "Water, 100% Apple Juice (Concentrated Apple Juice, Water, Natural Flavors, Ascorbic Acid (Vitamin C), Potassium Citrate.)."
+  },
+  {
+   "id": "301222938",
+   "name": "Cranberry Juice",
+   "station": "Whirlybird's",
+   "category": "Build Your Own",
+   "mealPeriod": "Beverage Menu",
+   "date": "2026-11-06",
+   "servingSize": "Ounce",
+   "servingGrams": 29,
+   "calories": 10,
+   "proteinG": 0,
+   "carbsG": 2.55,
+   "fatG": 0,
+   "fiberG": 0,
+   "sugarG": 2.33,
+   "sodiumMg": 1,
+   "diet": [
+    "vegan",
+    "vegetarian"
+   ],
+   "allergens": [],
+   "ingredients": "Water, Cranberry Juice (High Fructose Corn Syrup, Concentrated Cranberry Juice, Water, Citric Acid, Ascorbic Acid (Vitamin C), Potassium Citrate, Natural Flavor.)."
+  },
+  {
+   "id": "301222939",
+   "name": "Pineapple Juice",
+   "station": "Whirlybird's",
+   "category": "Build Your Own",
+   "mealPeriod": "Beverage Menu",
+   "date": "2026-11-06",
+   "servingSize": "Ounce",
+   "servingGrams": 28,
+   "calories": 14,
+   "proteinG": 0,
+   "carbsG": 3.37,
+   "fatG": 0,
+   "fiberG": 0,
+   "sugarG": 3.12,
+   "sodiumMg": 0,
+   "diet": [
+    "halal",
+    "vegan",
+    "vegetarian"
+   ],
+   "allergens": [],
+   "ingredients": "Water, Concentrated Pineapple Juice, Ascorbic Acid (Vitamin C).."
+  },
+  {
+   "id": "301222940",
+   "name": "Mango",
+   "station": "Whirlybird's",
+   "category": "Build Your Own",
+   "mealPeriod": "Beverage Menu",
+   "date": "2026-11-06",
+   "servingSize": "3 oz Ladle (2.42 oz)",
+   "servingGrams": 69,
+   "calories": 44,
+   "proteinG": 0.49,
+   "carbsG": 10.29,
+   "fatG": 0.24,
+   "fiberG": 1,
+   "sugarG": 9.31,
+   "sodiumMg": 0,
+   "diet": [
+    "halal",
+    "vegan",
+    "vegetarian"
+   ],
+   "allergens": [],
+   "ingredients": "Mango.."
+  },
+  {
+   "id": "301222941",
+   "name": "2% Milk",
+   "station": "Whirlybird's",
+   "category": "Build Your Own",
+   "mealPeriod": "Beverage Menu",
+   "date": "2026-11-06",
+   "servingSize": "Ounce",
+   "servingGrams": 28,
+   "calories": 14,
+   "proteinG": 0.93,
+   "carbsG": 1.39,
+   "fatG": 0.58,
+   "fiberG": 0,
+   "sugarG": 1.27,
+   "sodiumMg": 13,
+   "diet": [
+    "halal",
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy"
+   ],
+   "ingredients": "Pasteurized Reduced Fat Milk, Vitamin A Pamitate, Vitamin D3.."
+  },
+  {
+   "id": "301222942",
+   "name": "Oat Milk",
+   "station": "Whirlybird's",
+   "category": "Build Your Own",
+   "mealPeriod": "Beverage Menu",
+   "date": "2026-11-06",
+   "servingSize": "Ounce",
+   "servingGrams": 28,
+   "calories": 17,
+   "proteinG": 0.35,
+   "carbsG": 1.89,
+   "fatG": 0.83,
+   "fiberG": 0.2,
+   "sugarG": 0.83,
+   "sodiumMg": 12,
+   "diet": [
+    "halal",
+    "vegan",
+    "vegetarian"
+   ],
+   "allergens": [],
+   "ingredients": "Oat Base (Water, Oats), Rapeseed Oil, Dipotassium Phosphate, Calcium Carbonate, Tricalcium Phosphate, Sea Salt, Dicalcium Phosphate, Riboflavin, Vitamin A, Vitamin D2, Vitamin B12.."
+  },
+  {
+   "id": "301222943",
+   "name": "Oreo Cookie Pieces",
+   "station": "Whirlybird's",
+   "category": "Build Your Own",
+   "mealPeriod": "Beverage Menu",
+   "date": "2026-11-06",
+   "servingSize": "2 Oz Red Ladle",
+   "servingGrams": 28,
+   "calories": 136,
+   "proteinG": 1.05,
+   "carbsG": 21,
+   "fatG": 5.25,
+   "fiberG": 1,
+   "sugarG": 11.55,
+   "sodiumMg": 94,
+   "diet": [
+    "vegan",
+    "vegetarian"
+   ],
+   "allergens": [
+    "soy",
+    "wheat-gluten"
+   ],
+   "ingredients": "Unbleached Enriched Flour (Wheat Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Sugar, Palm And/Or Canola Oil, Cocoa (Processed With Alkali), Invert Sugar, Leavening (Baking Soda And/Or Calcium Phosphate), Soy Lecithin, Salt, Chocolate, Natural Flavor. Contains Wheat & Soy.."
+  },
+  {
+   "id": "301222944",
+   "name": "Creamy Peanut Butter",
+   "station": "Whirlybird's",
+   "category": "Build Your Own",
+   "mealPeriod": "Beverage Menu",
+   "date": "2026-11-06",
+   "servingSize": "1 oz Scoop",
+   "servingGrams": 28,
+   "calories": 168,
+   "proteinG": 6.2,
+   "carbsG": 5.32,
+   "fatG": 14.17,
+   "fiberG": 1.8,
+   "sugarG": 2.66,
+   "sodiumMg": 133,
+   "diet": [
+    "halal",
+    "vegan",
+    "vegetarian"
+   ],
+   "allergens": [
+    "peanuts"
+   ],
+   "ingredients": "Roasted Peanuts, Sugar, Hydrogenated Vegetable Oil (Cottonseed, Soybean and Rapeseed Oil), Salt. Contains Peanuts.."
+  },
+  {
+   "id": "301222945",
+   "name": "Pineapple Cubes",
+   "station": "Whirlybird's",
+   "category": "Build Your Own",
+   "mealPeriod": "Beverage Menu",
+   "date": "2026-11-06",
+   "servingSize": "3 oz Ladle (1.95 oz)",
+   "servingGrams": 55,
+   "calories": 28,
+   "proteinG": 0.3,
+   "carbsG": 7.25,
+   "fatG": 0.07,
+   "fiberG": 0.8,
+   "sugarG": 5.45,
+   "sodiumMg": 1,
+   "diet": [
+    "halal",
+    "vegan",
+    "vegetarian"
+   ],
+   "allergens": [],
+   "ingredients": "Pineapple raw."
+  },
+  {
+   "id": "301222946",
+   "name": "Acai Puree",
+   "station": "Whirlybird's",
+   "category": "Build Your Own",
+   "mealPeriod": "Beverage Menu",
+   "date": "2026-11-06",
+   "servingSize": "Ounce",
+   "servingGrams": 28,
+   "calories": 56,
+   "proteinG": 0.21,
+   "carbsG": 11.56,
+   "fatG": 1.19,
+   "fiberG": 0.5,
+   "sugarG": 11,
+   "sodiumMg": 2,
+   "diet": [
+    "halal",
+    "vegan",
+    "vegetarian"
+   ],
+   "allergens": [],
+   "ingredients": "Organic Acai, Water, Sugar, Citric Acid.."
+  },
+  {
+   "id": "301222947",
+   "name": "Strawberries",
+   "station": "Whirlybird's",
+   "category": "Build Your Own",
+   "mealPeriod": "Beverage Menu",
+   "date": "2026-11-06",
+   "servingSize": "3 oz Ladle (1.95 oz)",
+   "servingGrams": 55,
+   "calories": 19,
+   "proteinG": 0.24,
+   "carbsG": 5.05,
+   "fatG": 0.06,
+   "fiberG": 1.2,
+   "sugarG": 2.52,
+   "sodiumMg": 1,
+   "diet": [
+    "halal",
+    "vegan",
+    "vegetarian"
+   ],
+   "allergens": [],
+   "ingredients": "Strawberries frozen unsweetened."
+  },
+  {
+   "id": "301222948",
+   "name": "Water",
+   "station": "Whirlybird's",
+   "category": "Build Your Own",
+   "mealPeriod": "Beverage Menu",
+   "date": "2026-11-06",
+   "servingSize": "Ounce",
+   "servingGrams": 28,
+   "calories": 0,
+   "proteinG": 0,
+   "carbsG": 0,
+   "fatG": 0,
+   "fiberG": 0,
+   "sugarG": 0,
+   "sodiumMg": 1,
+   "diet": [],
+   "allergens": null,
+   "ingredients": "Beverages water tap drinking."
+  },
+  {
+   "id": "301222949",
+   "name": "Vanilla Greek Yogurt",
+   "station": "Whirlybird's",
+   "category": "Build Your Own",
+   "mealPeriod": "Beverage Menu",
+   "date": "2026-11-06",
+   "servingSize": "1/2 Cup (4.5 oz)",
+   "servingGrams": 128,
+   "calories": 98,
+   "proteinG": 10.51,
+   "carbsG": 12.01,
+   "fatG": 0,
+   "fiberG": 0,
+   "sugarG": 11.26,
+   "sodiumMg": 49,
+   "diet": [
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy"
+   ],
+   "ingredients": "Cultured Nonfat Milk, Cane Sugar, Water, Fruit Pectin, Natural Flavors, Guar Gum, Locust Bean Gum, Vanilla Extract, Lemon Juice Concentrate. Contains Dairy."
+  },
+  {
+   "id": "301222950",
+   "name": "Acai Treatment 16 oz",
+   "station": "Whirlybird's",
+   "category": "Beverages",
+   "mealPeriod": "Beverage Menu",
+   "date": "2026-11-06",
+   "servingSize": "16 oz",
+   "servingGrams": 557,
+   "calories": 365,
+   "proteinG": 1.81,
+   "carbsG": 80.95,
+   "fatG": 5.53,
+   "fiberG": 6.4,
+   "sugarG": 69.87,
+   "sodiumMg": 29,
+   "diet": [
+    "vegan",
+    "vegetarian"
+   ],
+   "allergens": [],
+   "ingredients": "Water, Acai Puree (Organic Acai, Water, Sugar, Citric Acid.), Strawberries, Blueberries, 100% Apple Juice (Concentrated Apple Juice, Water, Natural Flavors, Ascorbic Acid (Vitamin C), Potassium Citrate.)."
+  },
+  {
+   "id": "301222951",
+   "name": "Acai Treatment 24 oz",
+   "station": "Whirlybird's",
+   "category": "Beverages",
+   "mealPeriod": "Beverage Menu",
+   "date": "2026-11-06",
+   "servingSize": "24 oz",
+   "servingGrams": 766,
+   "calories": 483,
+   "proteinG": 2.29,
+   "carbsG": 107.35,
+   "fatG": 7.06,
+   "fiberG": 8,
+   "sugarG": 93.67,
+   "sodiumMg": 42,
+   "diet": [
+    "vegan",
+    "vegetarian"
+   ],
+   "allergens": [],
+   "ingredients": "Water, Acai Puree (Organic Acai, Water, Sugar, Citric Acid.), Blueberries, Strawberries, 100% Apple Juice (Concentrated Apple Juice, Water, Natural Flavors, Ascorbic Acid (Vitamin C), Potassium Citrate.)."
+  },
+  {
+   "id": "301222952",
+   "name": "Cookies N' Cream 16 oz",
+   "station": "Whirlybird's",
+   "category": "Beverages",
+   "mealPeriod": "Beverage Menu",
+   "date": "2026-11-06",
+   "servingSize": "16 oz",
+   "servingGrams": 519,
+   "calories": 897,
+   "proteinG": 14.97,
+   "carbsG": 114.64,
+   "fatG": 44.67,
+   "fiberG": 4.1,
+   "sugarG": 82.67,
+   "sodiumMg": 370,
+   "diet": [
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy",
+    "soy",
+    "wheat-gluten"
+   ],
+   "ingredients": "Vanilla Ice Cream (Milk, Cream, Skim Milk, Sugar, Buttermilk, Whey, Corn Syrup, Natural Flavors, Mono & Diglycerides, Carob Bean Gum, Cellulose Gum, Tara Gum, Carrageenan, Annatto Extract for Color. Contains Milk.), Water, 2% Milk (Pasteurized Reduced Fat Milk, Vitamin A Pamitate, Vitamin D3.), Oreo Cookie Pieces (Unbleached Enriched Flour (Wheat Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Sugar, Palm And/Or Canola Oil, Cocoa (Processed With Alkali), Invert Sugar, Leavening (Baking Soda And/Or Calcium Phosphate), Soy Lecithin, Salt, Chocolate, Natural Flavor. Contains Wheat & Soy.), Semi Sweet Chocolate Chips (Semi-Sweet Chocolate (Sugar, Chocolate, Cocoa Butter, Milk Fat, Soy Lecithin, Natural Flavor). Contains Milk & Soy.), Cocoa Powder (Cocoa.)."
+  },
+  {
+   "id": "301222953",
+   "name": "Cookies N' Cream 24 oz",
+   "station": "Whirlybird's",
+   "category": "Beverages",
+   "mealPeriod": "Beverage Menu",
+   "date": "2026-11-06",
+   "servingSize": "24 oz",
+   "servingGrams": 727,
+   "calories": 1397,
+   "proteinG": 23.16,
+   "carbsG": 179.56,
+   "fatG": 69.96,
+   "fiberG": 7.1,
+   "sugarG": 130.5,
+   "sodiumMg": 550,
+   "diet": [
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy",
+    "soy",
+    "wheat-gluten"
+   ],
+   "ingredients": "Vanilla Ice Cream (Milk, Cream, Skim Milk, Sugar, Buttermilk, Whey, Corn Syrup, Natural Flavors, Mono & Diglycerides, Carob Bean Gum, Cellulose Gum, Tara Gum, Carrageenan, Annatto Extract for Color. Contains Milk.), 2% Milk (Pasteurized Reduced Fat Milk, Vitamin A Pamitate, Vitamin D3.), Water, Oreo Cookie Pieces (Unbleached Enriched Flour (Wheat Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Sugar, Palm And/Or Canola Oil, Cocoa (Processed With Alkali), Invert Sugar, Leavening (Baking Soda And/Or Calcium Phosphate), Soy Lecithin, Salt, Chocolate, Natural Flavor. Contains Wheat & Soy.), Semi Sweet Chocolate Chips (Semi-Sweet Chocolate (Sugar, Chocolate, Cocoa Butter, Milk Fat, Soy Lecithin, Natural Flavor). Contains Milk & Soy.), Cocoa Powder (Cocoa.)."
+  },
+  {
+   "id": "301222954",
+   "name": "Green Acres 16 oz",
+   "station": "Whirlybird's",
+   "category": "Beverages",
+   "mealPeriod": "Beverage Menu",
+   "date": "2026-11-06",
+   "servingSize": "16 oz",
+   "servingGrams": 523,
+   "calories": 255,
+   "proteinG": 2.13,
+   "carbsG": 62.15,
+   "fatG": 0.8,
+   "fiberG": 3.7,
+   "sugarG": 55.01,
+   "sodiumMg": 41,
+   "diet": [
+    "vegan",
+    "vegetarian"
+   ],
+   "allergens": [],
+   "ingredients": "Water, Pineapple Cubes, Mango (Mango.), 100% Apple Juice (Concentrated Apple Juice, Water, Natural Flavors, Ascorbic Acid (Vitamin C), Potassium Citrate.), Spinach, Matcha Green Tea Supplement (Sugar, Matcha Green Tea, Pectin.)."
+  },
+  {
+   "id": "301222955",
+   "name": "Green Acres 24 oz",
+   "station": "Whirlybird's",
+   "category": "Beverages",
+   "mealPeriod": "Beverage Menu",
+   "date": "2026-11-06",
+   "servingSize": "24 oz",
+   "servingGrams": 696,
+   "calories": 349,
+   "proteinG": 3.02,
+   "carbsG": 84.35,
+   "fatG": 1.09,
+   "fiberG": 4.6,
+   "sugarG": 75.54,
+   "sodiumMg": 66,
+   "diet": [
+    "vegan",
+    "vegetarian"
+   ],
+   "allergens": [],
+   "ingredients": "Water, Mango (Mango.), Pineapple Cubes, 100% Apple Juice (Concentrated Apple Juice, Water, Natural Flavors, Ascorbic Acid (Vitamin C), Potassium Citrate.), Spinach, Matcha Green Tea Supplement (Sugar, Matcha Green Tea, Pectin.)."
+  },
+  {
+   "id": "301222956",
+   "name": "Mixed Berry 16 oz",
+   "station": "Whirlybird's",
+   "category": "Beverages",
+   "mealPeriod": "Beverage Menu",
+   "date": "2026-11-06",
+   "servingSize": "16 oz",
+   "servingGrams": 504,
+   "calories": 197,
+   "proteinG": 11.11,
+   "carbsG": 36.99,
+   "fatG": 0.41,
+   "fiberG": 2.9,
+   "sugarG": 30.13,
+   "sodiumMg": 65,
+   "diet": [
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy"
+   ],
+   "ingredients": "Water, Vanilla Greek Yogurt (Cultured Nonfat Milk, Cane Sugar, Water, Fruit Pectin, Natural Flavors, Guar Gum, Locust Bean Gum, Vanilla Extract, Lemon Juice Concentrate. Contains Dairy), Strawberries, Blueberries, 100% Apple Juice (Concentrated Apple Juice, Water, Natural Flavors, Ascorbic Acid (Vitamin C), Potassium Citrate.), Cranberry Juice (High Fructose Corn Syrup, Concentrated Cranberry Juice, Water, Citric Acid, Ascorbic Acid (Vitamin C), Potassium Citrate, Natural Flavor.)."
+  },
+  {
+   "id": "301222957",
+   "name": "Mixed Berry 24 oz",
+   "station": "Whirlybird's",
+   "category": "Beverages",
+   "mealPeriod": "Beverage Menu",
+   "date": "2026-11-06",
+   "servingSize": "24 oz",
+   "servingGrams": 684,
+   "calories": 247,
+   "proteinG": 11.42,
+   "carbsG": 49.32,
+   "fatG": 0.71,
+   "fiberG": 4.5,
+   "sugarG": 39.39,
+   "sodiumMg": 72,
+   "diet": [
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy"
+   ],
+   "ingredients": "Water, Vanilla Greek Yogurt (Cultured Nonfat Milk, Cane Sugar, Water, Fruit Pectin, Natural Flavors, Guar Gum, Locust Bean Gum, Vanilla Extract, Lemon Juice Concentrate. Contains Dairy), Strawberries, Blueberries, 100% Apple Juice (Concentrated Apple Juice, Water, Natural Flavors, Ascorbic Acid (Vitamin C), Potassium Citrate.), Cranberry Juice (High Fructose Corn Syrup, Concentrated Cranberry Juice, Water, Citric Acid, Ascorbic Acid (Vitamin C), Potassium Citrate, Natural Flavor.)."
+  },
+  {
+   "id": "301222958",
+   "name": "PB Banana 16 oz",
+   "station": "Whirlybird's",
+   "category": "Beverages",
+   "mealPeriod": "Beverage Menu",
+   "date": "2026-11-06",
+   "servingSize": "16 oz",
+   "servingGrams": 539,
+   "calories": 534,
+   "proteinG": 23.69,
+   "carbsG": 60.66,
+   "fatG": 21.78,
+   "fiberG": 5.8,
+   "sugarG": 43.53,
+   "sodiumMg": 269,
+   "diet": [
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy",
+    "peanuts"
+   ],
+   "ingredients": "Vanilla Greek Yogurt (Cultured Nonfat Milk, Cane Sugar, Water, Fruit Pectin, Natural Flavors, Guar Gum, Locust Bean Gum, Vanilla Extract, Lemon Juice Concentrate. Contains Dairy), 2% Milk (Pasteurized Reduced Fat Milk, Vitamin A Pamitate, Vitamin D3.), Water, Banana (Bananas, Ascorbic Acid (To Promote Color Retention), Citric Acid), Creamy Peanut Butter (Roasted Peanuts, Sugar, Hydrogenated Vegetable Oil (Cottonseed, Soybean and Rapeseed Oil), Salt. Contains Peanuts.), Coconut Cream (Coconut, Sugar, Water, Polysorbate 60, Sorbitan Monostearate, Salt, Propylene Glycol Alginate, Mono And Diglycerides (Emulsifiers), Citric Acid, Guar Gum, Locust Bean.)."
+  },
+  {
+   "id": "301222959",
+   "name": "PB Banana 24 oz",
+   "station": "Whirlybird's",
+   "category": "Beverages",
+   "mealPeriod": "Beverage Menu",
+   "date": "2026-11-06",
+   "servingSize": "24 oz",
+   "servingGrams": 728,
+   "calories": 772,
+   "proteinG": 29.56,
+   "carbsG": 88.67,
+   "fatG": 33.68,
+   "fiberG": 9,
+   "sugarG": 63.2,
+   "sodiumMg": 369,
+   "diet": [
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy",
+    "peanuts"
+   ],
+   "ingredients": "Water, Banana (Bananas, Ascorbic Acid (To Promote Color Retention), Citric Acid), 2% Milk (Pasteurized Reduced Fat Milk, Vitamin A Pamitate, Vitamin D3.), Vanilla Greek Yogurt (Cultured Nonfat Milk, Cane Sugar, Water, Fruit Pectin, Natural Flavors, Guar Gum, Locust Bean Gum, Vanilla Extract, Lemon Juice Concentrate. Contains Dairy), Creamy Peanut Butter (Roasted Peanuts, Sugar, Hydrogenated Vegetable Oil (Cottonseed, Soybean and Rapeseed Oil), Salt. Contains Peanuts.), Coconut Cream (Coconut, Sugar, Water, Polysorbate 60, Sorbitan Monostearate, Salt, Propylene Glycol Alginate, Mono And Diglycerides (Emulsifiers), Citric Acid, Guar Gum, Locust Bean.)."
+  },
+  {
+   "id": "301222960",
+   "name": "PB&J 16 oz",
+   "station": "Whirlybird's",
+   "category": "Beverages",
+   "mealPeriod": "Beverage Menu",
+   "date": "2026-11-06",
+   "servingSize": "16 oz",
+   "servingGrams": 539,
+   "calories": 357,
+   "proteinG": 7.89,
+   "carbsG": 45.35,
+   "fatG": 17.49,
+   "fiberG": 5,
+   "sugarG": 35.7,
+   "sodiumMg": 179,
+   "diet": [
+    "vegan",
+    "vegetarian"
+   ],
+   "allergens": [
+    "peanuts"
+   ],
+   "ingredients": "Water, Strawberries, 100% Apple Juice (Concentrated Apple Juice, Water, Natural Flavors, Ascorbic Acid (Vitamin C), Potassium Citrate.), Creamy Peanut Butter (Roasted Peanuts, Sugar, Hydrogenated Vegetable Oil (Cottonseed, Soybean and Rapeseed Oil), Salt. Contains Peanuts.), Acai Puree (Organic Acai, Water, Sugar, Citric Acid.)."
+  },
+  {
+   "id": "301222961",
+   "name": "PB&J 24 oz",
+   "station": "Whirlybird's",
+   "category": "Beverages",
+   "mealPeriod": "Beverage Menu",
+   "date": "2026-11-06",
+   "servingSize": "24 oz",
+   "servingGrams": 797,
+   "calories": 654,
+   "proteinG": 15.42,
+   "carbsG": 75.54,
+   "fatG": 34.83,
+   "fiberG": 8.7,
+   "sugarG": 59.36,
+   "sodiumMg": 342,
+   "diet": [
+    "vegan",
+    "vegetarian"
+   ],
+   "allergens": [
+    "peanuts"
+   ],
+   "ingredients": "Water, Strawberries, Creamy Peanut Butter (Roasted Peanuts, Sugar, Hydrogenated Vegetable Oil (Cottonseed, Soybean and Rapeseed Oil), Salt. Contains Peanuts.), Acai Puree (Organic Acai, Water, Sugar, Citric Acid.), 100% Apple Juice (Concentrated Apple Juice, Water, Natural Flavors, Ascorbic Acid (Vitamin C), Potassium Citrate.)."
+  },
+  {
+   "id": "301222962",
+   "name": "Peanut Butter Dream 16 oz",
+   "station": "Whirlybird's",
+   "category": "Beverages",
+   "mealPeriod": "Beverage Menu",
+   "date": "2026-11-06",
+   "servingSize": "16 oz",
+   "servingGrams": 483,
+   "calories": 868,
+   "proteinG": 20.58,
+   "carbsG": 91.88,
+   "fatG": 50.05,
+   "fiberG": 6.1,
+   "sugarG": 68.93,
+   "sodiumMg": 323,
+   "diet": [
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy",
+    "peanuts",
+    "soy"
+   ],
+   "ingredients": "Vanilla Ice Cream (Milk, Cream, Skim Milk, Sugar, Buttermilk, Whey, Corn Syrup, Natural Flavors, Mono & Diglycerides, Carob Bean Gum, Cellulose Gum, Tara Gum, Carrageenan, Annatto Extract for Color. Contains Milk.), 2% Milk (Pasteurized Reduced Fat Milk, Vitamin A Pamitate, Vitamin D3.), Banana (Bananas, Ascorbic Acid (To Promote Color Retention), Citric Acid), Water, Creamy Peanut Butter (Roasted Peanuts, Sugar, Hydrogenated Vegetable Oil (Cottonseed, Soybean and Rapeseed Oil), Salt. Contains Peanuts.), Semi Sweet Chocolate Chips (Semi-Sweet Chocolate (Sugar, Chocolate, Cocoa Butter, Milk Fat, Soy Lecithin, Natural Flavor). Contains Milk & Soy.), Cocoa Powder (Cocoa.)."
+  },
+  {
+   "id": "301222963",
+   "name": "Peanut Butter Dream 24 oz",
+   "station": "Whirlybird's",
+   "category": "Beverages",
+   "mealPeriod": "Beverage Menu",
+   "date": "2026-11-06",
+   "servingSize": "24 oz",
+   "servingGrams": 734,
+   "calories": 1241,
+   "proteinG": 28.52,
+   "carbsG": 137.28,
+   "fatG": 70.54,
+   "fiberG": 8.5,
+   "sugarG": 105.85,
+   "sodiumMg": 417,
+   "diet": [
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy",
+    "peanuts",
+    "soy"
+   ],
+   "ingredients": "Vanilla Ice Cream (Milk, Cream, Skim Milk, Sugar, Buttermilk, Whey, Corn Syrup, Natural Flavors, Mono & Diglycerides, Carob Bean Gum, Cellulose Gum, Tara Gum, Carrageenan, Annatto Extract for Color. Contains Milk.), 2% Milk (Pasteurized Reduced Fat Milk, Vitamin A Pamitate, Vitamin D3.), Water, Banana (Bananas, Ascorbic Acid (To Promote Color Retention), Citric Acid), Semi Sweet Chocolate Chips (Semi-Sweet Chocolate (Sugar, Chocolate, Cocoa Butter, Milk Fat, Soy Lecithin, Natural Flavor). Contains Milk & Soy.), Creamy Peanut Butter (Roasted Peanuts, Sugar, Hydrogenated Vegetable Oil (Cottonseed, Soybean and Rapeseed Oil), Salt. Contains Peanuts.), Cocoa Powder (Cocoa.)."
+  },
+  {
+   "id": "301222964",
+   "name": "Purple Mountain 16 oz",
+   "station": "Whirlybird's",
+   "category": "Beverages",
+   "mealPeriod": "Beverage Menu",
+   "date": "2026-11-06",
+   "servingSize": "16 oz",
+   "servingGrams": 547,
+   "calories": 334,
+   "proteinG": 2.18,
+   "carbsG": 76.76,
+   "fatG": 3.73,
+   "fiberG": 7.5,
+   "sugarG": 64.3,
+   "sodiumMg": 42,
+   "diet": [
+    "vegan",
+    "vegetarian"
+   ],
+   "allergens": [],
+   "ingredients": "Water, Blueberries, Strawberries, Acai Puree (Organic Acai, Water, Sugar, Citric Acid.), 100% Apple Juice (Concentrated Apple Juice, Water, Natural Flavors, Ascorbic Acid (Vitamin C), Potassium Citrate.), Spinach, Matcha Green Tea Supplement (Sugar, Matcha Green Tea, Pectin.)."
+  },
+  {
+   "id": "301222965",
+   "name": "Purple Mountain 24 oz",
+   "station": "Whirlybird's",
+   "category": "Beverages",
+   "mealPeriod": "Beverage Menu",
+   "date": "2026-11-06",
+   "servingSize": "24 oz",
+   "servingGrams": 735,
+   "calories": 492,
+   "proteinG": 3.32,
+   "carbsG": 110.65,
+   "fatG": 6.29,
+   "fiberG": 9.5,
+   "sugarG": 94.77,
+   "sodiumMg": 68,
+   "diet": [
+    "vegan",
+    "vegetarian"
+   ],
+   "allergens": [],
+   "ingredients": "Water, Blueberries, Acai Puree (Organic Acai, Water, Sugar, Citric Acid.), Strawberries, 100% Apple Juice (Concentrated Apple Juice, Water, Natural Flavors, Ascorbic Acid (Vitamin C), Potassium Citrate.), Spinach, Matcha Green Tea Supplement (Sugar, Matcha Green Tea, Pectin.)."
+  },
+  {
+   "id": "301222966",
+   "name": "Smango 16 oz",
+   "station": "Whirlybird's",
+   "category": "Beverages",
+   "mealPeriod": "Beverage Menu",
+   "date": "2026-11-06",
+   "servingSize": "16 oz",
+   "servingGrams": 513,
+   "calories": 244,
+   "proteinG": 11.56,
+   "carbsG": 47.73,
+   "fatG": 0.5,
+   "fiberG": 2.7,
+   "sugarG": 41.89,
+   "sodiumMg": 63,
+   "diet": [
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy"
+   ],
+   "ingredients": "Water, Vanilla Greek Yogurt (Cultured Nonfat Milk, Cane Sugar, Water, Fruit Pectin, Natural Flavors, Guar Gum, Locust Bean Gum, Vanilla Extract, Lemon Juice Concentrate. Contains Dairy), Mango (Mango.), Strawberries, 100% Apple Juice (Concentrated Apple Juice, Water, Natural Flavors, Ascorbic Acid (Vitamin C), Potassium Citrate.), Cranberry Juice (High Fructose Corn Syrup, Concentrated Cranberry Juice, Water, Citric Acid, Ascorbic Acid (Vitamin C), Potassium Citrate, Natural Flavor.)."
+  },
+  {
+   "id": "301222967",
+   "name": "Smango 24 oz",
+   "station": "Whirlybird's",
+   "category": "Beverages",
+   "mealPeriod": "Beverage Menu",
+   "date": "2026-11-06",
+   "servingSize": "24 oz",
+   "servingGrams": 688,
+   "calories": 296,
+   "proteinG": 11.95,
+   "carbsG": 60.48,
+   "fatG": 0.67,
+   "fiberG": 3.8,
+   "sugarG": 52.52,
+   "sodiumMg": 70,
+   "diet": [
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy"
+   ],
+   "ingredients": "Water, Mango (Mango.), Vanilla Greek Yogurt (Cultured Nonfat Milk, Cane Sugar, Water, Fruit Pectin, Natural Flavors, Guar Gum, Locust Bean Gum, Vanilla Extract, Lemon Juice Concentrate. Contains Dairy), Strawberries, 100% Apple Juice (Concentrated Apple Juice, Water, Natural Flavors, Ascorbic Acid (Vitamin C), Potassium Citrate.), Cranberry Juice (High Fructose Corn Syrup, Concentrated Cranberry Juice, Water, Citric Acid, Ascorbic Acid (Vitamin C), Potassium Citrate, Natural Flavor.)."
+  },
+  {
+   "id": "301222968",
+   "name": "Strawberry Banana 16 oz",
+   "station": "Whirlybird's",
+   "category": "Beverages",
+   "mealPeriod": "Beverage Menu",
+   "date": "2026-11-06",
+   "servingSize": "16 oz",
+   "servingGrams": 581,
+   "calories": 256,
+   "proteinG": 11.79,
+   "carbsG": 50.42,
+   "fatG": 0.24,
+   "fiberG": 3,
+   "sugarG": 39.81,
+   "sodiumMg": 75,
+   "diet": [
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy"
+   ],
+   "ingredients": "Water, Vanilla Greek Yogurt (Cultured Nonfat Milk, Cane Sugar, Water, Fruit Pectin, Natural Flavors, Guar Gum, Locust Bean Gum, Vanilla Extract, Lemon Juice Concentrate. Contains Dairy), Banana (Bananas, Ascorbic Acid (To Promote Color Retention), Citric Acid), Strawberries, 100% Apple Juice (Concentrated Apple Juice, Water, Natural Flavors, Ascorbic Acid (Vitamin C), Potassium Citrate.)."
+  },
+  {
+   "id": "301222969",
+   "name": "Strawberry Banana 24 oz",
+   "station": "Whirlybird's",
+   "category": "Beverages",
+   "mealPeriod": "Beverage Menu",
+   "date": "2026-11-06",
+   "servingSize": "24 oz",
+   "servingGrams": 722,
+   "calories": 344,
+   "proteinG": 12.78,
+   "carbsG": 71.15,
+   "fatG": 0.32,
+   "fiberG": 5.3,
+   "sugarG": 52.82,
+   "sodiumMg": 80,
+   "diet": [
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy"
+   ],
+   "ingredients": "Water, Vanilla Greek Yogurt (Cultured Nonfat Milk, Cane Sugar, Water, Fruit Pectin, Natural Flavors, Guar Gum, Locust Bean Gum, Vanilla Extract, Lemon Juice Concentrate. Contains Dairy), Banana (Bananas, Ascorbic Acid (To Promote Color Retention), Citric Acid), Strawberries, 100% Apple Juice (Concentrated Apple Juice, Water, Natural Flavors, Ascorbic Acid (Vitamin C), Potassium Citrate.)."
+  },
+  {
+   "id": "301222970",
+   "name": "Strawberry Runner 16 oz",
+   "station": "Whirlybird's",
+   "category": "Beverages",
+   "mealPeriod": "Beverage Menu",
+   "date": "2026-11-06",
+   "servingSize": "16 oz",
+   "servingGrams": 532,
+   "calories": 398,
+   "proteinG": 4.4,
+   "carbsG": 67.06,
+   "fatG": 13.09,
+   "fiberG": 2.1,
+   "sugarG": 54.91,
+   "sodiumMg": 69,
+   "diet": [
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy"
+   ],
+   "ingredients": "Pineapple Juice (Water, Concentrated Pineapple Juice, Ascorbic Acid (Vitamin C).), Vanilla Ice Cream (Milk, Cream, Skim Milk, Sugar, Buttermilk, Whey, Corn Syrup, Natural Flavors, Mono & Diglycerides, Carob Bean Gum, Cellulose Gum, Tara Gum, Carrageenan, Annatto Extract for Color. Contains Milk.), Strawberries, Water, Pineapple Cubes."
+  },
+  {
+   "id": "301222971",
+   "name": "Strawberry Runner 24 oz",
+   "station": "Whirlybird's",
+   "category": "Beverages",
+   "mealPeriod": "Beverage Menu",
+   "date": "2026-11-06",
+   "servingSize": "24 oz",
+   "servingGrams": 801,
+   "calories": 498,
+   "proteinG": 4.66,
+   "carbsG": 91.91,
+   "fatG": 13.16,
+   "fiberG": 3.1,
+   "sugarG": 76.18,
+   "sodiumMg": 72,
+   "diet": [
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy"
+   ],
+   "ingredients": "Pineapple Juice (Water, Concentrated Pineapple Juice, Ascorbic Acid (Vitamin C).), Water, Vanilla Ice Cream (Milk, Cream, Skim Milk, Sugar, Buttermilk, Whey, Corn Syrup, Natural Flavors, Mono & Diglycerides, Carob Bean Gum, Cellulose Gum, Tara Gum, Carrageenan, Annatto Extract for Color. Contains Milk.), Strawberries, Pineapple Cubes."
+  },
+  {
+   "id": "301222972",
+   "name": "Strawberry Rush 24 oz",
+   "station": "Whirlybird's",
+   "category": "Beverages",
+   "mealPeriod": "Beverage Menu",
+   "date": "2026-11-06",
+   "servingSize": "24 oz",
+   "servingGrams": 769,
+   "calories": 561,
+   "proteinG": 3.64,
+   "carbsG": 111.33,
+   "fatG": 13.7,
+   "fiberG": 6.5,
+   "sugarG": 98.25,
+   "sodiumMg": 148,
+   "diet": [
+    "vegan",
+    "vegetarian"
+   ],
+   "allergens": [],
+   "ingredients": "Red Bull (Carbonated Water, Sugar, Glucose, Citric Acid, Taurine, Natural & Artificial Flavors, Sodium Bicarbonate, Magnesium Carbonate, Colors, Caffeine, Niacinamide, Pyridoxine HCl, Calcium Pantothenate, Vitamin B12.), Water, Mango (Mango.), Strawberries, Coconut Cream (Coconut, Sugar, Water, Polysorbate 60, Sorbitan Monostearate, Salt, Propylene Glycol Alginate, Mono And Diglycerides (Emulsifiers), Citric Acid, Guar Gum, Locust Bean.), Cranberry Juice (High Fructose Corn Syrup, Concentrated Cranberry Juice, Water, Citric Acid, Ascorbic Acid (Vitamin C), Potassium Citrate, Natural Flavor.)."
+  },
+  {
+   "id": "301222973",
+   "name": "Tropical Blues 16 oz",
+   "station": "Whirlybird's",
+   "category": "Beverages",
+   "mealPeriod": "Beverage Menu",
+   "date": "2026-11-06",
+   "servingSize": "16 oz",
+   "servingGrams": 525,
+   "calories": 352,
+   "proteinG": 12.22,
+   "carbsG": 60.65,
+   "fatG": 7.11,
+   "fiberG": 4,
+   "sugarG": 53.26,
+   "sodiumMg": 72,
+   "diet": [
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy"
+   ],
+   "ingredients": "Vanilla Greek Yogurt (Cultured Nonfat Milk, Cane Sugar, Water, Fruit Pectin, Natural Flavors, Guar Gum, Locust Bean Gum, Vanilla Extract, Lemon Juice Concentrate. Contains Dairy), Water, Pineapple Juice (Water, Concentrated Pineapple Juice, Ascorbic Acid (Vitamin C).), Blueberries, Pineapple Cubes, Coconut Cream (Coconut, Sugar, Water, Polysorbate 60, Sorbitan Monostearate, Salt, Propylene Glycol Alginate, Mono And Diglycerides (Emulsifiers), Citric Acid, Guar Gum, Locust Bean.)."
+  },
+  {
+   "id": "301222974",
+   "name": "Tropical Blues 24 oz",
+   "station": "Whirlybird's",
+   "category": "Beverages",
+   "mealPeriod": "Beverage Menu",
+   "date": "2026-11-06",
+   "servingSize": "24 oz",
+   "servingGrams": 718,
+   "calories": 506,
+   "proteinG": 13.39,
+   "carbsG": 91.46,
+   "fatG": 10.94,
+   "fiberG": 7.4,
+   "sugarG": 78.54,
+   "sodiumMg": 81,
+   "diet": [
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy"
+   ],
+   "ingredients": "Blueberries, Water, Vanilla Greek Yogurt (Cultured Nonfat Milk, Cane Sugar, Water, Fruit Pectin, Natural Flavors, Guar Gum, Locust Bean Gum, Vanilla Extract, Lemon Juice Concentrate. Contains Dairy), Pineapple Juice (Water, Concentrated Pineapple Juice, Ascorbic Acid (Vitamin C).), Pineapple Cubes, Coconut Cream (Coconut, Sugar, Water, Polysorbate 60, Sorbitan Monostearate, Salt, Propylene Glycol Alginate, Mono And Diglycerides (Emulsifiers), Citric Acid, Guar Gum, Locust Bean.)."
+  },
+  {
+   "id": "301222975",
+   "name": "Tropical Twist 24 oz",
+   "station": "Whirlybird's",
+   "category": "Beverages",
+   "mealPeriod": "Beverage Menu",
+   "date": "2026-11-06",
+   "servingSize": "24 oz",
+   "servingGrams": 676,
+   "calories": 651,
+   "proteinG": 3.88,
+   "carbsG": 118.87,
+   "fatG": 19.93,
+   "fiberG": 4.5,
+   "sugarG": 110.25,
+   "sodiumMg": 158,
+   "diet": [
+    "vegan",
+    "vegetarian"
+   ],
+   "allergens": [],
+   "ingredients": "Red Bull (Carbonated Water, Sugar, Glucose, Citric Acid, Taurine, Natural & Artificial Flavors, Sodium Bicarbonate, Magnesium Carbonate, Colors, Caffeine, Niacinamide, Pyridoxine HCl, Calcium Pantothenate, Vitamin B12.), Coconut Cream (Coconut, Sugar, Water, Polysorbate 60, Sorbitan Monostearate, Salt, Propylene Glycol Alginate, Mono And Diglycerides (Emulsifiers), Citric Acid, Guar Gum, Locust Bean.), Pineapple Juice (Water, Concentrated Pineapple Juice, Ascorbic Acid (Vitamin C).), Water, Mango (Mango.)."
+  },
+  {
+   "id": "301222976",
+   "name": "Matcha Green Tea Supplement",
+   "station": "Whirlybird's",
+   "category": "Toss Ins",
+   "mealPeriod": "Beverage Menu",
+   "date": "2026-11-06",
+   "servingSize": "9 cc Scoop (0.25 oz)",
+   "servingGrams": 7,
+   "calories": 27,
+   "proteinG": 0,
+   "carbsG": 6.28,
+   "fatG": 0,
+   "fiberG": 0,
+   "sugarG": 6.28,
+   "sodiumMg": 0,
+   "diet": [
+    "halal",
+    "vegan",
+    "vegetarian"
+   ],
+   "allergens": [],
+   "ingredients": "Sugar, Matcha Green Tea, Pectin.."
+  },
+  {
+   "id": "301222977",
+   "name": "Soy Protein Blend",
+   "station": "Whirlybird's",
+   "category": "Toss Ins",
+   "mealPeriod": "Beverage Menu",
+   "date": "2026-11-06",
+   "servingSize": "14.7 cc scoop",
+   "servingGrams": 6,
+   "calories": 20,
+   "proteinG": 5,
+   "carbsG": 0,
+   "fatG": 0,
+   "fiberG": 0,
+   "sugarG": 0,
+   "sodiumMg": 15,
+   "diet": [
+    "halal",
+    "vegan",
+    "vegetarian"
+   ],
+   "allergens": [
+    "soy"
+   ],
+   "ingredients": "Soy Protein Isolate."
+  },
+  {
+   "id": "301222978",
+   "name": "Organic Whey Protein Concentrate Powder",
+   "station": "Whirlybird's",
+   "category": "Toss Ins",
+   "mealPeriod": "Beverage Menu",
+   "date": "2026-11-06",
+   "servingSize": "39cc Scoop (0.5 oz)",
+   "servingGrams": 14,
+   "calories": 55,
+   "proteinG": 11.06,
+   "carbsG": 1.13,
+   "fatG": 0.85,
+   "fiberG": 0,
+   "sugarG": 0.85,
+   "sodiumMg": 23,
+   "diet": [
+    "halal",
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy"
+   ],
+   "ingredients": "Whey Protein Concentrate. Contains Milk.."
+  }
+ ]
+}
