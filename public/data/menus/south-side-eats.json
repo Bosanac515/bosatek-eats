@@ -1,572 +1,8 @@
 {
  "venue": "south-side-eats",
- "fetchedAt": "2026-11-06T17:28:36.681Z",
+ "fetchedAt": "2026-11-08T16:39:54.597Z",
  "fixed": false,
  "items": [
-  {
-   "id": "301955922",
-   "name": "Firecracker Chicken",
-   "station": "Fuse",
-   "category": "Entree",
-   "mealPeriod": "Lunch",
-   "date": "2026-11-07",
-   "servingSize": "2 #8 Scoops (6.2 oz) SSE",
-   "servingGrams": 176,
-   "calories": 604,
-   "proteinG": 25.33,
-   "carbsG": 51.7,
-   "fatG": 34.27,
-   "fiberG": 3.2,
-   "sugarG": 26.34,
-   "sodiumMg": 1706,
-   "diet": [],
-   "allergens": [
-    "wheat-gluten"
-   ],
-   "ingredients": "Chicken Popcorn Bites (Chicken, Water, Salt, Sodium Phosphates, Bleached Wheat Flour, Yellow Corn Flour, Salt, Spices (Mustard), Leavening (Sodium Bicarbonate, Sodium Aluminum Phosphate, Sodium Acid Pyrophosphate, Monocalcium Phosphate), Dextrose, Corn Starch, Garlic Powder, Water, Wheat Flour, Yellow Corn Flour, Dextrose, Salt, Spices, Leavening (Sodium Bicarbonate, Sodium Aluminum Phosphate), Extractives Of Paprika, Wheat Flour, Wheat Gluten, Salt, Vegetable Oil. Contains Wheat.), Brown Sugar (Brown Cane Sugar.), Buffalo Sauce (Distilled Vinegar, Aged Cayenne Red Peppers, Salt, Water, Modified Corn Starch, Canola Oil, Paprika, Xanthan Gum, Carrot Fiber, Garlic Powder, Natural Flavor.), Fryer Oil (Fully Refined Canola Oil, TBHQ, Citric Acid, Dimethylpolysiloxane.), Apple Cider Vinegar (Apple Cider Vinegar & Water.), Green Onions, Crushed Red Pepper (Crushed Red Pepper.)."
-  },
-  {
-   "id": "301955923",
-   "name": "Jasmine Rice",
-   "station": "Fuse",
-   "category": "Entree",
-   "mealPeriod": "Lunch",
-   "date": "2026-11-07",
-   "servingSize": "2 - #8 Scoops (6.2 oz) SSE",
-   "servingGrams": 155,
-   "calories": 266,
-   "proteinG": 5.19,
-   "carbsG": 58.21,
-   "fatG": 0.48,
-   "fiberG": 0.9,
-   "sugarG": 0.09,
-   "sodiumMg": 108,
-   "diet": [
-    "halal",
-    "vegan",
-    "vegetarian"
-   ],
-   "allergens": [],
-   "ingredients": "Water, Jasmine Rice, Kosher Salt."
-  },
-  {
-   "id": "301955924",
-   "name": "Lemon Garlic Broccoli",
-   "station": "Fuse",
-   "category": "Entree",
-   "mealPeriod": "Lunch",
-   "date": "2026-11-07",
-   "servingSize": "2.5 oz Serving",
-   "servingGrams": 78,
-   "calories": 50,
-   "proteinG": 2.07,
-   "carbsG": 5.12,
-   "fatG": 3.11,
-   "fiberG": 1.9,
-   "sugarG": 1.27,
-   "sodiumMg": 155,
-   "diet": [
-    "halal",
-    "vegan",
-    "vegetarian"
-   ],
-   "allergens": [],
-   "ingredients": "Broccoli, Fresh Lemon Juice, Canola Olive Oil Blend (Canola Oil, Extra Virgin Olive Oil.), Fresh Garlic, Kosher Salt, Ground Black Pepper."
-  },
-  {
-   "id": "301955933",
-   "name": "-- Rice Bowl --",
-   "station": "Fuse",
-   "category": "Entree",
-   "mealPeriod": "Lunch",
-   "date": "2026-11-07",
-   "servingSize": "Each",
-   "servingGrams": 28,
-   "calories": null,
-   "proteinG": null,
-   "carbsG": null,
-   "fatG": null,
-   "fiberG": null,
-   "sugarG": null,
-   "sodiumMg": null,
-   "diet": [],
-   "allergens": null,
-   "ingredients": "Rice Bowl MDI (SPRING 2027)."
-  },
-  {
-   "id": "301955936",
-   "name": "Baby Carrots",
-   "station": "South Side Eats",
-   "category": "Sides",
-   "mealPeriod": "Lunch",
-   "date": "2026-11-07",
-   "servingSize": "4 oz Portion",
-   "servingGrams": 113,
-   "calories": 40,
-   "proteinG": 0.73,
-   "carbsG": 9.34,
-   "fatG": 0.15,
-   "fiberG": 3.3,
-   "sugarG": 5.4,
-   "sodiumMg": 88,
-   "diet": [
-    "halal",
-    "vegan",
-    "vegetarian"
-   ],
-   "allergens": [],
-   "ingredients": "Carrots baby raw."
-  },
-  {
-   "id": "301955937",
-   "name": "Lowfat Cottage Cheese 2%",
-   "station": "South Side Eats",
-   "category": "Sides",
-   "mealPeriod": "Lunch",
-   "date": "2026-11-07",
-   "servingSize": "1/2 Cup (3.95 oz)",
-   "servingGrams": 112,
-   "calories": 90,
-   "proteinG": 12,
-   "carbsG": 5,
-   "fatG": 2.5,
-   "fiberG": 0,
-   "sugarG": 4,
-   "sodiumMg": 390,
-   "diet": [
-    "halal",
-    "vegetarian"
-   ],
-   "allergens": [
-    "dairy"
-   ],
-   "ingredients": "Cultured Grade A Pasteurized Fat-Free Skim Milk, Cream Sea Salt, Guar Gum, Mono & Diglycerides, Xanthan Gum, Locust Bean Gum. Contains Milk.."
-  },
-  {
-   "id": "301955938",
-   "name": "Hard Cooked Egg",
-   "station": "South Side Eats",
-   "category": "Sides",
-   "mealPeriod": "Lunch",
-   "date": "2026-11-07",
-   "servingSize": "1 Egg",
-   "servingGrams": 44,
-   "calories": 68,
-   "proteinG": 5.54,
-   "carbsG": 0.49,
-   "fatG": 4.67,
-   "fiberG": 0,
-   "sugarG": 0.49,
-   "sodiumMg": 55,
-   "diet": [
-    "halal",
-    "vegetarian"
-   ],
-   "allergens": [
-    "eggs"
-   ],
-   "ingredients": "Hard Cooked Egg."
-  },
-  {
-   "id": "301955939",
-   "name": "Fruit Cup",
-   "station": "South Side Eats",
-   "category": "Sides",
-   "mealPeriod": "Lunch",
-   "date": "2026-11-07",
-   "servingSize": "1 Container",
-   "servingGrams": 156,
-   "calories": 81,
-   "proteinG": 0.94,
-   "carbsG": 21,
-   "fatG": 0.22,
-   "fiberG": 1.6,
-   "sugarG": 17.57,
-   "sodiumMg": 12,
-   "diet": [
-    "halal",
-    "vegan",
-    "vegetarian"
-   ],
-   "allergens": [],
-   "ingredients": "Cubed Honeydew, Red Grapes, Pineapple Cubes."
-  },
-  {
-   "id": "301955941",
-   "name": "Side Salad",
-   "station": "South Side Eats",
-   "category": "Sides",
-   "mealPeriod": "Lunch",
-   "date": "2026-11-07",
-   "servingSize": "1 Salad",
-   "servingGrams": 91,
-   "calories": 16,
-   "proteinG": 0.92,
-   "carbsG": 3.53,
-   "fatG": 0.15,
-   "fiberG": 1.1,
-   "sugarG": 1.7,
-   "sodiumMg": 16,
-   "diet": [
-    "halal",
-    "vegan",
-    "vegetarian"
-   ],
-   "allergens": [],
-   "ingredients": "Spring Lettuce Mix, Grape Tomatoes (Tomatoes.), Fresh Cucumbers, Shredded Carrots (Carrots.)."
-  },
-  {
-   "id": "301955934",
-   "name": "Red Apples",
-   "station": "South Side Eats",
-   "category": "Fruits",
-   "mealPeriod": "Lunch",
-   "date": "2026-11-07",
-   "servingSize": "Each",
-   "servingGrams": 161,
-   "calories": 83,
-   "proteinG": 0.42,
-   "carbsG": 22.17,
-   "fatG": 0.27,
-   "fiberG": 3.9,
-   "sugarG": 16.68,
-   "sodiumMg": 2,
-   "diet": [
-    "halal",
-    "vegan",
-    "vegetarian"
-   ],
-   "allergens": [],
-   "ingredients": "Apples raw with skin (Includes foods for USDA's Food Distribution Program)."
-  },
-  {
-   "id": "301955935",
-   "name": "Bananas",
-   "station": "South Side Eats",
-   "category": "Fruits",
-   "mealPeriod": "Lunch",
-   "date": "2026-11-07",
-   "servingSize": "Ounce",
-   "servingGrams": 28,
-   "calories": 25,
-   "proteinG": 0.31,
-   "carbsG": 6.48,
-   "fatG": 0.09,
-   "fiberG": 0.7,
-   "sugarG": 3.47,
-   "sodiumMg": 0,
-   "diet": [
-    "halal",
-    "vegan",
-    "vegetarian"
-   ],
-   "allergens": [],
-   "ingredients": "Banana raw."
-  },
-  {
-   "id": "301955940",
-   "name": "Oranges",
-   "station": "South Side Eats",
-   "category": "Fruits",
-   "mealPeriod": "Lunch",
-   "date": "2026-11-07",
-   "servingSize": "Orange",
-   "servingGrams": 177,
-   "calories": 83,
-   "proteinG": 1.66,
-   "carbsG": 20.75,
-   "fatG": 0.21,
-   "fiberG": 4.2,
-   "sugarG": 16.51,
-   "sodiumMg": 0,
-   "diet": [
-    "halal",
-    "vegan",
-    "vegetarian"
-   ],
-   "allergens": [],
-   "ingredients": "Oranges raw all commercial varieties."
-  },
-  {
-   "id": "301955925",
-   "name": "Shredded Green Cabbage",
-   "station": "Fuse",
-   "category": "Condiments",
-   "mealPeriod": "Lunch",
-   "date": "2026-11-07",
-   "servingSize": "1 Tbsp (0.25 oz)",
-   "servingGrams": 7,
-   "calories": 2,
-   "proteinG": 0.09,
-   "carbsG": 0.41,
-   "fatG": 0.01,
-   "fiberG": 0.2,
-   "sugarG": 0.23,
-   "sodiumMg": 1,
-   "diet": [
-    "halal",
-    "vegan",
-    "vegetarian"
-   ],
-   "allergens": [],
-   "ingredients": "Cabbage raw."
-  },
-  {
-   "id": "301955926",
-   "name": "Diced Green Onions",
-   "station": "Fuse",
-   "category": "Condiments",
-   "mealPeriod": "Lunch",
-   "date": "2026-11-07",
-   "servingSize": "1 Tbsp (0.13 oz)",
-   "servingGrams": 4,
-   "calories": 1,
-   "proteinG": 0.07,
-   "carbsG": 0.27,
-   "fatG": 0.01,
-   "fiberG": 0.1,
-   "sugarG": 0.09,
-   "sodiumMg": 1,
-   "diet": [
-    "halal",
-    "vegan",
-    "vegetarian"
-   ],
-   "allergens": [],
-   "ingredients": "Green Onions."
-  },
-  {
-   "id": "301955927",
-   "name": "Julienne Red Peppers",
-   "station": "Fuse",
-   "category": "Condiments",
-   "mealPeriod": "Lunch",
-   "date": "2026-11-07",
-   "servingSize": "Ounce",
-   "servingGrams": 28,
-   "calories": 7,
-   "proteinG": 0.28,
-   "carbsG": 1.71,
-   "fatG": 0.09,
-   "fiberG": 0.6,
-   "sugarG": 1.19,
-   "sodiumMg": 1,
-   "diet": [
-    "halal",
-    "vegan",
-    "vegetarian"
-   ],
-   "allergens": [],
-   "ingredients": "Peppers sweet red raw."
-  },
-  {
-   "id": "301955928",
-   "name": "Gluten Free Soy Sauce",
-   "station": "Fuse",
-   "category": "Condiments",
-   "mealPeriod": "Lunch",
-   "date": "2026-11-07",
-   "servingSize": "1 Tbsp (0.625 oz)",
-   "servingGrams": 18,
-   "calories": 10,
-   "proteinG": 0.98,
-   "carbsG": 1.97,
-   "fatG": 0,
-   "fiberG": 0,
-   "sugarG": 0.98,
-   "sodiumMg": 1437,
-   "diet": [
-    "halal",
-    "vegan",
-    "vegetarian"
-   ],
-   "allergens": [
-    "soy"
-   ],
-   "ingredients": "Water, Hydrolyzed Soy Protein, Corn Syrup, Salt, Caramel Color, Lactic Acid, Potassium Sorbate. Contains Soy.."
-  },
-  {
-   "id": "301955929",
-   "name": "Kikkoman Sweet and Sour Sauce",
-   "station": "Fuse",
-   "category": "Condiments",
-   "mealPeriod": "Lunch",
-   "date": "2026-11-07",
-   "servingSize": "1 Tbsp (0.58 oz)",
-   "servingGrams": 17,
-   "calories": 20,
-   "proteinG": 0,
-   "carbsG": 4.4,
-   "fatG": 0,
-   "fiberG": 0,
-   "sugarG": 3.91,
-   "sodiumMg": 88,
-   "diet": [
-    "halal",
-    "vegan",
-    "vegetarian"
-   ],
-   "allergens": [
-    "soy",
-    "wheat-gluten"
-   ],
-   "ingredients": "Water, Sugar, Soy Sauce (Water, Soybeans, Wheat, Salt), Vinegar, Modified Corn Starch, Tomato Paste, Pineapple Juice Concentrate, Onion Powder, Hydrated Green Bell Pepper, Sodium Benzoate, Extractives of Paprika, Citric Acid, Garlic Powder, Disodium Inosinate, Disodium Guanylate, Spice. Contains Soy, Wheat.."
-  },
-  {
-   "id": "301955930",
-   "name": "RES Yum Yum Sauce",
-   "station": "Fuse",
-   "category": "Condiments",
-   "mealPeriod": "Lunch",
-   "date": "2026-11-07",
-   "servingSize": "1 Tbsp (0.5 oz)",
-   "servingGrams": 14,
-   "calories": 78,
-   "proteinG": 0.04,
-   "carbsG": 2.08,
-   "fatG": 7.77,
-   "fiberG": 0,
-   "sugarG": 1.1,
-   "sodiumMg": 136,
-   "diet": [
-    "vegetarian"
-   ],
-   "allergens": [
-    "eggs",
-    "soy"
-   ],
-   "ingredients": "Mayonnaise (Soybean Oil, Water, Vinegar, Eggs, Sugar, Salt, Egg Yolks, Natural Flavor (Mustard), Lemon Juice Concentrate, Dried Garlic, Dried Onion, Paprika, Calcium Disodium EDTA. Contains Eggs.), Kotteri Mirin (Corn Syrup, High Fructose Corn Syrup, Water, Fermented Rice Seasoning (Water, Rice, Corn Syrup, Alcohol, Salt), Vinegar, Sodium Benzoate.), Tomato Catsup (Tomato Concentrate From Red Ripe Tomatoes, Distilled Vinegar, High Fructose Corn Syrup, Corn Syrup, Salt, Spice, Onion Powder, Natural Flavoring.), Gluten Free Soy Sauce (Water, Hydrolyzed Soy Protein, Corn Syrup, Salt, Caramel Color, Lactic Acid, Potassium Sorbate. Contains Soy.), Sriracha (Chili Peppers, Water, Garlic, Sugar, Salt, Acetic Acid, Xanthan Gum, Potassium Sorbate (Preservative).), Pure Cane Sugar (Sugar.), Fresh Lemon Juice."
-  },
-  {
-   "id": "301955931",
-   "name": "Marinated Fried Tofu",
-   "station": "Fuse",
-   "category": "Condiments",
-   "mealPeriod": "Lunch",
-   "date": "2026-11-07",
-   "servingSize": "1 Slice (0.7 oz)",
-   "servingGrams": 43,
-   "calories": 98,
-   "proteinG": 2.04,
-   "carbsG": 16.14,
-   "fatG": 2.7,
-   "fiberG": 0.2,
-   "sugarG": 8.09,
-   "sodiumMg": 375,
-   "diet": [
-    "vegan",
-    "vegetarian"
-   ],
-   "allergens": [
-    "soy"
-   ],
-   "ingredients": "Old Capitol Tofu (Organic Iowa Soybeans, Filtered Water, Nigari (Magnesium Chloride). Contains Soy.), Kotteri Mirin (Corn Syrup, High Fructose Corn Syrup, Water, Fermented Rice Seasoning (Water, Rice, Corn Syrup, Alcohol, Salt), Vinegar, Sodium Benzoate.), Fryer Oil (Fully Refined Canola Oil, TBHQ, Citric Acid, Dimethylpolysiloxane.), Kosher Salt."
-  },
-  {
-   "id": "301955932",
-   "name": "Chili Vinaigrette",
-   "station": "Fuse",
-   "category": "Condiments",
-   "mealPeriod": "Lunch",
-   "date": "2026-11-07",
-   "servingSize": "1 Tbsp (0.5 oz)",
-   "servingGrams": 14,
-   "calories": 23,
-   "proteinG": 0.11,
-   "carbsG": 5.39,
-   "fatG": 0,
-   "fiberG": 0.1,
-   "sugarG": 2.72,
-   "sodiumMg": 156,
-   "diet": [
-    "vegan",
-    "vegetarian"
-   ],
-   "allergens": [
-    "soy"
-   ],
-   "ingredients": "Kotteri Mirin (Corn Syrup, High Fructose Corn Syrup, Water, Fermented Rice Seasoning (Water, Rice, Corn Syrup, Alcohol, Salt), Vinegar, Sodium Benzoate.), Rice Vinegar (Rice Vinegar, Water.), Sambal Oelek Chili Paste (Chili, Salt, Distilled Vinegar, Potassium Sorbate, Sodium Bisulphite, Xanthan Gum.), Gluten Free Soy Sauce (Water, Hydrolyzed Soy Protein, Corn Syrup, Salt, Caramel Color, Lactic Acid, Potassium Sorbate. Contains Soy.), Ginger Garlic Paste (Ginger, Garlic, Salt, Acidity Regulator (Acetic Acid), Emulsifier (Xanthan Gum) Preservative (Sodium Benzoate).)."
-  },
-  {
-   "id": "301955942",
-   "name": "Ranch Dressing",
-   "station": "South Side Eats",
-   "category": "Condiments",
-   "mealPeriod": "Lunch",
-   "date": "2026-11-07",
-   "servingSize": "1 Tbsp (0.5 oz)",
-   "servingGrams": 15,
-   "calories": 50,
-   "proteinG": 0.24,
-   "carbsG": 0.35,
-   "fatG": 5.29,
-   "fiberG": 0,
-   "sugarG": 0.4,
-   "sodiumMg": 119,
-   "diet": [
-    "vegetarian"
-   ],
-   "allergens": [
-    "dairy",
-    "eggs",
-    "soy"
-   ],
-   "ingredients": "Lowfat Buttermilk (Grade A Cultured Lowfat Milk, Locust Bean Gum, Modified Cornstarch, Carrageenan, Salt, Sodium Citrate, Mono And Diglycerides, Vitamin A Palmitate, Vitamin D3.), Mayonnaise (Soybean Oil, Water, Vinegar, Eggs, Sugar, Salt, Egg Yolks, Natural Flavor (Mustard), Lemon Juice Concentrate, Dried Garlic, Dried Onion, Paprika, Calcium Disodium EDTA. Contains Eggs.), Hidden Valley Ranch Mix (Salt, Monosodium Glutamate, Garlic, Modified Corn Starch, Spices, Onion, Maltodextrin, Natural Flavor, Guar Gum, Calcium Stearate. Contains Milk, Soy.)."
-  },
-  {
-   "id": "301955943",
-   "name": "Blueberry Muffin",
-   "station": "South Side Eats",
-   "category": "Muffins, Breads, and Pastries",
-   "mealPeriod": "Bakery Menu",
-   "date": "2026-11-07",
-   "servingSize": "Muffin",
-   "servingGrams": 141,
-   "calories": 439,
-   "proteinG": 5.02,
-   "carbsG": 57.09,
-   "fatG": 22.21,
-   "fiberG": 1.1,
-   "sugarG": 34.98,
-   "sodiumMg": 385,
-   "diet": [
-    "vegetarian"
-   ],
-   "allergens": [
-    "dairy",
-    "eggs",
-    "soy",
-    "wheat-gluten"
-   ],
-   "ingredients": "Creme Cake Base (Sugar, Enriched Wheat Flour Bleached (Flour, Niacin, Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Food Starch-modified, Soybean Oil, Defatted Soy Flour, Eggs, Leavening (Aluminum Sulfate, Baking Soda, Sodium Aluminum Phosphate), Mono- And Diglycerides, Natural And Artificial Flavor, Propylene Glycol Mono- And Diesters Of Fatty Acids, Salt, Sodium Stearoyl Lactylate, Vital Wheat Gluten, Whey. Contains Milk, Wheat, Egg, Soy.), Egg (Whole Eggs, Sodium Phosphate, Citric Acid, Nisin Preparation. Contains Eggs.), Wild Blueberries, Canola Oil, Water, Blueberry Pie Filling (Blueberries, Water, High Fructose Corn Syrup, Modified Food Starch (Corn), Potassium Sorbate (Preservative), Artificial Flavor, Citric Acid.), White Coarse Sugar (Sugar, Confectioners Glaze, Carnauba Wax.)."
-  },
-  {
-   "id": "301955944",
-   "name": "Snickerdoodle Cookie",
-   "station": "South Side Eats",
-   "category": "Desserts",
-   "mealPeriod": "Bakery Menu",
-   "date": "2026-11-07",
-   "servingSize": "1 Cookie",
-   "servingGrams": 43,
-   "calories": 310,
-   "proteinG": 3,
-   "carbsG": 44,
-   "fatG": 13,
-   "fiberG": 0,
-   "sugarG": 25,
-   "sodiumMg": 300,
-   "diet": [
-    "vegetarian"
-   ],
-   "allergens": [
-    "dairy",
-    "eggs",
-    "soy",
-    "wheat-gluten"
-   ],
-   "ingredients": "Snickerdoodle Cookie Dough (Sugar, Enriched Wheat Flour (Bleached & Unbleached Wheat Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Butter, Pasteurized Eggs, Invert Sugar, Nonfat Dry Milk, Water, Modified Food Starch, Vinegar, Spices, Natural Flavors, Baking Soda, Salt, Soy Lecithin, Guar Gum. Contains Wheat, Soy, Milk, Egg.)."
-  },
   {
    "id": "301955945",
    "name": "Biscuit",
@@ -3066,6 +2502,470 @@
     "wheat-gluten"
    ],
    "ingredients": "European Shortbread Cookie Dough (Enriched Wheat Flour (Bleached Wheat Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, And Folic Acid), Sugar, Butter, Eggs (Pasteurized), Nonfat Dry Milk, Whey Protein, Water, Modified Food Starch, N & A Flavoring, Baking Soda, Salt, Soy Lecithin, Guar Gum. Contains Wheat, Milk, Egg, Soy.)."
+  },
+  {
+   "id": "302282223",
+   "name": "Caramel French Toast Casserole",
+   "station": "Dash",
+   "category": "Entree",
+   "mealPeriod": "Lunch",
+   "date": "2026-11-14",
+   "servingSize": "2 Squares (1/50) SSE",
+   "servingGrams": 185,
+   "calories": 282,
+   "proteinG": 11.32,
+   "carbsG": 37.9,
+   "fatG": 8.51,
+   "fiberG": 0.8,
+   "sugarG": 20.47,
+   "sodiumMg": 324,
+   "diet": [
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy",
+    "eggs",
+    "wheat-gluten"
+   ],
+   "ingredients": "Whole Milk (Grade A Milk, Vitamin D3.), Egg (Whole Eggs, Sodium Phosphate, Citric Acid, Nisin Preparation. Contains Eggs.), Vienna Bread (Unbleached Enriched Flour (Wheat Flour, Malted Barley Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Water, Yeast, Fully Refined Soybean Oil, Wheat Gluten, Granulated Sugar, Salt, Calcium Propionate (to retain freshness), Dough Improver (Malted Wheat Flour, Enzymes, Ascorbic Acid), Enriched Wheat Flour (Wheat Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin , Folic Acid), Enzymes. Contains Wheat.), Caramel Sauce (Corn Syrup, High Fructose Corn Syrup, Sugar, Condensed Nonfat Milk, Heavy Whipping Cream, Water, Salt, Artificial Flavor, Pectin, Disodium Phosphate. Contains Milk.), Brown Sugar (Brown Cane Sugar.), Vanilla Extract (Water, Alcohol, Vanillin, Artificial Flavorings, Citric Acid.), Cinnamon, Powdered Sugar (Cane Sugar, Corn Starch.), Ground Nutmeg, Kosher Salt."
+  },
+  {
+   "id": "302282224",
+   "name": "Scrambled Eggs",
+   "station": "Dash",
+   "category": "Entree",
+   "mealPeriod": "Lunch",
+   "date": "2026-11-14",
+   "servingSize": "2 - #8 Scoops (6.4 oz) SSE",
+   "servingGrams": 180,
+   "calories": 292,
+   "proteinG": 22.96,
+   "carbsG": 0.05,
+   "fatG": 19.96,
+   "fiberG": 0,
+   "sugarG": 0,
+   "sodiumMg": 574,
+   "diet": [
+    "halal",
+    "vegetarian"
+   ],
+   "allergens": [
+    "eggs"
+   ],
+   "ingredients": "Egg (Whole Eggs, Sodium Phosphate, Citric Acid, Nisin Preparation. Contains Eggs.), Canola Oil, Kosher Salt, Ground White Pepper."
+  },
+  {
+   "id": "302282225",
+   "name": "Turkey Bacon",
+   "station": "Dash",
+   "category": "Entree",
+   "mealPeriod": "Lunch",
+   "date": "2026-11-14",
+   "servingSize": "2 Slices (0.4 oz) SSE",
+   "servingGrams": 11,
+   "calories": 49,
+   "proteinG": 4.05,
+   "carbsG": 0.4,
+   "fatG": 3.24,
+   "fiberG": 0,
+   "sugarG": 0.4,
+   "sodiumMg": 251,
+   "diet": [],
+   "allergens": null,
+   "ingredients": "Turkey Bacon (Dark And White Turkey, Sugar, Salt, Natural Smoke Flavoring, Sodium Erythorbate, Natural Flavoring, Sodium Nitrite, Vegetable Oil.)."
+  },
+  {
+   "id": "302282226",
+   "name": "Fajita Vegetables",
+   "station": "Dash",
+   "category": "Entree",
+   "mealPeriod": "Lunch",
+   "date": "2026-11-14",
+   "servingSize": "1/4 Cup (2.28 oz)",
+   "servingGrams": 118,
+   "calories": 44,
+   "proteinG": 1.48,
+   "carbsG": 7.42,
+   "fatG": 0.83,
+   "fiberG": 1.5,
+   "sugarG": 4.43,
+   "sodiumMg": 55,
+   "diet": [
+    "halal",
+    "vegan",
+    "vegetarian"
+   ],
+   "allergens": [],
+   "ingredients": "Fajita Vegetable Blend (Red Peppers, Green Peppers, Yellow Peppers, Onions.), Canola Oil, Kosher Salt, Ground Black Pepper."
+  },
+  {
+   "id": "302282227",
+   "name": "Tater Tots",
+   "station": "Dash",
+   "category": "Entree",
+   "mealPeriod": "Lunch",
+   "date": "2026-11-14",
+   "servingSize": "4 oz Portion",
+   "servingGrams": 122,
+   "calories": 294,
+   "proteinG": 2.67,
+   "carbsG": 25.34,
+   "fatG": 19.74,
+   "fiberG": 2.7,
+   "sugarG": 1.33,
+   "sodiumMg": 447,
+   "diet": [
+    "vegan",
+    "vegetarian"
+   ],
+   "allergens": [],
+   "ingredients": "Tater Tots (Potatoes, Vegetable Oil (Contains One Or More Of The Following: Soybean, Canola, Palm, Hydrogenated Cottonseed, Sunflower), Salt, Corn Flour, Dehydrated Potato, Disodium Dihydrogen Pyrophosphate (To Promote Color Retention), Dextrose.), Fryer Oil (Fully Refined Canola Oil, TBHQ, Citric Acid, Dimethylpolysiloxane.), Kosher Salt, Ground Black Pepper."
+  },
+  {
+   "id": "302282234",
+   "name": "Baby Carrots",
+   "station": "South Side Eats",
+   "category": "Sides",
+   "mealPeriod": "Lunch",
+   "date": "2026-11-14",
+   "servingSize": "4 oz Portion",
+   "servingGrams": 113,
+   "calories": 40,
+   "proteinG": 0.73,
+   "carbsG": 9.34,
+   "fatG": 0.15,
+   "fiberG": 3.3,
+   "sugarG": 5.4,
+   "sodiumMg": 88,
+   "diet": [
+    "halal",
+    "vegan",
+    "vegetarian"
+   ],
+   "allergens": [],
+   "ingredients": "Carrots baby raw."
+  },
+  {
+   "id": "302282235",
+   "name": "Lowfat Cottage Cheese 2%",
+   "station": "South Side Eats",
+   "category": "Sides",
+   "mealPeriod": "Lunch",
+   "date": "2026-11-14",
+   "servingSize": "1/2 Cup (3.95 oz)",
+   "servingGrams": 112,
+   "calories": 90,
+   "proteinG": 12,
+   "carbsG": 5,
+   "fatG": 2.5,
+   "fiberG": 0,
+   "sugarG": 4,
+   "sodiumMg": 390,
+   "diet": [
+    "halal",
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy"
+   ],
+   "ingredients": "Cultured Grade A Pasteurized Fat-Free Skim Milk, Cream Sea Salt, Guar Gum, Mono & Diglycerides, Xanthan Gum, Locust Bean Gum. Contains Milk.."
+  },
+  {
+   "id": "302282236",
+   "name": "Hard Cooked Egg",
+   "station": "South Side Eats",
+   "category": "Sides",
+   "mealPeriod": "Lunch",
+   "date": "2026-11-14",
+   "servingSize": "1 Egg",
+   "servingGrams": 44,
+   "calories": 68,
+   "proteinG": 5.54,
+   "carbsG": 0.49,
+   "fatG": 4.67,
+   "fiberG": 0,
+   "sugarG": 0.49,
+   "sodiumMg": 55,
+   "diet": [
+    "halal",
+    "vegetarian"
+   ],
+   "allergens": [
+    "eggs"
+   ],
+   "ingredients": "Hard Cooked Egg."
+  },
+  {
+   "id": "302282237",
+   "name": "Fruit Cup",
+   "station": "South Side Eats",
+   "category": "Sides",
+   "mealPeriod": "Lunch",
+   "date": "2026-11-14",
+   "servingSize": "1 Container",
+   "servingGrams": 156,
+   "calories": 81,
+   "proteinG": 0.94,
+   "carbsG": 21,
+   "fatG": 0.22,
+   "fiberG": 1.6,
+   "sugarG": 17.57,
+   "sodiumMg": 12,
+   "diet": [
+    "halal",
+    "vegan",
+    "vegetarian"
+   ],
+   "allergens": [],
+   "ingredients": "Cubed Honeydew, Red Grapes, Pineapple Cubes."
+  },
+  {
+   "id": "302282239",
+   "name": "Side Salad",
+   "station": "South Side Eats",
+   "category": "Sides",
+   "mealPeriod": "Lunch",
+   "date": "2026-11-14",
+   "servingSize": "1 Salad",
+   "servingGrams": 91,
+   "calories": 16,
+   "proteinG": 0.92,
+   "carbsG": 3.53,
+   "fatG": 0.15,
+   "fiberG": 1.1,
+   "sugarG": 1.7,
+   "sodiumMg": 16,
+   "diet": [
+    "halal",
+    "vegan",
+    "vegetarian"
+   ],
+   "allergens": [],
+   "ingredients": "Spring Lettuce Mix, Grape Tomatoes (Tomatoes.), Fresh Cucumbers, Shredded Carrots (Carrots.)."
+  },
+  {
+   "id": "302282232",
+   "name": "Red Apples",
+   "station": "South Side Eats",
+   "category": "Fruits",
+   "mealPeriod": "Lunch",
+   "date": "2026-11-14",
+   "servingSize": "Each",
+   "servingGrams": 161,
+   "calories": 83,
+   "proteinG": 0.42,
+   "carbsG": 22.17,
+   "fatG": 0.27,
+   "fiberG": 3.9,
+   "sugarG": 16.68,
+   "sodiumMg": 2,
+   "diet": [
+    "halal",
+    "vegan",
+    "vegetarian"
+   ],
+   "allergens": [],
+   "ingredients": "Apples raw with skin (Includes foods for USDA's Food Distribution Program)."
+  },
+  {
+   "id": "302282233",
+   "name": "Bananas",
+   "station": "South Side Eats",
+   "category": "Fruits",
+   "mealPeriod": "Lunch",
+   "date": "2026-11-14",
+   "servingSize": "Ounce",
+   "servingGrams": 28,
+   "calories": 25,
+   "proteinG": 0.31,
+   "carbsG": 6.48,
+   "fatG": 0.09,
+   "fiberG": 0.7,
+   "sugarG": 3.47,
+   "sodiumMg": 0,
+   "diet": [
+    "halal",
+    "vegan",
+    "vegetarian"
+   ],
+   "allergens": [],
+   "ingredients": "Banana raw."
+  },
+  {
+   "id": "302282238",
+   "name": "Oranges",
+   "station": "South Side Eats",
+   "category": "Fruits",
+   "mealPeriod": "Lunch",
+   "date": "2026-11-14",
+   "servingSize": "Orange",
+   "servingGrams": 177,
+   "calories": 83,
+   "proteinG": 1.66,
+   "carbsG": 20.75,
+   "fatG": 0.21,
+   "fiberG": 4.2,
+   "sugarG": 16.51,
+   "sodiumMg": 0,
+   "diet": [
+    "halal",
+    "vegan",
+    "vegetarian"
+   ],
+   "allergens": [],
+   "ingredients": "Oranges raw all commercial varieties."
+  },
+  {
+   "id": "302282228",
+   "name": "Whipped Butter Blend Spread",
+   "station": "Dash",
+   "category": "Condiments",
+   "mealPeriod": "Lunch",
+   "date": "2026-11-14",
+   "servingSize": "1 Tbsp (0.31 oz)",
+   "servingGrams": 9,
+   "calories": 60,
+   "proteinG": 0,
+   "carbsG": 0,
+   "fatG": 6,
+   "fiberG": 0,
+   "sugarG": 0,
+   "sodiumMg": 60,
+   "diet": [
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy",
+    "soy"
+   ],
+   "ingredients": "Soybean Oil, Palm Oil, Water, Whey Solids, Butter (Cream, Salt), Salt, Sodium Benzoate And Potassium Sorbate (As Preservatives), Soy Lecithin, Vegetable Mono & Diglycerides, Buttermilk Solids, Citric Acid, Natural & Artificial Flavor, Vitamin A Palmitate, Beta Carotene. Contains Milk & Soy.."
+  },
+  {
+   "id": "302282229",
+   "name": "Cheddar Jack Cheese",
+   "station": "Dash",
+   "category": "Condiments",
+   "mealPeriod": "Lunch",
+   "date": "2026-11-14",
+   "servingSize": "1 Tbsp (0.25 oz)",
+   "servingGrams": 7,
+   "calories": 28,
+   "proteinG": 1.52,
+   "carbsG": 0.25,
+   "fatG": 2.28,
+   "fiberG": 0,
+   "sugarG": 0,
+   "sodiumMg": 43,
+   "diet": [
+    "halal",
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy"
+   ],
+   "ingredients": "Monterey Jack Cheese (Pasteurized Milk, Cheese Culture, Salt, Enzymes), Cheddar Cheese (Pasteurized Milk, Cheese Culture, Salt, Enzymes, Annatto, Potato Starch, Powdered Cellulose. Contains Milk.."
+  },
+  {
+   "id": "302282230",
+   "name": "Pancake Syrup",
+   "station": "Dash",
+   "category": "Condiments",
+   "mealPeriod": "Lunch",
+   "date": "2026-11-14",
+   "servingSize": "1 Tbsp (0.73 oz)",
+   "servingGrams": 21,
+   "calories": 53,
+   "proteinG": 0,
+   "carbsG": 13.84,
+   "fatG": 0,
+   "fiberG": 0,
+   "sugarG": 7.45,
+   "sodiumMg": 24,
+   "diet": [
+    "vegan",
+    "vegetarian"
+   ],
+   "allergens": [],
+   "ingredients": "Corn Syrup, Water, Salt, Cellulose Gum, Sodium Hexametaphosphate, Natural & Artificial Flavors, Phosphoric Acid, Caramel Color, Benzoic Acid, Potassium Sorbate & Sodium Benzoate (As Preservatives).."
+  },
+  {
+   "id": "302282231",
+   "name": "Whipped Topping",
+   "station": "Dash",
+   "category": "Condiments",
+   "mealPeriod": "Lunch",
+   "date": "2026-11-14",
+   "servingSize": "1 3/4 tsp (0.2 oz)",
+   "servingGrams": 6,
+   "calories": 16,
+   "proteinG": 0,
+   "carbsG": 1.26,
+   "fatG": 1.26,
+   "fiberG": 0,
+   "sugarG": 1.26,
+   "sodiumMg": 0,
+   "diet": [
+    "vegan",
+    "vegetarian"
+   ],
+   "allergens": [
+    "soy"
+   ],
+   "ingredients": "Non Dairy Whip Topping (Water, High Fructose Corn Syrup, Hydrogenated Vegetable Oil (Palm, Palm Kernel, Coconut And/Or Cottonseed), Carbohydrate Gum, Sugar, Polysorbate 60, Polyglycerol Esters Of Fatty Acids, Salt, Sodium Alginate, Soy Lecithin, Artificial Flavor, Sodium Citrate, Natural Flavor, Colored With (Turmeric And Annatto Extracts). Contains Soy.)."
+  },
+  {
+   "id": "302282241",
+   "name": "Blueberry Muffin",
+   "station": "South Side Eats",
+   "category": "Muffins, Breads, and Pastries",
+   "mealPeriod": "Bakery Menu",
+   "date": "2026-11-14",
+   "servingSize": "Muffin",
+   "servingGrams": 141,
+   "calories": 439,
+   "proteinG": 5.02,
+   "carbsG": 57.09,
+   "fatG": 22.21,
+   "fiberG": 1.1,
+   "sugarG": 34.98,
+   "sodiumMg": 385,
+   "diet": [
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy",
+    "eggs",
+    "soy",
+    "wheat-gluten"
+   ],
+   "ingredients": "Creme Cake Base (Sugar, Enriched Wheat Flour Bleached (Flour, Niacin, Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Food Starch-modified, Soybean Oil, Defatted Soy Flour, Eggs, Leavening (Aluminum Sulfate, Baking Soda, Sodium Aluminum Phosphate), Mono- And Diglycerides, Natural And Artificial Flavor, Propylene Glycol Mono- And Diesters Of Fatty Acids, Salt, Sodium Stearoyl Lactylate, Vital Wheat Gluten, Whey. Contains Milk, Wheat, Egg, Soy.), Egg (Whole Eggs, Sodium Phosphate, Citric Acid, Nisin Preparation. Contains Eggs.), Wild Blueberries, Canola Oil, Water, Blueberry Pie Filling (Blueberries, Water, High Fructose Corn Syrup, Modified Food Starch (Corn), Potassium Sorbate (Preservative), Artificial Flavor, Citric Acid.), White Coarse Sugar (Sugar, Confectioners Glaze, Carnauba Wax.)."
+  },
+  {
+   "id": "302282242",
+   "name": "Lemon Cooler Cookie",
+   "station": "South Side Eats",
+   "category": "Desserts",
+   "mealPeriod": "Bakery Menu",
+   "date": "2026-11-14",
+   "servingSize": "1 Cookie",
+   "servingGrams": 43,
+   "calories": 190,
+   "proteinG": 1.6,
+   "carbsG": 26,
+   "fatG": 9,
+   "fiberG": 0.4,
+   "sugarG": 16.5,
+   "sodiumMg": 151,
+   "diet": [
+    "vegetarian"
+   ],
+   "allergens": [
+    "dairy",
+    "eggs",
+    "soy",
+    "wheat-gluten"
+   ],
+   "ingredients": "All Butter Lemon Cooler Cookie Dough (Enriched Wheat Flour (Bleached And Unbleached Wheat Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin), Sugar, White Confectionery Chunks (Sugar, Palm Kernel Oil, Nonfat Milk Powder, Whey Powder, Palm Oil, Soy Lecithin, Vanilla), Butter, Coconut, Eggs (Pasteurized), Water, Invert Sugar, Natural Flavor, Modified Food Starch, Baking Soda, Salt, Soy Lecithin, Vanilla, Fd&c Food Coloring (Yellow #5). Contains Wheat, Milk, Egg, Soy.)."
   }
  ]
 }
