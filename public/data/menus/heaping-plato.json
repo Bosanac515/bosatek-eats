@@ -1,15 +1,15 @@
 {
  "venue": "heaping-plato",
- "fetchedAt": "2026-11-06T17:28:56.600Z",
+ "fetchedAt": "2026-11-12T18:15:34.568Z",
  "fixed": true,
  "items": [
   {
-   "id": "301220480",
+   "id": "302254988",
    "name": "Pita",
    "station": "Heaping Plato",
    "category": "Base Options",
    "mealPeriod": "Lunch",
-   "date": "2026-11-06",
+   "date": "2026-11-12",
    "servingSize": "1 Pita",
    "servingGrams": 85,
    "calories": 200,
@@ -30,12 +30,12 @@
    "ingredients": "Wheat Flour Enriched (Wheat Flour, Malted Barley Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin And Folic Acid), Water, Yeast, Soybean Oil, Sugar, Vital Wheat Gluten, Salt, Dough Conditioner (Weat Flour, Calcium Sulfate, Acacia Gum, Mono & Diglycerides, Enzymes), Calcium Propionate As A Mold Inhibitor, Oat Fiber, Potassium Sorbate. Contains Wheat.."
   },
   {
-   "id": "301220484",
+   "id": "302254992",
    "name": "Turmeric Rice",
    "station": "Heaping Plato",
    "category": "Base Options",
    "mealPeriod": "Lunch",
-   "date": "2026-11-06",
+   "date": "2026-11-12",
    "servingSize": "2 - 4 oz Spoodles (5.67 oz)",
    "servingGrams": 175,
    "calories": 272,
@@ -54,12 +54,12 @@
    "ingredients": "Water, Basmati Rice, Diced Onion, Vegetable Base (Custom Culinary: Tomato Juice From Concentrate, Salt, Yeast Extract, Sugar, Xanthan Gum, Carrot Extract, Natural Flavors, Onion Extract. Knorr: Vegetable Juice Blend (Water, Carrot Juice Concentrate, Celery Juice Concentrate, Onion Juice Concentrate, Cabbage Juice, Tomato Juice Concentrate, Salt, Citric Acid), Maltodextrin, Salt, Sugar, Yeast Extract, Garlic Powder, Mushroom Juice Concentrate, Spice, Natural Flavor.), Canola Oil, Extra Virgin Olive Oil (Extra Virgin Olive Oil.), Fresh Cilantro, Ground Black Pepper, Ground Turmeric, Cumin Powder, Bay Leaves."
   },
   {
-   "id": "301220485",
+   "id": "302254993",
    "name": "Salad Mix",
    "station": "Heaping Plato",
    "category": "Base Options",
    "mealPeriod": "Lunch",
-   "date": "2026-11-06",
+   "date": "2026-11-12",
    "servingSize": "2 Cup (1.4 oz)",
    "servingGrams": 40,
    "calories": 8,
@@ -78,12 +78,12 @@
    "ingredients": "Shredded Romaine Lettuce, Spring Lettuce Mix, Shredded Red Cabbage."
   },
   {
-   "id": "301220479",
+   "id": "302254987",
    "name": "Beef-Lamb Shawarma",
    "station": "Heaping Plato",
    "category": "Protein Options",
    "mealPeriod": "Lunch",
-   "date": "2026-11-06",
+   "date": "2026-11-12",
    "servingSize": "3 oz Spoodle (2.58 oz)",
    "servingGrams": 99,
    "calories": 268,
@@ -103,12 +103,12 @@
    "ingredients": "Halal Gyro Cone (Halal Beef, Halal Lamb, Water, Breadcrumbs (Wheat Flour, Sugar, Salt, Soybean Oil, Yeast), Soy Protein Concentrate, Sodium Phosphate, Spices, Natural Flavorings. Contains Wheat & Soy.)."
   },
   {
-   "id": "301220481",
+   "id": "302254989",
    "name": "Cumin Lemon Garlic Chicken",
    "station": "Heaping Plato",
    "category": "Protein Options",
    "mealPeriod": "Lunch",
-   "date": "2026-11-06",
+   "date": "2026-11-12",
    "servingSize": "3 oz Spoodle (2.88 oz)",
    "servingGrams": 113,
    "calories": 228,
@@ -125,12 +125,12 @@
    "ingredients": "Halal Chicken Thigh, Canola Oil, Fresh Garlic, Fresh Lemon Juice, Kosher Salt, Cumin Seed, Smoked Paprika (Paprika And Silicon Dioxide.), Ground Sumac (Sumac.), Ground Turmeric, Ground Black Pepper."
   },
   {
-   "id": "301220482",
+   "id": "302254990",
    "name": "Falafel",
    "station": "Heaping Plato",
    "category": "Protein Options",
    "mealPeriod": "Lunch",
-   "date": "2026-11-06",
+   "date": "2026-11-12",
    "servingSize": "3 Balls",
    "servingGrams": 138,
    "calories": 361,
@@ -149,12 +149,12 @@
    "ingredients": "Water, Garbanzo Beans, Fryer Oil (Fully Refined Canola Oil, TBHQ, Citric Acid, Dimethylpolysiloxane.), Fresh Garlic, Canola Oil, Fresh Cilantro, Vegetable Base (Custom Culinary: Tomato Juice From Concentrate, Salt, Yeast Extract, Sugar, Xanthan Gum, Carrot Extract, Natural Flavors, Onion Extract. Knorr: Vegetable Juice Blend (Water, Carrot Juice Concentrate, Celery Juice Concentrate, Onion Juice Concentrate, Cabbage Juice, Tomato Juice Concentrate, Salt, Citric Acid), Maltodextrin, Salt, Sugar, Yeast Extract, Garlic Powder, Mushroom Juice Concentrate, Spice, Natural Flavor.), Shallot, Parsley, Kosher Salt, Cumin Powder, Ground Coriander, Baking Soda (Sodium Bicarbonate.), Cayenne Pepper, Ground White Pepper, Ground Cardamom."
   },
   {
-   "id": "301220483",
+   "id": "302254991",
    "name": "Spicy Falafel",
    "station": "Heaping Plato",
    "category": "Protein Options",
    "mealPeriod": "Lunch",
-   "date": "2026-11-06",
+   "date": "2026-11-12",
    "servingSize": "3 Balls",
    "servingGrams": 138,
    "calories": 349,
@@ -173,12 +173,12 @@
    "ingredients": "Water, Garbanzo Beans, Fryer Oil (Fully Refined Canola Oil, TBHQ, Citric Acid, Dimethylpolysiloxane.), Fresh Garlic, Jalapeno Peppers, Canola Oil, Fresh Cilantro, Vegetable Base (Custom Culinary: Tomato Juice From Concentrate, Salt, Yeast Extract, Sugar, Xanthan Gum, Carrot Extract, Natural Flavors, Onion Extract. Knorr: Vegetable Juice Blend (Water, Carrot Juice Concentrate, Celery Juice Concentrate, Onion Juice Concentrate, Cabbage Juice, Tomato Juice Concentrate, Salt, Citric Acid), Maltodextrin, Salt, Sugar, Yeast Extract, Garlic Powder, Mushroom Juice Concentrate, Spice, Natural Flavor.), Shallot, Parsley, Kosher Salt, Crushed Red Pepper (Crushed Red Pepper.), Cayenne Pepper, Cumin Powder, Ground Coriander, Baking Soda (Sodium Bicarbonate.), Ground White Pepper, Ground Cardamom."
   },
   {
-   "id": "301220487",
+   "id": "302254995",
    "name": "Feta Cheese",
    "station": "Heaping Plato",
    "category": "Toppings",
    "mealPeriod": "Lunch",
-   "date": "2026-11-06",
+   "date": "2026-11-12",
    "servingSize": "2 Tbsp (0.5 oz)",
    "servingGrams": 14,
    "calories": 35,
@@ -198,12 +198,12 @@
    "ingredients": "Pasteurized Part-Skim Milk, Cheese Culture, Salt, Enzymes. Contains Milk.."
   },
   {
-   "id": "301220488",
+   "id": "302254996",
    "name": "Crispy Garbanzo Beans",
    "station": "Heaping Plato",
    "category": "Toppings",
    "mealPeriod": "Lunch",
-   "date": "2026-11-06",
+   "date": "2026-11-12",
    "servingSize": "2 Tbsp (0.9 oz)",
    "servingGrams": 40,
    "calories": 36,
@@ -222,12 +222,12 @@
    "ingredients": "Garbanzo Beans (Prepared Garbanzo Beans, Water, Salt, Calcium Chloride, Calcium Disodium EDTA.), Fryer Oil (Fully Refined Canola Oil, TBHQ, Citric Acid, Dimethylpolysiloxane.), Kosher Salt, Ground Black Pepper, Smoked Paprika (Paprika And Silicon Dioxide.)."
   },
   {
-   "id": "301220490",
+   "id": "302254998",
    "name": "Cucumber Salad",
    "station": "Heaping Plato",
    "category": "Toppings",
    "mealPeriod": "Lunch",
-   "date": "2026-11-06",
+   "date": "2026-11-12",
    "servingSize": "2 Tbsp (0.8 oz)",
    "servingGrams": 23,
    "calories": 8,
@@ -246,12 +246,12 @@
    "ingredients": "Fresh Cucumbers, Diced Tomatoes (Tomatoes.), Lemons, Diced Red Onion, Canola Olive Oil Blend (Canola Oil, Extra Virgin Olive Oil.), Parsley, Kosher Salt, Ground Black Pepper, Fresh Mint Leaves, Ground Sumac (Sumac.), Oregano."
   },
   {
-   "id": "301220491",
+   "id": "302254999",
    "name": "Hummus",
    "station": "Heaping Plato",
    "category": "Toppings",
    "mealPeriod": "Lunch",
-   "date": "2026-11-06",
+   "date": "2026-11-12",
    "servingSize": "2 Tbsp (1.15 oz)",
    "servingGrams": 39,
    "calories": 79,
@@ -272,12 +272,12 @@
    "ingredients": "Garbanzo Beans (Prepared Garbanzo Beans, Water, Salt, Calcium Chloride, Calcium Disodium EDTA.), Canola Olive Oil Blend (Canola Oil, Extra Virgin Olive Oil.), Tahini Paste (Sesame Seeds.), Fresh Lemon Juice, Balsamic Vinegar (Balsamic Vinegar, Sulfur Dioxide.), Fresh Garlic, Kosher Salt, Cumin Powder, Ground White Pepper."
   },
   {
-   "id": "301220492",
+   "id": "302255000",
    "name": "Shredded Romaine Lettuce",
    "station": "Heaping Plato",
    "category": "Toppings",
    "mealPeriod": "Lunch",
-   "date": "2026-11-06",
+   "date": "2026-11-12",
    "servingSize": "1/4 Cup (0.5 oz)",
    "servingGrams": 14,
    "calories": 3,
@@ -296,12 +296,12 @@
    "ingredients": "Romaine lettuce raw endive."
   },
   {
-   "id": "301220493",
+   "id": "302255001",
    "name": "Diced Red Onion",
    "station": "Heaping Plato",
    "category": "Toppings",
    "mealPeriod": "Lunch",
-   "date": "2026-11-06",
+   "date": "2026-11-12",
    "servingSize": "2 Tbsp (1 oz)",
    "servingGrams": 28,
    "calories": 11,
@@ -320,12 +320,12 @@
    "ingredients": "Onions raw."
   },
   {
-   "id": "301220494",
+   "id": "302255002",
    "name": "Pickled Red Cabbage",
    "station": "Heaping Plato",
    "category": "Toppings",
    "mealPeriod": "Lunch",
-   "date": "2026-11-06",
+   "date": "2026-11-12",
    "servingSize": "2 Tbsp (0.66 oz)",
    "servingGrams": 32,
    "calories": 26,
@@ -344,12 +344,12 @@
    "ingredients": "Shredded Red Cabbage, Water, Organic Blue Agave, Apple Cider Vinegar (Apple Cider Vinegar & Water.), Ground Turmeric, Ground Coriander, Ground Ginger, Kosher Salt, Parsley, Oregano."
   },
   {
-   "id": "301220495",
+   "id": "302255003",
    "name": "Marinated Golden Raisins",
    "station": "Heaping Plato",
    "category": "Toppings",
    "mealPeriod": "Lunch",
-   "date": "2026-11-06",
+   "date": "2026-11-12",
    "servingSize": ".67 oz",
    "servingGrams": 50,
    "calories": 72,
@@ -368,12 +368,12 @@
    "ingredients": "Water, Golden Raisins (Dried Thompson Seedless Grapes, Sunflower Oil, Sulfur Dioxide.), White Balsamic Vinegar (Wine Vinegar, Cooked Grape Must, Concentrated Grape Must, Caramel Color.), Pure Cane Sugar (Sugar.)."
   },
   {
-   "id": "301220497",
+   "id": "302255005",
    "name": "Harissa Sauce",
    "station": "Heaping Plato",
    "category": "Toppings",
    "mealPeriod": "Lunch",
-   "date": "2026-11-06",
+   "date": "2026-11-12",
    "servingSize": "2 Tbsp (0.94 oz)",
    "servingGrams": 27,
    "calories": 38,
@@ -392,12 +392,12 @@
    "ingredients": "Red Bell Pepper, Canola Oil, Fresh Lemon Juice, Kosher Salt, Smoked Paprika (Paprika And Silicon Dioxide.), Ground Black Pepper, Ground Coriander, Crushed Red Pepper (Crushed Red Pepper.), Pure Cane Sugar (Sugar.), Ground Cloves."
   },
   {
-   "id": "301220498",
+   "id": "302255006",
    "name": "Tzatziki Sauce",
    "station": "Heaping Plato",
    "category": "Toppings",
    "mealPeriod": "Lunch",
-   "date": "2026-11-06",
+   "date": "2026-11-12",
    "servingSize": "2 Tbsp (1.03 oz)",
    "servingGrams": 29,
    "calories": 19,
@@ -417,12 +417,12 @@
    "ingredients": "Plain Greek Yogurt (Cultured Nonfat Milk. Contains Live And Active Cultures: S. Thermophilus, L. Bulgaricus, L. Acidophilus, Bifidus, L. Casei And L. Rhamnosus. Contains Milk), Fresh Cucumbers, Fresh Lemon Juice, Extra Virgin Olive Oil (Extra Virgin Olive Oil.), Kosher Salt, Fresh Garlic, Ground White Pepper, Fresh Dill Weed."
   },
   {
-   "id": "301220499",
+   "id": "302255007",
    "name": "Tabbouleh",
    "station": "Heaping Plato",
    "category": "Toppings",
    "mealPeriod": "Lunch",
-   "date": "2026-11-06",
+   "date": "2026-11-12",
    "servingSize": "2 Tbsp (0.7 oz)",
    "servingGrams": 22,
    "calories": 30,
@@ -443,12 +443,12 @@
    "ingredients": "Water, Fresh Cucumbers, Diced Tomatoes (Tomatoes.), Parsley, Bulgur (Whole Grain Red Wheat.), Canola Olive Oil Blend (Canola Oil, Extra Virgin Olive Oil.), Lemons, Diced Red Onion, Kosher Salt, Ground Black Pepper."
   },
   {
-   "id": "301220500",
+   "id": "302255008",
    "name": "Diced Tomatoes",
    "station": "Heaping Plato",
    "category": "Toppings",
    "mealPeriod": "Lunch",
-   "date": "2026-11-06",
+   "date": "2026-11-12",
    "servingSize": "2 Tbsp (0.82 oz)",
    "servingGrams": 23,
    "calories": 4,
@@ -467,12 +467,12 @@
    "ingredients": "Tomatoes.."
   },
   {
-   "id": "301220486",
+   "id": "302254994",
    "name": "Roasted Vegetables",
    "station": "Heaping Plato",
    "category": "Sides",
    "mealPeriod": "Lunch",
-   "date": "2026-11-06",
+   "date": "2026-11-12",
    "servingSize": "#8 Scoop (1/2 cup)",
    "servingGrams": 214,
    "calories": 294,
@@ -491,12 +491,12 @@
    "ingredients": "Diced Carrots, Diced Sweet Potato, Diced Red Onion, Canola Olive Oil Blend (Canola Oil, Extra Virgin Olive Oil.), Diced Parsnips, Brown Sugar (Brown Cane Sugar.), Chopped Kale, Fresh Garlic, Kosher Salt, Ground Ginger, Ground Allspice, Cinnamon."
   },
   {
-   "id": "301220502",
+   "id": "302255010",
    "name": "Fountain Drink",
    "station": "Heaping Plato",
    "category": "Sides",
    "mealPeriod": "Lunch",
-   "date": "2026-11-06",
+   "date": "2026-11-12",
    "servingSize": "Each",
    "servingGrams": 28,
    "calories": null,
@@ -511,12 +511,12 @@
    "ingredients": "Beverage Fountain Retail and GET & Go MDI (FALL 2026)."
   },
   {
-   "id": "301220505",
+   "id": "302255013",
    "name": "Falafel",
    "station": "Heaping Plato",
    "category": "Sides",
    "mealPeriod": "Lunch",
-   "date": "2026-11-06",
+   "date": "2026-11-12",
    "servingSize": "2 Balls",
    "servingGrams": 92,
    "calories": 241,
@@ -535,12 +535,12 @@
    "ingredients": "Water, Garbanzo Beans, Fryer Oil (Fully Refined Canola Oil, TBHQ, Citric Acid, Dimethylpolysiloxane.), Fresh Garlic, Canola Oil, Fresh Cilantro, Vegetable Base (Custom Culinary: Tomato Juice From Concentrate, Salt, Yeast Extract, Sugar, Xanthan Gum, Carrot Extract, Natural Flavors, Onion Extract. Knorr: Vegetable Juice Blend (Water, Carrot Juice Concentrate, Celery Juice Concentrate, Onion Juice Concentrate, Cabbage Juice, Tomato Juice Concentrate, Salt, Citric Acid), Maltodextrin, Salt, Sugar, Yeast Extract, Garlic Powder, Mushroom Juice Concentrate, Spice, Natural Flavor.), Shallot, Parsley, Kosher Salt, Cumin Powder, Ground Coriander, Baking Soda (Sodium Bicarbonate.), Cayenne Pepper, Ground White Pepper, Ground Cardamom."
   },
   {
-   "id": "301220506",
+   "id": "302255014",
    "name": "Spicy Falafel",
    "station": "Heaping Plato",
    "category": "Sides",
    "mealPeriod": "Lunch",
-   "date": "2026-11-06",
+   "date": "2026-11-12",
    "servingSize": "2 Balls",
    "servingGrams": 92,
    "calories": 232,
@@ -559,12 +559,12 @@
    "ingredients": "Water, Garbanzo Beans, Fryer Oil (Fully Refined Canola Oil, TBHQ, Citric Acid, Dimethylpolysiloxane.), Fresh Garlic, Jalapeno Peppers, Canola Oil, Fresh Cilantro, Vegetable Base (Custom Culinary: Tomato Juice From Concentrate, Salt, Yeast Extract, Sugar, Xanthan Gum, Carrot Extract, Natural Flavors, Onion Extract. Knorr: Vegetable Juice Blend (Water, Carrot Juice Concentrate, Celery Juice Concentrate, Onion Juice Concentrate, Cabbage Juice, Tomato Juice Concentrate, Salt, Citric Acid), Maltodextrin, Salt, Sugar, Yeast Extract, Garlic Powder, Mushroom Juice Concentrate, Spice, Natural Flavor.), Shallot, Parsley, Kosher Salt, Crushed Red Pepper (Crushed Red Pepper.), Cayenne Pepper, Cumin Powder, Ground Coriander, Baking Soda (Sodium Bicarbonate.), Ground White Pepper, Ground Cardamom."
   },
   {
-   "id": "301220507",
+   "id": "302255015",
    "name": "Hummus and Pita",
    "station": "Heaping Plato",
    "category": "Sides",
    "mealPeriod": "Lunch",
-   "date": "2026-11-06",
+   "date": "2026-11-12",
    "servingSize": "1 Serving",
    "servingGrams": 200,
    "calories": 501,
@@ -585,12 +585,12 @@
    "ingredients": "Garbanzo Beans (Prepared Garbanzo Beans, Water, Salt, Calcium Chloride, Calcium Disodium EDTA.), Patent Bread Flour (Wheat Flour, Malted Barley Flour, Niacin, Iron, Thiamin Mononitrate, Riboflavin, Folic Acid. Contains: Wheat), Water, Canola Olive Oil Blend (Canola Oil, Extra Virgin Olive Oil.), Tahini Paste (Sesame Seeds.), Whole Wheat Flour (Whole Wheat Flour.), Fresh Lemon Juice, All Purpose Flour (Bleached Wheat Flour, Malted Barley Flour, Niacin, Iron, Thiamin Mononitrate, Riboflavin, Folic Acid. Contains Wheat.), Extra Virgin Olive Oil (Extra Virgin Olive Oil.), Balsamic Vinegar (Balsamic Vinegar, Sulfur Dioxide.), Fresh Garlic, Kosher Salt, Pure Cane Sugar (Sugar.), Instant Yeast (Yeast, Sorbitan Monostearate, Ascorbic Acid), Smoked Paprika (Paprika And Silicon Dioxide.), Cumin Powder, Ground White Pepper, Fryer Oil (Fully Refined Canola Oil, TBHQ, Citric Acid, Dimethylpolysiloxane.), Ground Black Pepper."
   },
   {
-   "id": "301220508",
+   "id": "302255016",
    "name": "Turmeric Rice",
    "station": "Heaping Plato",
    "category": "Sides",
    "mealPeriod": "Lunch",
-   "date": "2026-11-06",
+   "date": "2026-11-12",
    "servingSize": "2 - 4 oz Spoodles (5.67 oz)",
    "servingGrams": 175,
    "calories": 272,
@@ -609,12 +609,12 @@
    "ingredients": "Water, Basmati Rice, Diced Onion, Vegetable Base (Custom Culinary: Tomato Juice From Concentrate, Salt, Yeast Extract, Sugar, Xanthan Gum, Carrot Extract, Natural Flavors, Onion Extract. Knorr: Vegetable Juice Blend (Water, Carrot Juice Concentrate, Celery Juice Concentrate, Onion Juice Concentrate, Cabbage Juice, Tomato Juice Concentrate, Salt, Citric Acid), Maltodextrin, Salt, Sugar, Yeast Extract, Garlic Powder, Mushroom Juice Concentrate, Spice, Natural Flavor.), Canola Oil, Extra Virgin Olive Oil (Extra Virgin Olive Oil.), Fresh Cilantro, Ground Black Pepper, Ground Turmeric, Cumin Powder, Bay Leaves."
   },
   {
-   "id": "301220489",
+   "id": "302254997",
    "name": "Creamy Plato Dressing",
    "station": "Heaping Plato",
    "category": "Dressings",
    "mealPeriod": "Lunch",
-   "date": "2026-11-06",
+   "date": "2026-11-12",
    "servingSize": "2 Tbsp (0.91 oz)",
    "servingGrams": 27,
    "calories": 129,
@@ -634,12 +634,12 @@
    "ingredients": "Canola Olive Oil Blend (Canola Oil, Extra Virgin Olive Oil.), Feta Cheese (Pasteurized Part-Skim Milk, Cheese Culture, Salt, Enzymes. Contains Milk.), White Balsamic Vinegar (Wine Vinegar, Cooked Grape Must, Concentrated Grape Must, Caramel Color.), Lowfat Buttermilk (Grade A Cultured Lowfat Milk, Locust Bean Gum, Modified Cornstarch, Carrageenan, Salt, Sodium Citrate, Mono And Diglycerides, Vitamin A Palmitate, Vitamin D3.), Fresh Garlic, Kosher Salt, Oregano, Parsley, Xanthan Gum (Xanthan Gum), Crushed Red Pepper (Crushed Red Pepper.), Ground Black Pepper."
   },
   {
-   "id": "301220496",
+   "id": "302255004",
    "name": "Cilantro Chili Sauce",
    "station": "Heaping Plato",
    "category": "Dressings",
    "mealPeriod": "Lunch",
-   "date": "2026-11-06",
+   "date": "2026-11-12",
    "servingSize": "2 Tbsp (0.84 oz)",
    "servingGrams": 24,
    "calories": 67,
@@ -658,12 +658,12 @@
    "ingredients": "Fresh Lemon Juice, Canola Olive Oil Blend (Canola Oil, Extra Virgin Olive Oil.), Thai Green Chili Pepper, Fresh Cilantro, Fresh Garlic, Parsley, Kosher Salt, Cumin Powder, Ground Coriander, Smoked Paprika (Paprika And Silicon Dioxide.), Ground Cardamom, Crushed Red Pepper (Crushed Red Pepper.), Ground Black Pepper."
   },
   {
-   "id": "301220501",
+   "id": "302255009",
    "name": "Walnut Baklava",
    "station": "Heaping Plato",
    "category": "Desserts",
    "mealPeriod": "Lunch",
-   "date": "2026-11-06",
+   "date": "2026-11-12",
    "servingSize": "Each",
    "servingGrams": 57,
    "calories": 230,
@@ -684,12 +684,12 @@
    "ingredients": "Kronos Premium Baklava, High Fructose Corn Syrup, Enriched Wheat Flour (Wheat Flour, Niacin, Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Corn Syrup, Water, Palm Oil, Walnuts, Corn Starch, Toasted Soybeans, Canola Oil, Modified Corn Starch, Sugar, Salt, Cultured Wheat Flour, Honey, Cinnamon, Lemon Juice, Dextrose, Vital Wheat Gluten, Vanillin (Artificial Flavor), Preservatives (Sodium Propionate, Potassium Sorbate). Contains Wheat, Tree Nuts, Soy.."
   },
   {
-   "id": "301220504",
+   "id": "302255012",
    "name": "Cookie",
    "station": "Heaping Plato",
    "category": "Desserts",
    "mealPeriod": "Lunch",
-   "date": "2026-11-06",
+   "date": "2026-11-12",
    "servingSize": "Each",
    "servingGrams": 28,
    "calories": null,
@@ -704,12 +704,12 @@
    "ingredients": "Cookie HP MDI (SUMMER 2026)."
   },
   {
-   "id": "301220527",
+   "id": "302255035",
    "name": "Chocolate Chip Cookie",
    "station": "Bakery",
    "category": "Cookies, Bars, and Desserts",
    "mealPeriod": "Bakery Menu",
-   "date": "2026-11-06",
+   "date": "2026-11-12",
    "servingSize": "1 Cookie",
    "servingGrams": 85,
    "calories": 363,
@@ -731,21 +731,21 @@
    "ingredients": "Chocolate Chip Dough Cookie (Semi-Sweet Chocolate Chips (Sugar, Chocolate Liquor, Cocoa Butter, Milkfat, Soy Lecithin, Natural Flavors), Enriched Wheat Flour (Bleached And Unbleached Wheat Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin), Butter, Brown Sugar, Sugar, Eggs (Pasteurized), Water, Invert Sugar, Modified Food Starch, Salt, Vanilla, Baking Soda, Soy Lecithin, Guar Gum. Contains Eggs, Milk, Soy, Wheat.)."
   },
   {
-   "id": "301220528",
-   "name": "Triple Chocolate Cookie",
+   "id": "302255036",
+   "name": "M&M Cookie",
    "station": "Bakery",
    "category": "Cookies, Bars, and Desserts",
    "mealPeriod": "Bakery Menu",
-   "date": "2026-11-06",
+   "date": "2026-11-12",
    "servingSize": "1 Cookie",
    "servingGrams": 85,
-   "calories": 311,
-   "proteinG": 3.49,
-   "carbsG": 43.63,
-   "fatG": 14.37,
-   "fiberG": 1.7,
-   "sugarG": 28.83,
-   "sodiumMg": 205,
+   "calories": 354,
+   "proteinG": 4.3,
+   "carbsG": 52.43,
+   "fatG": 14.31,
+   "fiberG": 1.3,
+   "sugarG": 29.92,
+   "sodiumMg": 429,
    "diet": [
     "vegetarian"
    ],
@@ -755,7 +755,7 @@
     "soy",
     "wheat-gluten"
    ],
-   "ingredients": "Triple Chocolate Cookie Dough (Enriched Wheat Flour (Bleached And Unbleached Wheat Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin), Sugar, White Confectionery Chunks (Sugar, Palm Kernel Oil, Nonfat Milk Powder, Whey Powder, Palm Oil, Soy Lecithin, Vanilla), Butter, Chocolate Chunks (Sugar, Chocolate Liquor, Cocoa Butter, Dextrose, Soy Lecithin, Vanilla), Eggs (Pasteurized), Cocoa, Water, Salt, Molasses, Baking Soda, Soy Lecithin, Vanilla. Contains Eggs, Milk, Soy, Wheat.)."
+   "ingredients": "M&M Cookie Dough (Enriched Wheat Flour (Unbleached And Bleached Wheat Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin), M&M's Plain Candy (Milk Chocolate [Sugar, Chocolate, Cocoa Butter, Skim Milk, Milkfat, Lactose, Soy Lecithin, Salt, Artificial Flavors, Sugar, Corn Syrup, Gum Acacia], Coloring Includes: [Red 40 Lake, Yellow 6, Blue 2 Lake, Yellow 5, Blue 1 Lake, Red 40, Blue 11, Dextrin], Margarine (Soybean And/or Palm Oil, Water, Salt, Mono And Diglycerides, Soy Lecithin, Natural Flavor, Annatto Color, Vitamin A Palmitate), Brown Sugar, Sugar, Eggs (Pasteurized), Invert Sugar, Butter, Water, Modified Food Starch, Salt, N & A Flavoring, Baking Soda, Soy Lecithin, Guar Gum. Contains Eggs, Milk, Soy, Wheat.)."
   }
  ]
 }
